@@ -1,0 +1,1635 @@
+2025-02-14T13:19:32.552Z - info: Website generation started at 9:19:32 pm
+2025-02-14T13:19:32.974Z - info: Building assets...
+2025-02-14T13:19:32.994Z - info: Assets built
+2025-02-14T13:19:32.994Z - info: Generating pages...
+2025-02-14T13:19:33.109Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:19:33.109Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:19:33.110Z - info: Pages built
+2025-02-14T13:19:33.277Z - info: Site data built
+2025-02-14T13:19:33.277Z - info: Website generation complete! Total build time: 0.78s
+2025-02-14T13:19:33.294Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-14T13:19:33.294Z - info: Press CTRL+C to stop ...
+2025-02-14T13:22:38.797Z - info: [9:22:38 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:22:39.808Z - info: Rebuilding 1 pages
+2025-02-14T13:22:39.867Z - info: Site data built
+2025-02-14T13:22:39.868Z - info: Pages rebuilt
+2025-02-14T13:22:39.868Z - info: Website regeneration complete! Total build time: 0.061s
+2025-02-14T13:22:43.807Z - info: [9:22:43 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:22:44.825Z - info: Rebuilding 1 pages
+2025-02-14T13:22:44.858Z - info: Site data built
+2025-02-14T13:22:44.859Z - info: Pages rebuilt
+2025-02-14T13:22:44.859Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T13:23:04.231Z - info: [9:23:04 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:23:05.239Z - info: Rebuilding 1 pages
+2025-02-14T13:23:05.277Z - info: Site data built
+2025-02-14T13:23:05.277Z - info: Pages rebuilt
+2025-02-14T13:23:05.277Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-14T13:23:11.991Z - info: [9:23:11 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:23:13.003Z - info: Rebuilding 1 pages
+2025-02-14T13:23:13.034Z - info: Site data built
+2025-02-14T13:23:13.034Z - info: Pages rebuilt
+2025-02-14T13:23:13.034Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:25:18.050Z - info: [9:25:18 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:25:19.054Z - info: Rebuilding 1 pages
+2025-02-14T13:25:19.093Z - info: Site data built
+2025-02-14T13:25:19.093Z - info: Pages rebuilt
+2025-02-14T13:25:19.093Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-14T13:25:19.934Z - info: [9:25:19 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:25:20.938Z - info: Rebuilding 1 pages
+2025-02-14T13:25:20.973Z - info: Site data built
+2025-02-14T13:25:20.973Z - info: Pages rebuilt
+2025-02-14T13:25:20.973Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T13:25:24.406Z - info: [9:25:24 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:25:25.421Z - info: Rebuilding 1 pages
+2025-02-14T13:25:25.449Z - info: Site data built
+2025-02-14T13:25:25.450Z - info: Pages rebuilt
+2025-02-14T13:25:25.450Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:25:44.392Z - info: [9:25:44 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:25:45.402Z - info: Rebuilding 1 pages
+2025-02-14T13:25:45.441Z - info: Site data built
+2025-02-14T13:25:45.441Z - info: Pages rebuilt
+2025-02-14T13:25:45.441Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T13:25:47.780Z - info: [9:25:47 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:25:48.784Z - info: Rebuilding 1 pages
+2025-02-14T13:25:48.818Z - info: Site data built
+2025-02-14T13:25:48.818Z - info: Pages rebuilt
+2025-02-14T13:25:48.818Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T13:25:52.563Z - info: [9:25:52 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:25:53.566Z - info: Rebuilding 1 pages
+2025-02-14T13:25:53.596Z - info: Site data built
+2025-02-14T13:25:53.596Z - info: Pages rebuilt
+2025-02-14T13:25:53.596Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T13:25:55.865Z - info: [9:25:55 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:25:56.882Z - info: Rebuilding 1 pages
+2025-02-14T13:25:56.917Z - info: Site data built
+2025-02-14T13:25:56.917Z - info: Pages rebuilt
+2025-02-14T13:25:56.917Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T13:26:02.876Z - info: [9:26:02 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:03.883Z - info: Rebuilding 1 pages
+2025-02-14T13:26:03.915Z - info: Site data built
+2025-02-14T13:26:03.915Z - info: Pages rebuilt
+2025-02-14T13:26:03.915Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:26:07.940Z - info: [9:26:07 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:08.948Z - info: Rebuilding 1 pages
+2025-02-14T13:26:08.988Z - info: Site data built
+2025-02-14T13:26:08.988Z - info: Pages rebuilt
+2025-02-14T13:26:08.988Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T13:26:16.940Z - info: [9:26:16 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:17.947Z - info: Rebuilding 1 pages
+2025-02-14T13:26:17.979Z - info: Site data built
+2025-02-14T13:26:17.979Z - info: Pages rebuilt
+2025-02-14T13:26:17.979Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:26:18.494Z - info: [9:26:18 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:19.496Z - info: Rebuilding 1 pages
+2025-02-14T13:26:19.526Z - info: Site data built
+2025-02-14T13:26:19.527Z - info: Pages rebuilt
+2025-02-14T13:26:19.527Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:26:20.634Z - info: [9:26:20 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:21.645Z - info: Rebuilding 1 pages
+2025-02-14T13:26:21.677Z - info: Site data built
+2025-02-14T13:26:21.677Z - info: Pages rebuilt
+2025-02-14T13:26:21.678Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:26:21.752Z - info: [9:26:21 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:22.763Z - info: Rebuilding 1 pages
+2025-02-14T13:26:22.792Z - info: Site data built
+2025-02-14T13:26:22.792Z - info: Pages rebuilt
+2025-02-14T13:26:22.793Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T13:26:28.954Z - info: [9:26:28 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:29.962Z - info: Rebuilding 1 pages
+2025-02-14T13:26:29.992Z - info: Site data built
+2025-02-14T13:26:29.992Z - info: Pages rebuilt
+2025-02-14T13:26:29.992Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:26:33.457Z - info: [9:26:33 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:34.464Z - info: Rebuilding 1 pages
+2025-02-14T13:26:34.499Z - info: Site data built
+2025-02-14T13:26:34.500Z - info: Pages rebuilt
+2025-02-14T13:26:34.500Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T13:26:42.076Z - info: [9:26:42 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:43.079Z - info: Rebuilding 1 pages
+2025-02-14T13:26:43.112Z - info: Site data built
+2025-02-14T13:26:43.112Z - info: Pages rebuilt
+2025-02-14T13:26:43.113Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T13:26:50.499Z - info: [9:26:50 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:51.510Z - info: Rebuilding 1 pages
+2025-02-14T13:26:51.550Z - info: Site data built
+2025-02-14T13:26:51.550Z - info: Pages rebuilt
+2025-02-14T13:26:51.551Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-14T13:26:56.919Z - info: [9:26:56 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:26:57.926Z - info: Rebuilding 1 pages
+2025-02-14T13:26:57.961Z - info: Site data built
+2025-02-14T13:26:57.961Z - info: Pages rebuilt
+2025-02-14T13:26:57.961Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T13:27:04.657Z - info: [9:27:04 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:27:05.674Z - info: Rebuilding 1 pages
+2025-02-14T13:27:05.706Z - info: Site data built
+2025-02-14T13:27:05.706Z - info: Pages rebuilt
+2025-02-14T13:27:05.706Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:27:20.433Z - info: [9:27:20 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:27:21.440Z - info: Rebuilding 1 pages
+2025-02-14T13:27:21.475Z - info: Site data built
+2025-02-14T13:27:21.475Z - info: Pages rebuilt
+2025-02-14T13:27:21.476Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T13:27:22.642Z - info: [9:27:22 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:27:23.656Z - info: Rebuilding 1 pages
+2025-02-14T13:27:23.688Z - info: Site data built
+2025-02-14T13:27:23.689Z - info: Pages rebuilt
+2025-02-14T13:27:23.689Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T13:27:39.885Z - info: [9:27:39 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:27:40.901Z - info: Rebuilding 1 pages
+2025-02-14T13:27:40.930Z - info: Site data built
+2025-02-14T13:27:40.930Z - info: Pages rebuilt
+2025-02-14T13:27:40.930Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:27:52.613Z - info: [9:27:52 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:27:53.618Z - info: Rebuilding 1 pages
+2025-02-14T13:27:53.648Z - info: Site data built
+2025-02-14T13:27:53.649Z - info: Pages rebuilt
+2025-02-14T13:27:53.649Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:27:57.907Z - info: [9:27:57 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:27:58.919Z - info: Rebuilding 1 pages
+2025-02-14T13:27:58.950Z - info: Site data built
+2025-02-14T13:27:58.950Z - info: Pages rebuilt
+2025-02-14T13:27:58.951Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:28:13.328Z - info: [9:28:13 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:28:14.331Z - info: Rebuilding 1 pages
+2025-02-14T13:28:14.373Z - info: Site data built
+2025-02-14T13:28:14.374Z - info: Pages rebuilt
+2025-02-14T13:28:14.374Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-14T13:28:17.398Z - info: [9:28:17 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:28:18.414Z - info: Rebuilding 1 pages
+2025-02-14T13:28:18.440Z - info: Site data built
+2025-02-14T13:28:18.440Z - info: Pages rebuilt
+2025-02-14T13:28:18.440Z - info: Website regeneration complete! Total build time: 0.027s
+2025-02-14T13:28:23.646Z - info: [9:28:23 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:28:24.653Z - info: Rebuilding 1 pages
+2025-02-14T13:28:24.680Z - info: Site data built
+2025-02-14T13:28:24.681Z - info: Pages rebuilt
+2025-02-14T13:28:24.681Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:28:26.834Z - info: [9:28:26 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:28:27.849Z - info: Rebuilding 1 pages
+2025-02-14T13:28:27.878Z - info: Site data built
+2025-02-14T13:28:27.878Z - info: Pages rebuilt
+2025-02-14T13:28:27.878Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:28:29.928Z - info: [9:28:29 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:28:30.932Z - info: Rebuilding 1 pages
+2025-02-14T13:28:30.959Z - info: Site data built
+2025-02-14T13:28:30.959Z - info: Pages rebuilt
+2025-02-14T13:28:30.959Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T13:28:32.650Z - info: [9:28:32 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:28:33.664Z - info: Rebuilding 1 pages
+2025-02-14T13:28:33.690Z - info: Site data built
+2025-02-14T13:28:33.690Z - info: Pages rebuilt
+2025-02-14T13:28:33.690Z - info: Website regeneration complete! Total build time: 0.026s
+2025-02-14T13:28:41.307Z - info: [9:28:41 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:28:42.313Z - info: Rebuilding 1 pages
+2025-02-14T13:28:42.344Z - info: Site data built
+2025-02-14T13:28:42.345Z - info: Pages rebuilt
+2025-02-14T13:28:42.345Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:29:03.241Z - info: [9:29:03 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:29:04.246Z - info: Rebuilding 1 pages
+2025-02-14T13:29:04.277Z - info: Site data built
+2025-02-14T13:29:04.277Z - info: Pages rebuilt
+2025-02-14T13:29:04.277Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:29:45.260Z - info: [9:29:45 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:29:46.273Z - info: Rebuilding 1 pages
+2025-02-14T13:29:46.317Z - info: Site data built
+2025-02-14T13:29:46.317Z - info: Pages rebuilt
+2025-02-14T13:29:46.317Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-14T13:30:11.671Z - info: [9:30:11 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T13:30:12.690Z - info: Rebuilding 1 pages
+2025-02-14T13:30:12.726Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:12.726Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:12.727Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:12.727Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:12.727Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:12.730Z - info: Site data built
+2025-02-14T13:30:12.730Z - info: Pages rebuilt
+2025-02-14T13:30:12.730Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-14T13:30:16.576Z - info: [9:30:16 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T13:30:17.587Z - info: Rebuilding 1 pages
+2025-02-14T13:30:17.615Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:17.615Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:17.620Z - info: Site data built
+2025-02-14T13:30:17.620Z - info: Pages rebuilt
+2025-02-14T13:30:17.621Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:30:23.867Z - info: [9:30:23 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T13:30:24.887Z - info: Rebuilding 1 pages
+2025-02-14T13:30:24.918Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:24.918Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:24.918Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:24.918Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:24.918Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T13:30:24.921Z - info: Site data built
+2025-02-14T13:30:24.921Z - info: Pages rebuilt
+2025-02-14T13:30:24.921Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T13:30:43.871Z - info: [9:30:43 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:30:44.880Z - info: Rebuilding 1 pages
+2025-02-14T13:30:44.916Z - info: Site data built
+2025-02-14T13:30:44.917Z - info: Pages rebuilt
+2025-02-14T13:30:44.917Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T13:30:48.421Z - info: [9:30:48 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:30:49.426Z - info: Rebuilding 1 pages
+2025-02-14T13:30:49.459Z - info: Site data built
+2025-02-14T13:30:49.459Z - info: Pages rebuilt
+2025-02-14T13:30:49.459Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T13:30:49.847Z - info: [9:30:49 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:30:50.852Z - info: Rebuilding 1 pages
+2025-02-14T13:30:50.891Z - info: Site data built
+2025-02-14T13:30:50.891Z - info: Pages rebuilt
+2025-02-14T13:30:50.891Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T13:30:54.355Z - info: [9:30:54 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:30:55.359Z - info: Rebuilding 1 pages
+2025-02-14T13:30:55.395Z - info: Site data built
+2025-02-14T13:30:55.395Z - info: Pages rebuilt
+2025-02-14T13:30:55.396Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T13:31:11.588Z - info: [9:31:11 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:31:12.592Z - info: Rebuilding 1 pages
+2025-02-14T13:31:12.631Z - info: Site data built
+2025-02-14T13:31:12.631Z - info: Pages rebuilt
+2025-02-14T13:31:12.631Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T13:32:45.882Z - info: [9:32:45 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:32:46.899Z - info: Rebuilding 1 pages
+2025-02-14T13:32:46.937Z - info: Site data built
+2025-02-14T13:32:46.938Z - info: Pages rebuilt
+2025-02-14T13:32:46.938Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T13:32:49.695Z - info: [9:32:49 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:32:50.698Z - info: Rebuilding 1 pages
+2025-02-14T13:32:50.728Z - info: Site data built
+2025-02-14T13:32:50.728Z - info: Pages rebuilt
+2025-02-14T13:32:50.728Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:32:51.374Z - info: [9:32:51 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:32:52.383Z - info: Rebuilding 1 pages
+2025-02-14T13:32:52.415Z - info: Site data built
+2025-02-14T13:32:52.415Z - info: Pages rebuilt
+2025-02-14T13:32:52.415Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:32:55.374Z - info: [9:32:55 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:32:56.381Z - info: Rebuilding 1 pages
+2025-02-14T13:32:56.419Z - info: Site data built
+2025-02-14T13:32:56.419Z - info: Pages rebuilt
+2025-02-14T13:32:56.419Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T13:33:03.212Z - info: [9:33:03 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:33:04.214Z - info: Rebuilding 1 pages
+2025-02-14T13:33:04.247Z - info: Site data built
+2025-02-14T13:33:04.248Z - info: Pages rebuilt
+2025-02-14T13:33:04.248Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T13:33:04.635Z - info: [9:33:04 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:33:05.642Z - info: Rebuilding 1 pages
+2025-02-14T13:33:05.671Z - info: Site data built
+2025-02-14T13:33:05.671Z - info: Pages rebuilt
+2025-02-14T13:33:05.671Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-14T13:33:23.616Z - info: [9:33:23 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:33:24.621Z - info: Rebuilding 1 pages
+2025-02-14T13:33:24.653Z - info: Site data built
+2025-02-14T13:33:24.654Z - info: Pages rebuilt
+2025-02-14T13:33:24.654Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:33:43.531Z - info: [9:33:43 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:33:44.543Z - info: Rebuilding 1 pages
+2025-02-14T13:33:44.579Z - info: Site data built
+2025-02-14T13:33:44.579Z - info: Pages rebuilt
+2025-02-14T13:33:44.580Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T13:34:13.273Z - info: [9:34:13 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:34:14.289Z - info: Rebuilding 1 pages
+2025-02-14T13:34:14.322Z - info: Site data built
+2025-02-14T13:34:14.323Z - info: Pages rebuilt
+2025-02-14T13:34:14.323Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T13:34:30.630Z - info: [9:34:30 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:34:31.636Z - info: Rebuilding 1 pages
+2025-02-14T13:34:31.692Z - info: Site data built
+2025-02-14T13:34:31.692Z - info: Pages rebuilt
+2025-02-14T13:34:31.693Z - info: Website regeneration complete! Total build time: 0.058s
+2025-02-14T13:34:36.991Z - info: [9:34:36 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:34:38.005Z - info: Rebuilding 1 pages
+2025-02-14T13:34:38.037Z - info: Site data built
+2025-02-14T13:34:38.037Z - info: Pages rebuilt
+2025-02-14T13:34:38.037Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:34:54.309Z - info: [9:34:54 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:34:55.319Z - info: Rebuilding 1 pages
+2025-02-14T13:34:55.349Z - info: Site data built
+2025-02-14T13:34:55.349Z - info: Pages rebuilt
+2025-02-14T13:34:55.349Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T13:34:58.448Z - info: [9:34:58 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:34:59.466Z - info: Rebuilding 1 pages
+2025-02-14T13:34:59.494Z - info: Site data built
+2025-02-14T13:34:59.494Z - info: Pages rebuilt
+2025-02-14T13:34:59.495Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T13:35:00.123Z - info: [9:35:00 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:35:01.133Z - info: Rebuilding 1 pages
+2025-02-14T13:35:01.160Z - info: Site data built
+2025-02-14T13:35:01.160Z - info: Pages rebuilt
+2025-02-14T13:35:01.160Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T13:35:03.493Z - info: [9:35:03 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T13:35:04.500Z - info: Rebuilding 1 pages
+2025-02-14T13:35:04.537Z - info: Site data built
+2025-02-14T13:35:04.537Z - info: Pages rebuilt
+2025-02-14T13:35:04.537Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T13:35:55.880Z - info: [9:35:55 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:35:56.891Z - info: Rebuilding 1 pages
+2025-02-14T13:35:56.922Z - info: Site data built
+2025-02-14T13:35:56.922Z - info: Pages rebuilt
+2025-02-14T13:35:56.922Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:36:28.626Z - info: [9:36:28 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:36:29.636Z - info: Rebuilding 1 pages
+2025-02-14T13:36:29.666Z - info: Site data built
+2025-02-14T13:36:29.667Z - info: Pages rebuilt
+2025-02-14T13:36:29.667Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:36:29.940Z - info: [9:36:29 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:36:30.953Z - info: Rebuilding 1 pages
+2025-02-14T13:36:30.981Z - info: Site data built
+2025-02-14T13:36:30.981Z - info: Pages rebuilt
+2025-02-14T13:36:30.981Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-14T13:38:13.687Z - info: [9:38:13 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:38:14.696Z - info: Rebuilding 1 pages
+2025-02-14T13:38:14.725Z - info: [9:38:14 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:38:14.739Z - info: Site data built
+2025-02-14T13:38:14.739Z - info: Pages rebuilt
+2025-02-14T13:38:14.740Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-14T13:38:15.741Z - info: Rebuilding 1 pages
+2025-02-14T13:38:15.767Z - info: Site data built
+2025-02-14T13:38:15.767Z - info: Pages rebuilt
+2025-02-14T13:38:15.767Z - info: Website regeneration complete! Total build time: 0.027s
+2025-02-14T13:38:22.629Z - info: [9:38:22 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:38:23.644Z - info: Rebuilding 1 pages
+2025-02-14T13:38:23.687Z - info: Site data built
+2025-02-14T13:38:23.687Z - info: Pages rebuilt
+2025-02-14T13:38:23.687Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-14T13:39:37.935Z - info: [9:39:37 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:39:38.948Z - info: Rebuilding 1 pages
+2025-02-14T13:39:38.980Z - info: Site data built
+2025-02-14T13:39:38.981Z - info: Pages rebuilt
+2025-02-14T13:39:38.981Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:39:39.919Z - info: [9:39:39 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:39:40.932Z - info: Rebuilding 1 pages
+2025-02-14T13:39:40.959Z - info: Site data built
+2025-02-14T13:39:40.959Z - info: Pages rebuilt
+2025-02-14T13:39:40.959Z - info: Website regeneration complete! Total build time: 0.027s
+2025-02-14T13:40:00.430Z - info: [9:40:00 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:01.444Z - info: Rebuilding 1 pages
+2025-02-14T13:40:01.476Z - info: Site data built
+2025-02-14T13:40:01.476Z - info: Pages rebuilt
+2025-02-14T13:40:01.476Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:40:05.617Z - info: [9:40:05 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:06.628Z - info: Rebuilding 1 pages
+2025-02-14T13:40:06.657Z - info: Site data built
+2025-02-14T13:40:06.657Z - info: Pages rebuilt
+2025-02-14T13:40:06.657Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:40:09.741Z - info: [9:40:09 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:10.748Z - info: Rebuilding 1 pages
+2025-02-14T13:40:10.788Z - info: Site data built
+2025-02-14T13:40:10.788Z - info: Pages rebuilt
+2025-02-14T13:40:10.789Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-14T13:40:11.249Z - info: [9:40:11 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:12.261Z - info: Rebuilding 1 pages
+2025-02-14T13:40:12.288Z - info: Site data built
+2025-02-14T13:40:12.288Z - info: Pages rebuilt
+2025-02-14T13:40:12.289Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T13:40:19.070Z - info: [9:40:19 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:20.077Z - info: Rebuilding 1 pages
+2025-02-14T13:40:20.104Z - info: Site data built
+2025-02-14T13:40:20.104Z - info: Pages rebuilt
+2025-02-14T13:40:20.104Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T13:40:23.532Z - info: [9:40:23 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:24.544Z - info: Rebuilding 1 pages
+2025-02-14T13:40:24.571Z - info: Site data built
+2025-02-14T13:40:24.571Z - info: Pages rebuilt
+2025-02-14T13:40:24.572Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T13:40:24.980Z - info: [9:40:24 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:25.996Z - info: Rebuilding 1 pages
+2025-02-14T13:40:26.021Z - info: Site data built
+2025-02-14T13:40:26.021Z - info: Pages rebuilt
+2025-02-14T13:40:26.021Z - info: Website regeneration complete! Total build time: 0.026s
+2025-02-14T13:40:32.301Z - info: [9:40:32 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:33.308Z - info: Rebuilding 1 pages
+2025-02-14T13:40:33.336Z - info: Site data built
+2025-02-14T13:40:33.336Z - info: Pages rebuilt
+2025-02-14T13:40:33.336Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-14T13:40:46.545Z - info: [9:40:46 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:47.574Z - info: Rebuilding 1 pages
+2025-02-14T13:40:47.608Z - info: Site data built
+2025-02-14T13:40:47.608Z - info: Pages rebuilt
+2025-02-14T13:40:47.608Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T13:40:53.257Z - info: [9:40:53 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:54.259Z - info: Rebuilding 1 pages
+2025-02-14T13:40:54.299Z - info: Site data built
+2025-02-14T13:40:54.299Z - info: Pages rebuilt
+2025-02-14T13:40:54.299Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T13:40:55.003Z - info: [9:40:55 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:40:56.008Z - info: Rebuilding 1 pages
+2025-02-14T13:40:56.036Z - info: Site data built
+2025-02-14T13:40:56.036Z - info: Pages rebuilt
+2025-02-14T13:40:56.036Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T13:41:02.878Z - info: [9:41:02 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:41:03.880Z - info: Rebuilding 1 pages
+2025-02-14T13:41:03.947Z - info: Site data built
+2025-02-14T13:41:03.947Z - info: Pages rebuilt
+2025-02-14T13:41:03.947Z - info: Website regeneration complete! Total build time: 0.068s
+2025-02-14T13:41:05.476Z - info: [9:41:05 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:41:06.487Z - info: Rebuilding 1 pages
+2025-02-14T13:41:06.516Z - info: Site data built
+2025-02-14T13:41:06.516Z - info: Pages rebuilt
+2025-02-14T13:41:06.516Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:41:08.550Z - info: [9:41:08 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:41:09.555Z - info: Rebuilding 1 pages
+2025-02-14T13:41:09.585Z - info: Site data built
+2025-02-14T13:41:09.585Z - info: Pages rebuilt
+2025-02-14T13:41:09.585Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:41:13.980Z - info: [9:41:13 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:41:14.988Z - info: Rebuilding 1 pages
+2025-02-14T13:41:15.020Z - info: Site data built
+2025-02-14T13:41:15.020Z - info: Pages rebuilt
+2025-02-14T13:41:15.020Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:41:18.584Z - info: [9:41:18 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:41:19.586Z - info: Rebuilding 1 pages
+2025-02-14T13:41:19.618Z - info: Site data built
+2025-02-14T13:41:19.618Z - info: Pages rebuilt
+2025-02-14T13:41:19.618Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:41:47.283Z - info: [9:41:47 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:41:48.293Z - info: Rebuilding 1 pages
+2025-02-14T13:41:48.329Z - info: Site data built
+2025-02-14T13:41:48.329Z - info: Pages rebuilt
+2025-02-14T13:41:48.329Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T13:41:51.003Z - info: [9:41:51 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:41:52.010Z - info: Rebuilding 1 pages
+2025-02-14T13:41:52.042Z - info: Site data built
+2025-02-14T13:41:52.042Z - info: Pages rebuilt
+2025-02-14T13:41:52.043Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:42:04.770Z - info: [9:42:04 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:42:05.777Z - info: Rebuilding 1 pages
+2025-02-14T13:42:05.813Z - info: Site data built
+2025-02-14T13:42:05.813Z - info: Pages rebuilt
+2025-02-14T13:42:05.813Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T13:42:12.822Z - info: [9:42:12 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:42:13.825Z - info: Rebuilding 1 pages
+2025-02-14T13:42:13.856Z - info: Site data built
+2025-02-14T13:42:13.856Z - info: Pages rebuilt
+2025-02-14T13:42:13.856Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:42:46.925Z - info: [9:42:46 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:42:47.941Z - info: Rebuilding 1 pages
+2025-02-14T13:42:47.974Z - info: Site data built
+2025-02-14T13:42:47.974Z - info: Pages rebuilt
+2025-02-14T13:42:47.974Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:43:05.492Z - info: [9:43:05 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:43:06.507Z - info: Rebuilding 1 pages
+2025-02-14T13:43:06.541Z - info: Site data built
+2025-02-14T13:43:06.541Z - info: Pages rebuilt
+2025-02-14T13:43:06.541Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T13:43:18.126Z - info: [9:43:18 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:43:19.140Z - info: Rebuilding 1 pages
+2025-02-14T13:43:19.176Z - info: Site data built
+2025-02-14T13:43:19.177Z - info: Pages rebuilt
+2025-02-14T13:43:19.177Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T13:43:19.493Z - info: [9:43:19 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:43:20.506Z - info: Rebuilding 1 pages
+2025-02-14T13:43:20.537Z - info: Site data built
+2025-02-14T13:43:20.537Z - info: Pages rebuilt
+2025-02-14T13:43:20.537Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:43:30.974Z - info: [9:43:30 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:43:31.987Z - info: Rebuilding 1 pages
+2025-02-14T13:43:32.017Z - info: Site data built
+2025-02-14T13:43:32.018Z - info: Pages rebuilt
+2025-02-14T13:43:32.018Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T13:43:37.447Z - info: [9:43:37 pm] Reload for file change: E:\cyx-portfolio\index.md
+2025-02-14T13:43:38.454Z - info: Rebuilding 1 pages
+2025-02-14T13:43:38.484Z - info: Site data built
+2025-02-14T13:43:38.484Z - info: Pages rebuilt
+2025-02-14T13:43:38.484Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:44:24.103Z - info: [9:44:24 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:25.114Z - info: Rebuilding 1 pages
+2025-02-14T13:44:25.147Z - info: Site data built
+2025-02-14T13:44:25.147Z - info: Pages rebuilt
+2025-02-14T13:44:25.147Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T13:44:26.320Z - info: [9:44:26 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:27.329Z - info: Rebuilding 1 pages
+2025-02-14T13:44:27.359Z - info: Site data built
+2025-02-14T13:44:27.359Z - info: Pages rebuilt
+2025-02-14T13:44:27.360Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T13:44:30.674Z - info: [9:44:30 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:31.679Z - info: Rebuilding 1 pages
+2025-02-14T13:44:31.713Z - info: Site data built
+2025-02-14T13:44:31.714Z - info: Pages rebuilt
+2025-02-14T13:44:31.714Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T13:44:33.121Z - info: [9:44:33 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:34.129Z - info: Rebuilding 1 pages
+2025-02-14T13:44:34.154Z - info: Site data built
+2025-02-14T13:44:34.154Z - info: Pages rebuilt
+2025-02-14T13:44:34.155Z - info: Website regeneration complete! Total build time: 0.027s
+2025-02-14T13:44:36.674Z - info: [9:44:36 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:37.678Z - info: Rebuilding 1 pages
+2025-02-14T13:44:37.715Z - info: Site data built
+2025-02-14T13:44:37.715Z - info: Pages rebuilt
+2025-02-14T13:44:37.715Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T13:44:41.855Z - info: [9:44:41 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:42.861Z - info: Rebuilding 1 pages
+2025-02-14T13:44:42.888Z - info: Site data built
+2025-02-14T13:44:42.888Z - info: Pages rebuilt
+2025-02-14T13:44:42.889Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-14T13:44:46.140Z - info: [9:44:46 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:47.143Z - info: Rebuilding 1 pages
+2025-02-14T13:44:47.170Z - info: Site data built
+2025-02-14T13:44:47.170Z - info: Pages rebuilt
+2025-02-14T13:44:47.170Z - info: Website regeneration complete! Total build time: 0.027s
+2025-02-14T13:44:48.845Z - info: [9:44:48 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:49.868Z - info: Rebuilding 1 pages
+2025-02-14T13:44:49.892Z - info: Site data built
+2025-02-14T13:44:49.893Z - info: Pages rebuilt
+2025-02-14T13:44:49.893Z - info: Website regeneration complete! Total build time: 0.026s
+2025-02-14T13:44:58.443Z - info: [9:44:58 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:44:59.459Z - info: Rebuilding 1 pages
+2025-02-14T13:44:59.486Z - info: Site data built
+2025-02-14T13:44:59.486Z - info: Pages rebuilt
+2025-02-14T13:44:59.486Z - info: Website regeneration complete! Total build time: 0.027s
+2025-02-14T13:45:03.666Z - info: [9:45:03 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:45:04.675Z - info: Rebuilding 1 pages
+2025-02-14T13:45:04.703Z - info: Site data built
+2025-02-14T13:45:04.703Z - info: Pages rebuilt
+2025-02-14T13:45:04.703Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-14T13:45:04.944Z - info: [9:45:04 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:45:05.958Z - info: Rebuilding 1 pages
+2025-02-14T13:45:05.983Z - info: Site data built
+2025-02-14T13:45:05.983Z - info: Pages rebuilt
+2025-02-14T13:45:05.984Z - info: Website regeneration complete! Total build time: 0.027s
+2025-02-14T13:45:33.507Z - info: [9:45:33 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:45:34.521Z - info: Rebuilding 1 pages
+2025-02-14T13:45:34.555Z - info: Site data built
+2025-02-14T13:45:34.555Z - info: Pages rebuilt
+2025-02-14T13:45:34.555Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T13:45:51.556Z - info: [9:45:51 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:45:52.570Z - info: Rebuilding 1 pages
+2025-02-14T13:45:52.607Z - info: Site data built
+2025-02-14T13:45:52.608Z - info: Pages rebuilt
+2025-02-14T13:45:52.608Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T13:46:06.743Z - info: [9:46:06 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:46:07.752Z - warn: Variable with no name detected! It will be ignored. Value: . Site: E:\cyx-portfolio.
+2025-02-14T13:46:07.753Z - warn: Check _markbind/variables.md for variable declarations.
+2025-02-14T13:46:07.753Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:46:07.753Z - info: Rebuilding 1 pages
+2025-02-14T13:46:07.787Z - info: Site data built
+2025-02-14T13:46:07.787Z - info: Pages rebuilt
+2025-02-14T13:46:07.787Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T13:46:09.222Z - info: [9:46:09 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:46:10.251Z - warn: Variable with no name detected! It will be ignored. Value: . Site: E:\cyx-portfolio.
+2025-02-14T13:46:10.252Z - warn: Check _markbind/variables.md for variable declarations.
+2025-02-14T13:46:10.252Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:46:10.252Z - info: Rebuilding 1 pages
+2025-02-14T13:46:10.283Z - info: Site data built
+2025-02-14T13:46:10.283Z - info: Pages rebuilt
+2025-02-14T13:46:10.284Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T13:46:10.836Z - info: [9:46:10 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:46:11.850Z - warn: Variable with no name detected! It will be ignored. Value: . Site: E:\cyx-portfolio.
+2025-02-14T13:46:11.850Z - warn: Check _markbind/variables.md for variable declarations.
+2025-02-14T13:46:11.851Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:46:11.851Z - info: Rebuilding 1 pages
+2025-02-14T13:46:11.898Z - info: Site data built
+2025-02-14T13:46:11.899Z - info: Pages rebuilt
+2025-02-14T13:46:11.899Z - info: Website regeneration complete! Total build time: 0.051s
+2025-02-14T13:46:15.103Z - info: [9:46:15 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:46:16.114Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:46:16.114Z - info: Rebuilding 1 pages
+2025-02-14T13:46:16.152Z - info: Site data built
+2025-02-14T13:46:16.153Z - info: Pages rebuilt
+2025-02-14T13:46:16.153Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-14T13:46:30.764Z - info: [9:46:30 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:46:31.784Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:46:31.784Z - info: Rebuilding 1 pages
+2025-02-14T13:46:31.856Z - info: Site data built
+2025-02-14T13:46:31.857Z - info: Pages rebuilt
+2025-02-14T13:46:31.857Z - info: Website regeneration complete! Total build time: 0.076s
+2025-02-14T13:46:33.978Z - info: [9:46:33 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:46:34.994Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:46:34.995Z - info: Rebuilding 1 pages
+2025-02-14T13:46:35.029Z - info: Site data built
+2025-02-14T13:46:35.030Z - info: Pages rebuilt
+2025-02-14T13:46:35.030Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T13:46:38.806Z - info: [9:46:38 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:46:39.811Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:46:39.811Z - info: Rebuilding 1 pages
+2025-02-14T13:46:39.839Z - info: Site data built
+2025-02-14T13:46:39.839Z - info: Pages rebuilt
+2025-02-14T13:46:39.839Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-14T13:47:06.448Z - info: [9:47:06 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:47:07.455Z - info: Rebuilding 1 pages
+2025-02-14T13:47:07.460Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 11, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-14T13:47:07.487Z - info: Site data built
+2025-02-14T13:47:07.488Z - info: Pages rebuilt
+2025-02-14T13:47:07.488Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T13:47:09.110Z - info: [9:47:09 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:47:10.119Z - info: Rebuilding 1 pages
+2025-02-14T13:47:10.149Z - info: Site data built
+2025-02-14T13:47:10.149Z - info: Pages rebuilt
+2025-02-14T13:47:10.149Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T13:47:14.932Z - info: [9:47:14 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:47:15.939Z - info: Rebuilding 1 pages
+2025-02-14T13:47:15.979Z - info: Site data built
+2025-02-14T13:47:15.979Z - info: Pages rebuilt
+2025-02-14T13:47:15.980Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-14T13:47:30.438Z - info: [9:47:30 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:47:31.444Z - info: Rebuilding 1 pages
+2025-02-14T13:47:31.478Z - info: Site data built
+2025-02-14T13:47:31.479Z - info: Pages rebuilt
+2025-02-14T13:47:31.479Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T13:47:36.811Z - info: [9:47:36 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:47:37.822Z - info: Rebuilding 1 pages
+2025-02-14T13:47:37.851Z - info: Site data built
+2025-02-14T13:47:37.851Z - info: Pages rebuilt
+2025-02-14T13:47:37.851Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:50:09.806Z - info: [9:50:09 pm] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 712957.crdownload
+2025-02-14T13:50:09.926Z - info: [9:50:09 pm] Reload for file change: E:\cyx-portfolio\contents\assets\Clang.svg
+2025-02-14T13:50:10.036Z - info: [9:50:10 pm] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 712957.crdownload
+2025-02-14T13:50:10.041Z - info: [9:50:10 pm] Reload for file change: E:\cyx-portfolio\contents\assets\Clang.svg
+2025-02-14T13:50:10.823Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:50:10.824Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:50:10.825Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:50:11.041Z - debug: Assets removed
+2025-02-14T13:51:05.333Z - info: [9:51:05 pm] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 220357.crdownload
+2025-02-14T13:51:05.336Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:51:05.425Z - info: [9:51:05 pm] Reload for file add: E:\cyx-portfolio\contents\assets\NumPy.svg
+2025-02-14T13:51:05.428Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:51:05.530Z - info: [9:51:05 pm] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 220357.crdownload
+2025-02-14T13:51:05.536Z - info: [9:51:05 pm] Reload for file change: E:\cyx-portfolio\contents\assets\NumPy.svg
+2025-02-14T13:51:05.536Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:51:06.548Z - debug: Assets removed
+2025-02-14T13:51:13.849Z - info: [9:51:13 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:51:14.863Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:51:14.865Z - info: Rebuilding 1 pages
+2025-02-14T13:51:14.902Z - info: Site data built
+2025-02-14T13:51:14.902Z - info: Pages rebuilt
+2025-02-14T13:51:14.902Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-14T13:51:19.534Z - info: [9:51:19 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:51:20.548Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:51:20.548Z - info: Rebuilding 1 pages
+2025-02-14T13:51:20.577Z - info: Site data built
+2025-02-14T13:51:20.577Z - info: Pages rebuilt
+2025-02-14T13:51:20.577Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:51:30.005Z - info: [9:51:30 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:51:31.013Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:51:31.013Z - info: Rebuilding 1 pages
+2025-02-14T13:51:31.042Z - info: Site data built
+2025-02-14T13:51:31.042Z - info: Pages rebuilt
+2025-02-14T13:51:31.042Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T13:51:55.739Z - info: [9:51:55 pm] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 821875.crdownload
+2025-02-14T13:51:55.742Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:51:55.821Z - info: [9:51:55 pm] Reload for file change: E:\cyx-portfolio\contents\assets\NumPy.svg
+2025-02-14T13:51:55.821Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:51:55.921Z - info: [9:51:55 pm] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 821875.crdownload
+2025-02-14T13:51:55.926Z - info: [9:51:55 pm] Reload for file change: E:\cyx-portfolio\contents\assets\NumPy.svg
+2025-02-14T13:51:55.927Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:51:56.927Z - debug: Assets removed
+2025-02-14T13:52:44.438Z - info: [9:52:44 pm] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 411058.crdownload
+2025-02-14T13:52:44.441Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:52:44.530Z - info: [9:52:44 pm] Reload for file change: E:\cyx-portfolio\contents\assets\NumPy.svg
+2025-02-14T13:52:44.530Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:52:44.633Z - info: [9:52:44 pm] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 411058.crdownload
+2025-02-14T13:52:44.637Z - info: [9:52:44 pm] Reload for file change: E:\cyx-portfolio\contents\assets\NumPy.svg
+2025-02-14T13:52:44.637Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:52:45.642Z - debug: Assets removed
+2025-02-14T13:54:00.979Z - info: [9:54:00 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:54:02.019Z - info: Rebuilding 1 pages
+2025-02-14T13:54:02.055Z - info: Site data built
+2025-02-14T13:54:02.055Z - info: Pages rebuilt
+2025-02-14T13:54:02.055Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T13:54:02.632Z - info: [9:54:02 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:54:03.634Z - info: Rebuilding 1 pages
+2025-02-14T13:54:03.639Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 15, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-14T13:54:03.659Z - info: Site data built
+2025-02-14T13:54:03.659Z - info: Pages rebuilt
+2025-02-14T13:54:03.659Z - info: Website regeneration complete! Total build time: 0.026s
+2025-02-14T13:54:06.547Z - info: [9:54:06 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:54:07.556Z - info: Rebuilding 1 pages
+2025-02-14T13:54:07.593Z - info: Site data built
+2025-02-14T13:54:07.594Z - info: Pages rebuilt
+2025-02-14T13:54:07.594Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-14T13:54:08.096Z - info: [9:54:08 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:54:09.110Z - info: Rebuilding 1 pages
+2025-02-14T13:54:09.139Z - info: Site data built
+2025-02-14T13:54:09.139Z - info: Pages rebuilt
+2025-02-14T13:54:09.139Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:54:22.699Z - info: [9:54:22 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:54:23.708Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:54:23.708Z - info: Rebuilding 1 pages
+2025-02-14T13:54:23.741Z - info: Site data built
+2025-02-14T13:54:23.742Z - info: Pages rebuilt
+2025-02-14T13:54:23.742Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T13:54:36.540Z - info: [9:54:36 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:54:37.553Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:54:37.553Z - info: Rebuilding 1 pages
+2025-02-14T13:54:37.586Z - info: Site data built
+2025-02-14T13:54:37.586Z - info: Pages rebuilt
+2025-02-14T13:54:37.586Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T13:54:54.831Z - info: [9:54:54 pm] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 751552.crdownload
+2025-02-14T13:54:54.833Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:54:54.906Z - info: [9:54:54 pm] Reload for file change: E:\cyx-portfolio\contents\assets\NumPy.svg
+2025-02-14T13:54:54.906Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:54:55.018Z - info: [9:54:55 pm] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 751552.crdownload
+2025-02-14T13:54:55.019Z - info: [9:54:55 pm] Reload for file change: E:\cyx-portfolio\contents\assets\NumPy.svg
+2025-02-14T13:54:55.023Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:54:56.034Z - debug: Assets removed
+2025-02-14T13:55:51.229Z - info: [9:55:51 pm] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 688342.crdownload
+2025-02-14T13:55:51.232Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:55:51.319Z - info: [9:55:51 pm] Reload for file add: E:\cyx-portfolio\contents\assets\Golang.svg
+2025-02-14T13:55:51.321Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:55:51.429Z - info: [9:55:51 pm] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 688342.crdownload
+2025-02-14T13:55:51.434Z - info: [9:55:51 pm] Reload for file change: E:\cyx-portfolio\contents\assets\Golang.svg
+2025-02-14T13:55:51.435Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:55:52.444Z - debug: Assets removed
+2025-02-14T13:56:08.420Z - info: [9:56:08 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:56:09.426Z - info: Rebuilding 1 pages
+2025-02-14T13:56:09.455Z - info: Site data built
+2025-02-14T13:56:09.455Z - info: Pages rebuilt
+2025-02-14T13:56:09.456Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T13:56:34.330Z - info: [9:56:34 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:56:35.352Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:56:35.352Z - info: Rebuilding 1 pages
+2025-02-14T13:56:35.387Z - info: Site data built
+2025-02-14T13:56:35.387Z - info: Pages rebuilt
+2025-02-14T13:56:35.387Z - info: Website regeneration complete! Total build time: 0.051s
+2025-02-14T13:56:38.465Z - info: [9:56:38 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:56:39.474Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:56:39.474Z - info: Rebuilding 1 pages
+2025-02-14T13:56:39.503Z - info: Site data built
+2025-02-14T13:56:39.503Z - info: Pages rebuilt
+2025-02-14T13:56:39.503Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T13:56:43.874Z - info: [9:56:43 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:56:44.891Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:56:44.891Z - info: Rebuilding 1 pages
+2025-02-14T13:56:44.921Z - info: Site data built
+2025-02-14T13:56:44.921Z - info: Pages rebuilt
+2025-02-14T13:56:44.921Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T13:56:55.038Z - info: [9:56:55 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T13:56:56.055Z - info: Rebuilding 1 pages
+2025-02-14T13:56:56.088Z - info: Site data built
+2025-02-14T13:56:56.088Z - info: Pages rebuilt
+2025-02-14T13:56:56.089Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-14T13:59:18.992Z - info: [9:59:18 pm] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 760937.crdownload
+2025-02-14T13:59:18.995Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:59:19.074Z - info: [9:59:19 pm] Reload for file add: E:\cyx-portfolio\contents\assets\Gin.svg
+2025-02-14T13:59:19.078Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:59:19.172Z - info: [9:59:19 pm] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 760937.crdownload
+2025-02-14T13:59:19.191Z - info: [9:59:19 pm] Reload for file change: E:\cyx-portfolio\contents\assets\Gin.svg
+2025-02-14T13:59:19.191Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T13:59:20.186Z - debug: Assets removed
+2025-02-14T13:59:29.012Z - info: [9:59:29 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:59:30.040Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:59:30.040Z - info: Rebuilding 1 pages
+2025-02-14T13:59:30.072Z - info: Site data built
+2025-02-14T13:59:30.072Z - info: Pages rebuilt
+2025-02-14T13:59:30.072Z - info: Website regeneration complete! Total build time: 0.047s
+2025-02-14T13:59:36.133Z - info: [9:59:36 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:59:37.138Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:59:37.139Z - info: Rebuilding 1 pages
+2025-02-14T13:59:37.167Z - info: Site data built
+2025-02-14T13:59:37.167Z - info: Pages rebuilt
+2025-02-14T13:59:37.167Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T13:59:43.938Z - info: [9:59:43 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:59:44.951Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:59:44.952Z - info: Rebuilding 1 pages
+2025-02-14T13:59:44.991Z - info: Site data built
+2025-02-14T13:59:44.991Z - info: Pages rebuilt
+2025-02-14T13:59:44.991Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-14T13:59:50.378Z - info: [9:59:50 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:59:51.381Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:59:51.382Z - info: Rebuilding 1 pages
+2025-02-14T13:59:51.414Z - info: Site data built
+2025-02-14T13:59:51.414Z - info: Pages rebuilt
+2025-02-14T13:59:51.414Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T13:59:51.957Z - info: [9:59:51 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:59:52.960Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:59:52.961Z - info: Rebuilding 1 pages
+2025-02-14T13:59:52.985Z - info: Site data built
+2025-02-14T13:59:52.986Z - info: Pages rebuilt
+2025-02-14T13:59:52.986Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T13:59:55.519Z - info: [9:59:55 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T13:59:56.533Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T13:59:56.533Z - info: Rebuilding 1 pages
+2025-02-14T13:59:56.558Z - info: Site data built
+2025-02-14T13:59:56.558Z - info: Pages rebuilt
+2025-02-14T13:59:56.558Z - info: Website regeneration complete! Total build time: 0.026s
+2025-02-14T14:00:07.934Z - info: [10:00:07 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T14:00:08.950Z - info: Rebuilding 1 pages
+2025-02-14T14:00:08.986Z - info: Site data built
+2025-02-14T14:00:08.986Z - info: Pages rebuilt
+2025-02-14T14:00:08.986Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:00:09.145Z - info: [10:00:09 pm] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-14T14:00:10.149Z - info: Rebuilding 1 pages
+2025-02-14T14:00:10.176Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents/assets.Gin.svg' found in file 'E:\cyx-portfolio\contents\skills.md'
+2025-02-14T14:00:10.179Z - info: Site data built
+2025-02-14T14:00:10.179Z - info: Pages rebuilt
+2025-02-14T14:00:10.179Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:00:18.554Z - info: [10:00:18 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T14:00:19.564Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T14:00:19.565Z - info: Rebuilding 1 pages
+2025-02-14T14:00:19.604Z - info: Site data built
+2025-02-14T14:00:19.604Z - info: Pages rebuilt
+2025-02-14T14:00:19.604Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-14T14:00:29.607Z - info: [10:00:29 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T14:00:30.625Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T14:00:30.626Z - info: Rebuilding 1 pages
+2025-02-14T14:00:30.665Z - info: Site data built
+2025-02-14T14:00:30.665Z - info: Pages rebuilt
+2025-02-14T14:00:30.665Z - info: Website regeneration complete! Total build time: 0.055s
+2025-02-14T14:00:30.968Z - info: [10:00:30 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T14:00:31.979Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T14:00:31.980Z - info: Rebuilding 1 pages
+2025-02-14T14:00:32.008Z - info: Site data built
+2025-02-14T14:00:32.008Z - info: Pages rebuilt
+2025-02-14T14:00:32.008Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:00:32.147Z - info: [10:00:32 pm] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-14T14:00:33.163Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-14T14:00:33.164Z - info: Rebuilding 1 pages
+2025-02-14T14:00:33.191Z - info: Site data built
+2025-02-14T14:00:33.191Z - info: Pages rebuilt
+2025-02-14T14:00:33.191Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:01:22.966Z - info: [10:01:22 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T14:01:23.973Z - info: Rebuilding 1 pages
+2025-02-14T14:01:24.007Z - info: Site data built
+2025-02-14T14:01:24.008Z - info: Pages rebuilt
+2025-02-14T14:01:24.008Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T14:01:32.108Z - info: [10:01:32 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T14:01:33.122Z - info: Rebuilding 1 pages
+2025-02-14T14:01:33.154Z - info: Site data built
+2025-02-14T14:01:33.154Z - info: Pages rebuilt
+2025-02-14T14:01:33.154Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T14:01:42.044Z - info: [10:01:42 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T14:01:43.052Z - info: Rebuilding 1 pages
+2025-02-14T14:01:43.085Z - info: Site data built
+2025-02-14T14:01:43.085Z - info: Pages rebuilt
+2025-02-14T14:01:43.085Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:01:43.773Z - info: [10:01:43 pm] Reload for file change: E:\cyx-portfolio\contents\project1.md
+2025-02-14T14:01:44.783Z - info: Rebuilding 1 pages
+2025-02-14T14:01:44.812Z - info: Site data built
+2025-02-14T14:01:44.812Z - info: Pages rebuilt
+2025-02-14T14:01:44.812Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:02:25.535Z - info: [10:02:25 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:02:26.548Z - info: Rebuilding 1 pages
+2025-02-14T14:02:26.584Z - info: Site data built
+2025-02-14T14:02:26.584Z - info: Pages rebuilt
+2025-02-14T14:02:26.585Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T14:02:30.115Z - info: [10:02:30 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:02:31.129Z - info: Rebuilding 1 pages
+2025-02-14T14:02:31.156Z - info: Site data built
+2025-02-14T14:02:31.156Z - info: Pages rebuilt
+2025-02-14T14:02:31.156Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T14:02:41.008Z - info: [10:02:41 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:02:42.009Z - info: Rebuilding 1 pages
+2025-02-14T14:02:42.042Z - info: Site data built
+2025-02-14T14:02:42.042Z - info: Pages rebuilt
+2025-02-14T14:02:42.042Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:02:48.764Z - info: [10:02:48 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:02:49.773Z - info: Rebuilding 1 pages
+2025-02-14T14:02:49.806Z - info: Site data built
+2025-02-14T14:02:49.806Z - info: Pages rebuilt
+2025-02-14T14:02:49.806Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:02:57.261Z - info: [10:02:57 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:02:58.277Z - info: Rebuilding 1 pages
+2025-02-14T14:02:58.306Z - info: Site data built
+2025-02-14T14:02:58.306Z - info: Pages rebuilt
+2025-02-14T14:02:58.306Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:03:01.054Z - info: [10:03:01 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:03:02.061Z - info: Rebuilding 1 pages
+2025-02-14T14:03:02.073Z - error:  Template render error: (E:\cyx-portfolio\contents\project2.md) [Line 11, Column 7]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-14T14:03:02.090Z - info: Site data built
+2025-02-14T14:03:02.090Z - info: Pages rebuilt
+2025-02-14T14:03:02.090Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:03:04.282Z - info: [10:03:04 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:03:05.286Z - info: Rebuilding 1 pages
+2025-02-14T14:03:05.325Z - info: Site data built
+2025-02-14T14:03:05.325Z - info: Pages rebuilt
+2025-02-14T14:03:05.325Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T14:03:11.065Z - info: [10:03:11 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:03:12.075Z - info: Rebuilding 1 pages
+2025-02-14T14:03:12.107Z - info: Site data built
+2025-02-14T14:03:12.107Z - info: Pages rebuilt
+2025-02-14T14:03:12.107Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:03:31.675Z - info: [10:03:31 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:03:32.684Z - info: Rebuilding 1 pages
+2025-02-14T14:03:32.723Z - info: Site data built
+2025-02-14T14:03:32.723Z - info: Pages rebuilt
+2025-02-14T14:03:32.723Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T14:04:05.291Z - info: [10:04:05 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T14:04:06.300Z - info: Rebuilding 1 pages
+2025-02-14T14:04:06.327Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:06.327Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:06.328Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#Source Academy' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:06.328Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:06.328Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:06.332Z - info: Site data built
+2025-02-14T14:04:06.332Z - info: Pages rebuilt
+2025-02-14T14:04:06.332Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T14:04:12.372Z - info: [10:04:12 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T14:04:13.380Z - info: Rebuilding 1 pages
+2025-02-14T14:04:13.409Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:13.409Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:13.409Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#Source Academy' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:13.409Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#PersonAI' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:13.409Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:13.412Z - info: Site data built
+2025-02-14T14:04:13.412Z - info: Pages rebuilt
+2025-02-14T14:04:13.413Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:04:17.323Z - info: [10:04:17 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T14:04:18.330Z - info: Rebuilding 1 pages
+2025-02-14T14:04:18.361Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:18.362Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:18.362Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#Source Academy' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:18.362Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#PersonAI (Project Korolev)' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:18.363Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:18.371Z - info: Site data built
+2025-02-14T14:04:18.371Z - info: Pages rebuilt
+2025-02-14T14:04:18.371Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-14T14:04:24.247Z - info: [10:04:24 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:04:25.261Z - info: Rebuilding 1 pages
+2025-02-14T14:04:25.291Z - info: Site data built
+2025-02-14T14:04:25.292Z - info: Pages rebuilt
+2025-02-14T14:04:25.292Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:04:39.094Z - info: [10:04:39 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T14:04:40.102Z - info: Rebuilding 1 pages
+2025-02-14T14:04:40.130Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:40.131Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:40.131Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:40.131Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:40.131Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:40.135Z - info: Site data built
+2025-02-14T14:04:40.136Z - info: Pages rebuilt
+2025-02-14T14:04:40.136Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:04:45.498Z - info: [10:04:45 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T14:04:46.500Z - info: Rebuilding 1 pages
+2025-02-14T14:04:46.528Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:46.528Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:46.528Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:46.528Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:46.529Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:46.532Z - info: Site data built
+2025-02-14T14:04:46.532Z - info: Pages rebuilt
+2025-02-14T14:04:46.532Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:04:53.519Z - info: [10:04:53 pm] Reload for file change: E:\cyx-portfolio\_markbind\layouts\default.md
+2025-02-14T14:04:54.523Z - info: Rebuilding 1 pages
+2025-02-14T14:04:54.550Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:54.550Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:54.550Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:54.551Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:54.551Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:04:54.553Z - info: Site data built
+2025-02-14T14:04:54.554Z - info: Pages rebuilt
+2025-02-14T14:04:54.554Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:05:13.290Z - info: [10:05:13 pm] Reload for file add: E:\cyx-portfolio\contents\project3.md
+2025-02-14T14:05:13.293Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T14:05:28.269Z - info: [10:05:28 pm] Reload for file change: E:\cyx-portfolio\contents\project3.md
+2025-02-14T14:05:28.270Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T14:05:37.669Z - info: [10:05:37 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:05:38.683Z - info: Rebuilding 1 pages
+2025-02-14T14:05:38.726Z - info: Site data built
+2025-02-14T14:05:38.726Z - info: Pages rebuilt
+2025-02-14T14:05:38.726Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-14T14:05:43.669Z - info: [10:05:43 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:05:44.693Z - info: Rebuilding 1 pages
+2025-02-14T14:05:44.727Z - info: Site data built
+2025-02-14T14:05:44.727Z - info: Pages rebuilt
+2025-02-14T14:05:44.727Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:05:47.777Z - info: [10:05:47 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:05:48.788Z - info: Rebuilding 1 pages
+2025-02-14T14:05:48.816Z - info: Site data built
+2025-02-14T14:05:48.817Z - info: Pages rebuilt
+2025-02-14T14:05:48.817Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:05:57.067Z - info: [10:05:57 pm] Reload for file change: E:\cyx-portfolio\contents\project3.md
+2025-02-14T14:05:57.068Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T14:06:01.477Z - info: [10:06:01 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:06:02.487Z - info: Rebuilding 1 pages
+2025-02-14T14:06:02.518Z - info: Site data built
+2025-02-14T14:06:02.518Z - info: Pages rebuilt
+2025-02-14T14:06:02.518Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:06:22.762Z - info: [10:06:22 pm] Reload for file change: E:\cyx-portfolio\contents\project2.md
+2025-02-14T14:06:23.771Z - info: Rebuilding 1 pages
+2025-02-14T14:06:23.807Z - info: Site data built
+2025-02-14T14:06:23.807Z - info: Pages rebuilt
+2025-02-14T14:06:23.808Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-14T14:06:57.482Z - info: [10:06:57 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:06:58.487Z - info: Rebuilding 1 pages
+2025-02-14T14:06:58.526Z - info: Site data built
+2025-02-14T14:06:58.527Z - info: Pages rebuilt
+2025-02-14T14:06:58.527Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T14:07:16.121Z - info: [10:07:16 pm] Reload for file change: E:\cyx-portfolio\contents\project3.md
+2025-02-14T14:07:17.130Z - info: Rebuilding 1 pages
+2025-02-14T14:07:17.175Z - info: Site data built
+2025-02-14T14:07:17.176Z - info: Pages rebuilt
+2025-02-14T14:07:17.176Z - info: Website regeneration complete! Total build time: 0.047s
+2025-02-14T14:07:31.188Z - info: [10:07:31 pm] Reload for file change: E:\cyx-portfolio\contents\project3.md
+2025-02-14T14:07:32.192Z - info: Rebuilding 1 pages
+2025-02-14T14:07:32.224Z - info: Site data built
+2025-02-14T14:07:32.225Z - info: Pages rebuilt
+2025-02-14T14:07:32.225Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:11:27.585Z - info: [10:11:27 pm] Reload for file change: E:\cyx-portfolio\contents\project3.md
+2025-02-14T14:11:28.592Z - info: Rebuilding 1 pages
+2025-02-14T14:11:28.633Z - info: Site data built
+2025-02-14T14:11:28.633Z - info: Pages rebuilt
+2025-02-14T14:11:28.633Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-14T14:11:32.348Z - info: [10:11:32 pm] Reload for file change: E:\cyx-portfolio\contents\project3.md
+2025-02-14T14:11:33.360Z - info: Rebuilding 1 pages
+2025-02-14T14:11:33.389Z - info: Site data built
+2025-02-14T14:11:33.389Z - info: Pages rebuilt
+2025-02-14T14:11:33.389Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:11:45.744Z - info: [10:11:45 pm] Reload for file change: E:\cyx-portfolio\contents\project3.md
+2025-02-14T14:11:46.747Z - info: Rebuilding 1 pages
+2025-02-14T14:11:46.788Z - info: Site data built
+2025-02-14T14:11:46.789Z - info: Pages rebuilt
+2025-02-14T14:11:46.789Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-14T14:12:03.940Z - info: [10:12:03 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:12:04.956Z - info: Rebuilding 1 pages
+2025-02-14T14:12:05.030Z - info: Site data built
+2025-02-14T14:12:05.030Z - info: Pages rebuilt
+2025-02-14T14:12:05.030Z - info: Website regeneration complete! Total build time: 0.075s
+2025-02-14T14:12:06.200Z - info: [10:12:06 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:12:07.207Z - info: Rebuilding 1 pages
+2025-02-14T14:12:07.245Z - info: Site data built
+2025-02-14T14:12:07.245Z - info: Pages rebuilt
+2025-02-14T14:12:07.245Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-14T14:12:13.961Z - info: [10:12:13 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:12:14.976Z - info: Rebuilding 1 pages
+2025-02-14T14:12:15.010Z - info: Site data built
+2025-02-14T14:12:15.010Z - info: Pages rebuilt
+2025-02-14T14:12:15.010Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:12:18.168Z - info: [10:12:18 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:12:19.173Z - info: Rebuilding 1 pages
+2025-02-14T14:12:19.215Z - info: Site data built
+2025-02-14T14:12:19.215Z - info: Pages rebuilt
+2025-02-14T14:12:19.215Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-14T14:12:36.423Z - info: [10:12:36 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:12:37.430Z - info: Rebuilding 1 pages
+2025-02-14T14:12:37.464Z - info: Site data built
+2025-02-14T14:12:37.464Z - info: Pages rebuilt
+2025-02-14T14:12:37.464Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:12:59.310Z - info: [10:12:59 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:00.320Z - info: Rebuilding 1 pages
+2025-02-14T14:13:00.356Z - info: Site data built
+2025-02-14T14:13:00.356Z - info: Pages rebuilt
+2025-02-14T14:13:00.356Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:13:02.334Z - info: [10:13:02 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:03.343Z - info: Rebuilding 1 pages
+2025-02-14T14:13:03.377Z - info: Site data built
+2025-02-14T14:13:03.378Z - info: Pages rebuilt
+2025-02-14T14:13:03.378Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:13:08.376Z - info: [10:13:08 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:09.386Z - info: Rebuilding 1 pages
+2025-02-14T14:13:09.423Z - info: Site data built
+2025-02-14T14:13:09.423Z - info: Pages rebuilt
+2025-02-14T14:13:09.424Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T14:13:15.372Z - info: [10:13:15 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:16.374Z - info: Rebuilding 1 pages
+2025-02-14T14:13:16.409Z - info: Site data built
+2025-02-14T14:13:16.410Z - info: Pages rebuilt
+2025-02-14T14:13:16.410Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T14:13:18.862Z - info: [10:13:18 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:19.879Z - info: Rebuilding 1 pages
+2025-02-14T14:13:19.909Z - info: Site data built
+2025-02-14T14:13:19.909Z - info: Pages rebuilt
+2025-02-14T14:13:19.909Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:13:30.394Z - info: [10:13:30 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:31.404Z - info: Rebuilding 1 pages
+2025-02-14T14:13:31.440Z - info: Site data built
+2025-02-14T14:13:31.440Z - info: Pages rebuilt
+2025-02-14T14:13:31.440Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:13:42.587Z - info: [10:13:42 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:43.596Z - info: Rebuilding 1 pages
+2025-02-14T14:13:43.634Z - info: Site data built
+2025-02-14T14:13:43.634Z - info: Pages rebuilt
+2025-02-14T14:13:43.634Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-14T14:13:53.059Z - info: [10:13:53 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:54.071Z - info: Rebuilding 1 pages
+2025-02-14T14:13:54.107Z - info: Site data built
+2025-02-14T14:13:54.107Z - info: Pages rebuilt
+2025-02-14T14:13:54.107Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T14:13:57.905Z - info: [10:13:57 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:13:58.920Z - info: Rebuilding 1 pages
+2025-02-14T14:13:58.955Z - info: Site data built
+2025-02-14T14:13:58.955Z - info: Pages rebuilt
+2025-02-14T14:13:58.956Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:14:02.973Z - info: [10:14:02 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:14:03.977Z - info: Rebuilding 1 pages
+2025-02-14T14:14:04.005Z - info: Site data built
+2025-02-14T14:14:04.005Z - info: Pages rebuilt
+2025-02-14T14:14:04.006Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:14:12.348Z - info: [10:14:12 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:14:13.360Z - info: Rebuilding 1 pages
+2025-02-14T14:14:13.396Z - info: Site data built
+2025-02-14T14:14:13.397Z - info: Pages rebuilt
+2025-02-14T14:14:13.397Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T14:14:28.135Z - info: [10:14:28 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:14:29.136Z - info: Rebuilding 1 pages
+2025-02-14T14:14:29.181Z - info: Site data built
+2025-02-14T14:14:29.181Z - info: Pages rebuilt
+2025-02-14T14:14:29.181Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-14T14:14:57.612Z - info: [10:14:57 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:14:58.623Z - info: Rebuilding 1 pages
+2025-02-14T14:14:58.657Z - info: Site data built
+2025-02-14T14:14:58.657Z - info: Pages rebuilt
+2025-02-14T14:14:58.657Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:15:01.042Z - info: [10:15:01 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:15:02.055Z - info: Rebuilding 1 pages
+2025-02-14T14:15:02.084Z - info: Site data built
+2025-02-14T14:15:02.085Z - info: Pages rebuilt
+2025-02-14T14:15:02.085Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:15:18.628Z - info: [10:15:18 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:15:19.645Z - info: Rebuilding 1 pages
+2025-02-14T14:15:19.675Z - info: Site data built
+2025-02-14T14:15:19.675Z - info: Pages rebuilt
+2025-02-14T14:15:19.676Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:15:22.888Z - info: [10:15:22 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:15:23.899Z - info: Rebuilding 1 pages
+2025-02-14T14:15:23.932Z - info: Site data built
+2025-02-14T14:15:23.932Z - info: Pages rebuilt
+2025-02-14T14:15:23.932Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:15:25.845Z - info: [10:15:25 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:15:26.859Z - info: Rebuilding 1 pages
+2025-02-14T14:15:26.904Z - info: Site data built
+2025-02-14T14:15:26.904Z - info: Pages rebuilt
+2025-02-14T14:15:26.904Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-14T14:15:37.623Z - info: [10:15:37 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:15:38.626Z - info: Rebuilding 1 pages
+2025-02-14T14:15:38.659Z - info: Site data built
+2025-02-14T14:15:38.659Z - info: Pages rebuilt
+2025-02-14T14:15:38.659Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:15:43.352Z - info: [10:15:43 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:15:44.364Z - info: Rebuilding 1 pages
+2025-02-14T14:15:44.395Z - info: Site data built
+2025-02-14T14:15:44.395Z - info: Pages rebuilt
+2025-02-14T14:15:44.396Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:16:13.295Z - info: [10:16:13 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:16:14.312Z - info: Rebuilding 1 pages
+2025-02-14T14:16:14.351Z - info: Site data built
+2025-02-14T14:16:14.351Z - info: Pages rebuilt
+2025-02-14T14:16:14.352Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-14T14:16:16.154Z - info: [10:16:16 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:16:17.162Z - info: Rebuilding 1 pages
+2025-02-14T14:16:17.192Z - info: Site data built
+2025-02-14T14:16:17.192Z - info: Pages rebuilt
+2025-02-14T14:16:17.192Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:16:54.578Z - info: [10:16:54 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:16:55.579Z - info: Rebuilding 1 pages
+2025-02-14T14:16:55.614Z - info: Site data built
+2025-02-14T14:16:55.614Z - info: Pages rebuilt
+2025-02-14T14:16:55.614Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:16:58.868Z - info: [10:16:58 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:16:59.869Z - info: Rebuilding 1 pages
+2025-02-14T14:16:59.902Z - info: Site data built
+2025-02-14T14:16:59.902Z - info: Pages rebuilt
+2025-02-14T14:16:59.902Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T14:17:54.594Z - info: [10:17:54 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:17:55.603Z - info: Rebuilding 1 pages
+2025-02-14T14:17:55.670Z - info: Site data built
+2025-02-14T14:17:55.671Z - info: Pages rebuilt
+2025-02-14T14:17:55.671Z - info: Website regeneration complete! Total build time: 0.069s
+2025-02-14T14:17:55.762Z - info: [10:17:55 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:17:56.767Z - info: Rebuilding 1 pages
+2025-02-14T14:17:56.803Z - info: Site data built
+2025-02-14T14:17:56.803Z - info: Pages rebuilt
+2025-02-14T14:17:56.804Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:18:30.326Z - info: [10:18:30 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:18:31.340Z - info: Rebuilding 1 pages
+2025-02-14T14:18:31.349Z - error:  Template render error: (E:\cyx-portfolio\contents\projects.md) [Line 36, Column 15]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-14T14:18:31.369Z - info: Site data built
+2025-02-14T14:18:31.369Z - info: Pages rebuilt
+2025-02-14T14:18:31.369Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:18:34.319Z - info: [10:18:34 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:18:35.326Z - info: Rebuilding 1 pages
+2025-02-14T14:18:35.336Z - error:  Template render error: (E:\cyx-portfolio\contents\projects.md) [Line 37, Column 15]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-14T14:18:35.352Z - info: Site data built
+2025-02-14T14:18:35.352Z - info: Pages rebuilt
+2025-02-14T14:18:35.352Z - info: Website regeneration complete! Total build time: 0.027s
+2025-02-14T14:18:36.122Z - info: [10:18:36 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:18:37.135Z - info: Rebuilding 1 pages
+2025-02-14T14:18:37.175Z - info: Site data built
+2025-02-14T14:18:37.175Z - info: Pages rebuilt
+2025-02-14T14:18:37.175Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T14:18:39.134Z - info: [10:18:39 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:18:40.138Z - info: Rebuilding 1 pages
+2025-02-14T14:18:40.172Z - info: Site data built
+2025-02-14T14:18:40.172Z - info: Pages rebuilt
+2025-02-14T14:18:40.172Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:18:41.911Z - info: [10:18:41 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:18:42.912Z - info: Rebuilding 1 pages
+2025-02-14T14:18:42.943Z - info: Site data built
+2025-02-14T14:18:42.944Z - info: Pages rebuilt
+2025-02-14T14:18:42.944Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T14:18:53.089Z - info: [10:18:53 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:18:54.103Z - info: Rebuilding 1 pages
+2025-02-14T14:18:54.138Z - info: Site data built
+2025-02-14T14:18:54.138Z - info: Pages rebuilt
+2025-02-14T14:18:54.138Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:19:11.647Z - info: [10:19:11 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:19:12.648Z - info: Rebuilding 1 pages
+2025-02-14T14:19:12.693Z - info: Site data built
+2025-02-14T14:19:12.694Z - info: Pages rebuilt
+2025-02-14T14:19:12.694Z - info: Website regeneration complete! Total build time: 0.047s
+2025-02-14T14:19:18.862Z - info: [10:19:18 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:19:19.883Z - info: Rebuilding 1 pages
+2025-02-14T14:19:19.916Z - info: Site data built
+2025-02-14T14:19:19.916Z - info: Pages rebuilt
+2025-02-14T14:19:19.916Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:19:20.408Z - info: [10:19:20 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:19:21.418Z - info: Rebuilding 1 pages
+2025-02-14T14:19:21.463Z - info: Site data built
+2025-02-14T14:19:21.463Z - info: Pages rebuilt
+2025-02-14T14:19:21.463Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-14T14:19:26.168Z - info: [10:19:26 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:19:27.182Z - info: Rebuilding 1 pages
+2025-02-14T14:19:27.216Z - info: Site data built
+2025-02-14T14:19:27.216Z - info: Pages rebuilt
+2025-02-14T14:19:27.216Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:19:32.752Z - info: [10:19:32 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:19:33.768Z - info: Rebuilding 1 pages
+2025-02-14T14:19:33.824Z - info: Site data built
+2025-02-14T14:19:33.824Z - info: Pages rebuilt
+2025-02-14T14:19:33.824Z - info: Website regeneration complete! Total build time: 0.057s
+2025-02-14T14:19:38.071Z - info: [10:19:38 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:19:39.082Z - info: Rebuilding 1 pages
+2025-02-14T14:19:39.115Z - info: Site data built
+2025-02-14T14:19:39.115Z - info: Pages rebuilt
+2025-02-14T14:19:39.116Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:19:45.026Z - info: [10:19:45 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:19:46.038Z - info: Rebuilding 1 pages
+2025-02-14T14:19:46.071Z - info: Site data built
+2025-02-14T14:19:46.071Z - info: Pages rebuilt
+2025-02-14T14:19:46.071Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:19:47.570Z - info: [10:19:47 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:19:48.580Z - info: Rebuilding 1 pages
+2025-02-14T14:19:48.622Z - info: Site data built
+2025-02-14T14:19:48.622Z - info: Pages rebuilt
+2025-02-14T14:19:48.622Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-14T14:20:06.776Z - info: [10:20:06 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:20:07.781Z - info: Rebuilding 1 pages
+2025-02-14T14:20:07.816Z - info: Site data built
+2025-02-14T14:20:07.816Z - info: Pages rebuilt
+2025-02-14T14:20:07.816Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T14:20:39.846Z - info: [10:20:39 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:20:40.857Z - info: Rebuilding 1 pages
+2025-02-14T14:20:40.886Z - info: Site data built
+2025-02-14T14:20:40.886Z - info: Pages rebuilt
+2025-02-14T14:20:40.887Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:20:44.983Z - info: [10:20:44 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:20:45.990Z - info: Rebuilding 1 pages
+2025-02-14T14:20:46.021Z - info: Site data built
+2025-02-14T14:20:46.021Z - info: Pages rebuilt
+2025-02-14T14:20:46.021Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:20:52.983Z - info: [10:20:52 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:20:53.986Z - info: Rebuilding 1 pages
+2025-02-14T14:20:54.018Z - info: Site data built
+2025-02-14T14:20:54.019Z - info: Pages rebuilt
+2025-02-14T14:20:54.019Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:20:58.453Z - info: [10:20:58 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:20:59.456Z - info: Rebuilding 1 pages
+2025-02-14T14:20:59.496Z - info: Site data built
+2025-02-14T14:20:59.496Z - info: Pages rebuilt
+2025-02-14T14:20:59.496Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-14T14:21:00.175Z - info: [10:21:00 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:01.181Z - info: Rebuilding 1 pages
+2025-02-14T14:21:01.210Z - info: Site data built
+2025-02-14T14:21:01.210Z - info: Pages rebuilt
+2025-02-14T14:21:01.210Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:21:22.988Z - info: [10:21:22 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:24.002Z - info: Rebuilding 1 pages
+2025-02-14T14:21:24.037Z - info: Site data built
+2025-02-14T14:21:24.037Z - info: Pages rebuilt
+2025-02-14T14:21:24.037Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T14:21:28.303Z - info: [10:21:28 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:29.309Z - info: Rebuilding 1 pages
+2025-02-14T14:21:29.339Z - info: Site data built
+2025-02-14T14:21:29.339Z - info: Pages rebuilt
+2025-02-14T14:21:29.340Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:21:35.124Z - info: [10:21:35 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:36.135Z - info: Rebuilding 1 pages
+2025-02-14T14:21:36.165Z - info: Site data built
+2025-02-14T14:21:36.165Z - info: Pages rebuilt
+2025-02-14T14:21:36.166Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:21:37.048Z - info: [10:21:37 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:38.051Z - info: Rebuilding 1 pages
+2025-02-14T14:21:38.088Z - info: Site data built
+2025-02-14T14:21:38.089Z - info: Pages rebuilt
+2025-02-14T14:21:38.089Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-14T14:21:38.469Z - info: [10:21:38 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:39.470Z - info: Rebuilding 1 pages
+2025-02-14T14:21:39.497Z - info: Site data built
+2025-02-14T14:21:39.497Z - info: Pages rebuilt
+2025-02-14T14:21:39.497Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T14:21:44.471Z - info: [10:21:44 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:45.484Z - info: Rebuilding 1 pages
+2025-02-14T14:21:45.521Z - info: Site data built
+2025-02-14T14:21:45.521Z - info: Pages rebuilt
+2025-02-14T14:21:45.521Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:21:52.574Z - info: [10:21:52 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:53.581Z - info: Rebuilding 1 pages
+2025-02-14T14:21:53.614Z - info: Site data built
+2025-02-14T14:21:53.614Z - info: Pages rebuilt
+2025-02-14T14:21:53.615Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-14T14:21:56.137Z - info: [10:21:56 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:21:57.153Z - info: Rebuilding 1 pages
+2025-02-14T14:21:57.183Z - info: Site data built
+2025-02-14T14:21:57.184Z - info: Pages rebuilt
+2025-02-14T14:21:57.184Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:22:03.234Z - info: [10:22:03 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:04.236Z - info: Rebuilding 1 pages
+2025-02-14T14:22:04.278Z - info: Site data built
+2025-02-14T14:22:04.278Z - info: Pages rebuilt
+2025-02-14T14:22:04.278Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-14T14:22:04.887Z - info: [10:22:04 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:05.890Z - info: Rebuilding 1 pages
+2025-02-14T14:22:05.928Z - info: Site data built
+2025-02-14T14:22:05.928Z - info: Pages rebuilt
+2025-02-14T14:22:05.928Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T14:22:08.657Z - info: [10:22:08 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:09.659Z - info: Rebuilding 1 pages
+2025-02-14T14:22:09.692Z - info: Site data built
+2025-02-14T14:22:09.692Z - info: Pages rebuilt
+2025-02-14T14:22:09.693Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:22:19.286Z - info: [10:22:19 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:20.298Z - info: Rebuilding 1 pages
+2025-02-14T14:22:20.328Z - info: Site data built
+2025-02-14T14:22:20.329Z - info: Pages rebuilt
+2025-02-14T14:22:20.329Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:22:24.764Z - info: [10:22:24 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:25.771Z - info: Rebuilding 1 pages
+2025-02-14T14:22:25.801Z - info: Site data built
+2025-02-14T14:22:25.801Z - info: Pages rebuilt
+2025-02-14T14:22:25.801Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:22:33.557Z - info: [10:22:33 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:34.564Z - info: Rebuilding 1 pages
+2025-02-14T14:22:34.594Z - info: Site data built
+2025-02-14T14:22:34.594Z - info: Pages rebuilt
+2025-02-14T14:22:34.594Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:22:46.377Z - info: [10:22:46 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:47.380Z - info: Rebuilding 1 pages
+2025-02-14T14:22:47.410Z - info: Site data built
+2025-02-14T14:22:47.410Z - info: Pages rebuilt
+2025-02-14T14:22:47.410Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:22:55.065Z - info: [10:22:55 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:56.077Z - info: Rebuilding 1 pages
+2025-02-14T14:22:56.121Z - info: Site data built
+2025-02-14T14:22:56.121Z - info: Pages rebuilt
+2025-02-14T14:22:56.122Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-14T14:22:56.184Z - info: [10:22:56 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:57.195Z - info: Rebuilding 1 pages
+2025-02-14T14:22:57.231Z - info: Site data built
+2025-02-14T14:22:57.232Z - info: Pages rebuilt
+2025-02-14T14:22:57.232Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T14:22:58.430Z - info: [10:22:58 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:22:59.440Z - info: Rebuilding 1 pages
+2025-02-14T14:22:59.467Z - info: Site data built
+2025-02-14T14:22:59.468Z - info: Pages rebuilt
+2025-02-14T14:22:59.468Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-14T14:23:00.116Z - info: [10:23:00 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:01.126Z - info: Rebuilding 1 pages
+2025-02-14T14:23:01.150Z - info: Site data built
+2025-02-14T14:23:01.150Z - info: Pages rebuilt
+2025-02-14T14:23:01.150Z - info: Website regeneration complete! Total build time: 0.024s
+2025-02-14T14:23:01.502Z - info: [10:23:01 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:02.512Z - info: Rebuilding 1 pages
+2025-02-14T14:23:02.539Z - info: Site data built
+2025-02-14T14:23:02.539Z - info: Pages rebuilt
+2025-02-14T14:23:02.540Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-14T14:23:02.735Z - info: [10:23:02 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:03.746Z - info: Rebuilding 1 pages
+2025-02-14T14:23:03.778Z - info: Site data built
+2025-02-14T14:23:03.779Z - info: Pages rebuilt
+2025-02-14T14:23:03.779Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-14T14:23:08.757Z - info: [10:23:08 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:09.772Z - info: Rebuilding 1 pages
+2025-02-14T14:23:09.802Z - info: Site data built
+2025-02-14T14:23:09.802Z - info: Pages rebuilt
+2025-02-14T14:23:09.803Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:23:10.288Z - info: [10:23:10 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:11.291Z - info: Rebuilding 1 pages
+2025-02-14T14:23:11.320Z - info: Site data built
+2025-02-14T14:23:11.320Z - info: Pages rebuilt
+2025-02-14T14:23:11.320Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:23:14.637Z - info: [10:23:14 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:15.642Z - info: Rebuilding 1 pages
+2025-02-14T14:23:15.676Z - info: Site data built
+2025-02-14T14:23:15.677Z - info: Pages rebuilt
+2025-02-14T14:23:15.677Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T14:23:24.735Z - info: [10:23:24 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:25.741Z - info: Rebuilding 1 pages
+2025-02-14T14:23:25.772Z - info: Site data built
+2025-02-14T14:23:25.772Z - info: Pages rebuilt
+2025-02-14T14:23:25.772Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:23:36.800Z - info: [10:23:36 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:37.811Z - info: Rebuilding 1 pages
+2025-02-14T14:23:37.846Z - info: Site data built
+2025-02-14T14:23:37.846Z - info: Pages rebuilt
+2025-02-14T14:23:37.846Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-14T14:23:40.056Z - info: [10:23:40 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:41.060Z - info: Rebuilding 1 pages
+2025-02-14T14:23:41.089Z - info: Site data built
+2025-02-14T14:23:41.089Z - info: Pages rebuilt
+2025-02-14T14:23:41.089Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:23:43.632Z - info: [10:23:43 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:23:44.649Z - info: Rebuilding 1 pages
+2025-02-14T14:23:44.679Z - info: Site data built
+2025-02-14T14:23:44.679Z - info: Pages rebuilt
+2025-02-14T14:23:44.679Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-14T14:24:11.064Z - info: [10:24:11 pm] Reload for file change: E:\cyx-portfolio\stylesheets\main.css
+2025-02-14T14:24:11.068Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T14:24:17.749Z - info: [10:24:17 pm] Reload for file change: E:\cyx-portfolio\stylesheets\main.css
+2025-02-14T14:24:17.753Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T14:24:40.579Z - info: [10:24:40 pm] Reload for file change: E:\cyx-portfolio\stylesheets\main.css
+2025-02-14T14:24:40.579Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T14:24:48.366Z - info: [10:24:48 pm] Reload for file change: E:\cyx-portfolio\stylesheets\main.css
+2025-02-14T14:24:48.368Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 712957.crdownload'
+2025-02-14T14:25:29.154Z - info: [10:25:29 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:25:30.166Z - info: Rebuilding 1 pages
+2025-02-14T14:25:30.201Z - info: Site data built
+2025-02-14T14:25:30.201Z - info: Pages rebuilt
+2025-02-14T14:25:30.201Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T14:25:32.429Z - info: [10:25:32 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:25:33.441Z - info: Rebuilding 1 pages
+2025-02-14T14:25:33.480Z - info: Site data built
+2025-02-14T14:25:33.480Z - info: Pages rebuilt
+2025-02-14T14:25:33.480Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-14T14:25:36.100Z - info: [10:25:36 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:25:37.126Z - info: Rebuilding 1 pages
+2025-02-14T14:25:37.158Z - info: Site data built
+2025-02-14T14:25:37.158Z - info: Pages rebuilt
+2025-02-14T14:25:37.158Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:25:41.324Z - info: [10:25:41 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:25:42.339Z - info: Rebuilding 1 pages
+2025-02-14T14:25:42.397Z - info: Site data built
+2025-02-14T14:25:42.397Z - info: Pages rebuilt
+2025-02-14T14:25:42.397Z - info: Website regeneration complete! Total build time: 0.059s
+2025-02-14T14:25:43.860Z - info: [10:25:43 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:25:44.873Z - info: Rebuilding 1 pages
+2025-02-14T14:25:44.914Z - info: Site data built
+2025-02-14T14:25:44.914Z - info: Pages rebuilt
+2025-02-14T14:25:44.914Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-14T14:25:50.082Z - info: [10:25:50 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:25:51.083Z - info: Rebuilding 1 pages
+2025-02-14T14:25:51.120Z - info: Site data built
+2025-02-14T14:25:51.120Z - info: Pages rebuilt
+2025-02-14T14:25:51.120Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T14:25:53.289Z - info: [10:25:53 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:25:54.290Z - info: Rebuilding 1 pages
+2025-02-14T14:25:54.331Z - info: Site data built
+2025-02-14T14:25:54.331Z - info: Pages rebuilt
+2025-02-14T14:25:54.331Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-14T14:25:56.872Z - info: [10:25:56 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:25:57.881Z - info: Rebuilding 1 pages
+2025-02-14T14:25:57.912Z - info: Site data built
+2025-02-14T14:25:57.912Z - info: Pages rebuilt
+2025-02-14T14:25:57.912Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-14T14:26:49.905Z - info: [10:26:49 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:26:50.905Z - info: Rebuilding 1 pages
+2025-02-14T14:26:50.944Z - info: Site data built
+2025-02-14T14:26:50.944Z - info: Pages rebuilt
+2025-02-14T14:26:50.944Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-14T14:26:54.471Z - info: [10:26:54 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:26:55.474Z - info: Rebuilding 1 pages
+2025-02-14T14:26:55.509Z - info: Site data built
+2025-02-14T14:26:55.509Z - info: Pages rebuilt
+2025-02-14T14:26:55.509Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-14T14:26:57.563Z - info: [10:26:57 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:26:58.569Z - info: Rebuilding 1 pages
+2025-02-14T14:26:58.601Z - info: Site data built
+2025-02-14T14:26:58.601Z - info: Pages rebuilt
+2025-02-14T14:26:58.601Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-14T14:27:14.604Z - info: [10:27:14 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:27:15.618Z - info: Rebuilding 1 pages
+2025-02-14T14:27:15.654Z - info: Site data built
+2025-02-14T14:27:15.654Z - info: Pages rebuilt
+2025-02-14T14:27:15.654Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-14T14:27:19.551Z - info: [10:27:19 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:27:20.565Z - info: Rebuilding 1 pages
+2025-02-14T14:27:20.607Z - info: Site data built
+2025-02-14T14:27:20.607Z - info: Pages rebuilt
+2025-02-14T14:27:20.608Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-14T14:27:22.407Z - info: [10:27:22 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:27:23.413Z - info: Rebuilding 1 pages
+2025-02-14T14:27:23.451Z - info: Site data built
+2025-02-14T14:27:23.451Z - info: Pages rebuilt
+2025-02-14T14:27:23.452Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-14T14:27:38.153Z - info: [10:27:38 pm] Reload for file change: E:\cyx-portfolio\contents\projects.md
+2025-02-14T14:27:39.161Z - info: Rebuilding 1 pages
+2025-02-14T14:27:39.197Z - info: Site data built
+2025-02-14T14:27:39.198Z - info: Pages rebuilt
+2025-02-14T14:27:39.198Z - info: Website regeneration complete! Total build time: 0.038s
