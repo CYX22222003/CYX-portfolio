@@ -6,6 +6,6 @@
 <variable name="python"><thumbnail src="../contents/assets/Python.svg" size="50" /></variable>
 <variable name="clang"><thumbnail src="../contents/assets/Clang.svg" size="50" /></variable>
 <variable name="react"><thumbnail src="../contents/assets/react.svg" size="50" /></variable>
-<variable name="numpy"><thumbnail src="../contents/assets/Numpy.svg" size="50" /></variable>
+<variable name="numpy"><thumbnail src="../contents/assets/NumPy.svg" size="50" /></variable>
 <variable name="golang"><thumbnail src="../contents/assets/Golang.svg" size="50" /></variable>
 <variable name="gin"><thumbnail src="../contents/assets/Gin.svg" size="50"></variable>
