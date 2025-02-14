@@ -5,7 +5,13 @@
       "src": "index.md",
       "title": "Portfolio",
       "headings": {
-        "about-me": "About me"
+        "about-me": "About me",
+        "skills": "Skills",
+        "experience": "Experience",
+        "projects": "Projects",
+        "project-1": "Source Academy",
+        "project-2": "RepoSense",
+        "other-projects": "Other projects"
       },
       "headingKeywords": {}
     }

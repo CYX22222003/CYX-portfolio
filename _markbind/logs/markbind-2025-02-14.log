@@ -1,0 +1,84 @@
+2025-02-14T14:37:10.425Z - info: Website generation started at 10:37:10 pm
+2025-02-14T14:37:10.532Z - info: Building assets...
+2025-02-14T14:37:10.618Z - info: Assets built
+2025-02-14T14:37:10.618Z - info: Generating pages...
+2025-02-14T14:37:10.649Z - error:  RangeError: Maximum call stack size exceeded
+    at String.slice (<anonymous>)
+    at Object.dirname (node:path:741:12)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:29:39)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+2025-02-14T14:37:10.660Z - error:  RangeError: Maximum call stack size exceeded
+    at Object.dirname (node:path:653:10)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:29:39)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+2025-02-14T14:37:10.671Z - error:  RangeError: Maximum call stack size exceeded
+    at Object.dirname (node:path:653:10)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:29:39)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+    at calculate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\urlUtil.js:32:15)
+2025-02-14T14:37:10.709Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'https:/cyx22222003.github.io/CYX-portfolio/contents/assets/Resume_chen_yixun_2024.pdf' found in file 'E:\cyx-portfolio\index.md'
+2025-02-14T14:37:10.709Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'https:/cyx22222003.github.io/CYX-portfolio/contents/assets/CYX.png' found in file 'E:\cyx-portfolio\index.md'
+2025-02-14T14:37:10.710Z - info: Pages built
+2025-02-14T14:37:10.813Z - info: Site data built
+2025-02-14T14:37:10.813Z - info: Website generation complete! Total build time: 0.431s
+2025-02-14T14:37:10.831Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-14T14:37:10.831Z - info: Press CTRL+C to stop ...
+2025-02-14T14:39:47.027Z - info: [10:39:47 pm] Reload for file change: E:\cyx-portfolio\site.json
+2025-02-14T14:39:47.038Z - info: No pages needed to be rebuilt
+2025-02-14T14:39:53.599Z - info: Website generation started at 10:39:53 pm
+2025-02-14T14:39:53.705Z - info: Building assets...
+2025-02-14T14:39:53.791Z - info: Assets built
+2025-02-14T14:39:53.791Z - info: Generating pages...
+2025-02-14T14:39:53.890Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:39:53.890Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:39:53.891Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:39:53.891Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:39:53.892Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:39:53.893Z - info: Pages built
+2025-02-14T14:39:53.997Z - info: Site data built
+2025-02-14T14:39:53.997Z - info: Website generation complete! Total build time: 0.441s
+2025-02-14T14:39:53.997Z - info: Build success!
