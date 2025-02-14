@@ -157,3 +157,132 @@
 2025-02-14T14:42:47.467Z - info: Website generation complete! Total build time: 0.538s
 2025-02-14T14:42:47.468Z - info: Build success!
 2025-02-14T14:42:51.551Z - info: The website has been deployed at: https://cyx22222003.github.io/CYX-portfolio
+2025-02-14T14:44:52.812Z - info: Website generation started at 10:44:52 pm
+2025-02-14T14:44:52.922Z - info: Building assets...
+2025-02-14T14:44:53.012Z - info: Assets built
+2025-02-14T14:44:53.013Z - info: Generating pages...
+2025-02-14T14:44:53.109Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:44:53.110Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:44:53.110Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:44:53.110Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:44:53.110Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:44:53.111Z - info: Pages built
+2025-02-14T14:44:53.213Z - info: Site data built
+2025-02-14T14:44:53.213Z - info: Website generation complete! Total build time: 0.446s
+2025-02-14T14:44:53.230Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-14T14:44:53.230Z - info: Press CTRL+C to stop ...
+2025-02-14T14:45:03.231Z - info: Website generation started at 10:45:03 pm
+2025-02-14T14:45:03.341Z - info: Building assets...
+2025-02-14T14:45:03.426Z - info: Assets built
+2025-02-14T14:45:03.427Z - info: Generating pages...
+2025-02-14T14:45:03.523Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:03.524Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:03.524Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:03.524Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:03.525Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:03.526Z - info: Pages built
+2025-02-14T14:45:03.629Z - info: Site data built
+2025-02-14T14:45:03.629Z - info: Website generation complete! Total build time: 0.442s
+2025-02-14T14:45:03.629Z - info: Build success!
+2025-02-14T14:45:08.614Z - info: Website generation started at 10:45:08 pm
+2025-02-14T14:45:08.724Z - info: Building assets...
+2025-02-14T14:45:08.809Z - info: Assets built
+2025-02-14T14:45:08.810Z - info: Generating pages...
+2025-02-14T14:45:08.908Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:08.909Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:08.909Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:08.909Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:08.909Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:08.910Z - info: Pages built
+2025-02-14T14:45:09.008Z - info: Site data built
+2025-02-14T14:45:09.008Z - info: Website generation complete! Total build time: 0.44s
+2025-02-14T14:45:09.009Z - info: Build success!
+2025-02-14T14:45:13.938Z - info: Website generation started at 10:45:13 pm
+2025-02-14T14:45:14.050Z - info: Building assets...
+2025-02-14T14:45:14.139Z - info: Assets built
+2025-02-14T14:45:14.140Z - info: Generating pages...
+2025-02-14T14:45:14.235Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:14.236Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:14.236Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:14.236Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:14.237Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:14.237Z - info: Pages built
+2025-02-14T14:45:14.338Z - info: Site data built
+2025-02-14T14:45:14.338Z - info: Website generation complete! Total build time: 0.445s
+2025-02-14T14:45:14.339Z - info: Build success!
+2025-02-14T14:45:18.323Z - info: The website has been deployed at: https://cyx22222003.github.io/CYX-portfolio
+2025-02-14T14:45:51.915Z - info: Website generation started at 10:45:51 pm
+2025-02-14T14:45:52.024Z - info: Building assets...
+2025-02-14T14:45:52.112Z - info: Assets built
+2025-02-14T14:45:52.113Z - info: Generating pages...
+2025-02-14T14:45:52.209Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:52.209Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:52.209Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:52.210Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:52.210Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:45:52.211Z - info: Pages built
+2025-02-14T14:45:52.316Z - info: Site data built
+2025-02-14T14:45:52.316Z - info: Website generation complete! Total build time: 0.446s
+2025-02-14T14:45:52.316Z - info: Build success!
+2025-02-14T14:46:00.010Z - info: Website generation started at 10:45:59 pm
+2025-02-14T14:46:00.122Z - info: Building assets...
+2025-02-14T14:46:00.214Z - info: Assets built
+2025-02-14T14:46:00.215Z - info: Generating pages...
+2025-02-14T14:46:00.314Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:00.314Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:00.315Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:00.315Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:00.315Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:00.316Z - info: Pages built
+2025-02-14T14:46:00.421Z - info: Site data built
+2025-02-14T14:46:00.421Z - info: Website generation complete! Total build time: 0.457s
+2025-02-14T14:46:00.422Z - info: Build success!
+2025-02-14T14:46:04.263Z - info: The website has been deployed at: https://cyx22222003.github.io/CYX-portfolio
+2025-02-14T14:46:23.381Z - info: Website generation started at 10:46:23 pm
+2025-02-14T14:46:23.492Z - info: Building assets...
+2025-02-14T14:46:23.581Z - info: Assets built
+2025-02-14T14:46:23.581Z - info: Generating pages...
+2025-02-14T14:46:23.678Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:23.679Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:23.679Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:23.679Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:23.680Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-14T14:46:23.680Z - info: Pages built
+2025-02-14T14:46:23.785Z - info: Site data built
+2025-02-14T14:46:23.785Z - info: Website generation complete! Total build time: 0.453s
+2025-02-14T14:46:23.786Z - info: Build success!
