@@ -27,6 +27,6 @@
     "message": "Site Update."
   },
   "style": {
-    "bootstrapTheme": "bootswatch-flatly"
+    "bootstrapTheme": "bootswatch-zephyr"
   }
 }
