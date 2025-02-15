@@ -9,8 +9,9 @@
         "skills": "Skills",
         "experience": "Experience",
         "projects": "Projects",
-        "project-1": "Source Academy",
-        "project-2": "RepoSense",
+        "project-1": "Source Academy Game",
+        "project-2": "Person AI (Project Korolev)",
+        "project-3": "RepoSense",
         "other-projects": "Other projects"
       },
       "headingKeywords": {}

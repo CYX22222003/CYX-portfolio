@@ -1,4 +1,5 @@
 <variable name="name">Chen Yixun</variable>
+<variable name="name_cn">陈艺迅</variable>
 <variable name="javascript"><thumbnail src='../contents/assets/JavaScript.svg' size="50" /></variable>
 <variable name="typescript"><thumbnail src='../contents/assets/Typescript.svg' size="50" /></variable>
 <variable name="vue"><thumbnail src='../contents/assets/Vue.svg' size="50" /></variable>
@@ -25,3 +26,5 @@
 <variable name="bash"><thumbnail src="../contents/assets/Bash.svg" size="50" /></variable>
 <variable name="git"><thumbnail src="../contents/assets/git.svg" size="50" /></variable>
 <variable name="ubuntu"><thumbnail src="../contents/assets/ubuntu.svg" size="50" /></variable>
+<variable name="ionic"><thumbnail src="../contents/assets/ionic.svg" size="50" /></variable>
+<variable name="mui"><thumbnail src="../contents/assets/mui.svg" size="50" /></variable>

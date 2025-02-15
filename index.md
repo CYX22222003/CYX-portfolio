@@ -7,7 +7,12 @@
 
 <div class="bg-light text-black px-2 py-5 mb-4">
   <div class="container">
-    <h1 class="display-5 no-index"><md>:wave:</md> <span style="font-family: 'Courier New'">Hi!<br>I'm</spam> <span style="font-family: 'Lucida Console'">{{ name }}</span></h1>
+    <h1 class="display-5 no-index">
+      <md>:wave:</md>
+      <span style="font-family: 'Courier New'">Hi!I'm <br></span>  
+      <span style="font-family: 'Lucida Console'">{{ name }}</span> /
+      <span style="font-family: FangSong, 仿宋, serif;">{{name_cn}}</span>
+    </h1>
     <p class="lead"><span style="font-family: 'Courier New';">Welcome to my portfolio!</span></p>
     <div style="margin-bottom:20px;">
       <span style="margin-right:10px;">
@@ -50,7 +55,7 @@
     <div class="col-md-6 col-md-pull-3">
       <!-- This is where you can add a picture of yourself and a brief introduction. This can be a good place to use <tooltip content="Add more information here" placement="top">tooltips</tooltip>, or <md>[add relevant links](https://markbind.org/userGuide/formattingContents.html#links).</md> -->
       <span style="font-family: 'Lucida Console';">
-      I'm Chen Yixun, a Computer Science student at the National University of Singapore with a deep passion for programming language implementation, full-stack software development, and AI/machine learning. I craft efficient, scalable software solutions—from robust backend systems to intuitive, user-friendly interfaces. My projects span web development, cloud deployment, and AI integration, utilizing cutting-edge technologies like React, Flask, and modern deep learning frameworks.
+      I'm Chen Yixun, a Computer Science student at the National University of Singapore with a deep passion for programming language implementation, full-stack software development, and artificial intelligence. I craft efficient, scalable software solutions—from robust backend systems to intuitive, user-friendly interfaces. My projects span web development, cloud deployment, and AI integration, utilizing cutting-edge technologies like React, Flask, and modern deep learning frameworks.
       </span>
     </div>
   </div>

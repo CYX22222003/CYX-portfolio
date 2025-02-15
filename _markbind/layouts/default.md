@@ -10,6 +10,7 @@
     <dropdown header="Projects" class="nav-link">
       <li><a href="{{baseUrl}}/index.html#project-1" class="dropdown-item">Source Academy</a></li>
       <li><a href="{{baseUrl}}/index.html#project-2" class="dropdown-item">PersonAI (Project Korolev)</a></li>
+      <li><a href="{{baseUrl}}/index.html#project-3" class="dropdown-item">RepoSense</a></li>
       <li><a href="{{baseUrl}}/index.html#other-projects" class="dropdown-item">Other projects</a></li>
     </dropdown>
     <!-- <li slot="right">
