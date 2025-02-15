@@ -50,8 +50,10 @@
   <div class="tab-pane fade" id="External" role="tabpanel">
     <h4>Full-stack developer @ <md>[PersonAI](https://markbind.org/)</md></h4>
     <h6>May 2024 - Aug 2024</h6>
-    <!-- <p>Some description of your role in the company and the technologies you've used.</p>
-    {{ javascript }} -->
+    <p><md>
+    * Utilized generative AI with Gemini API and OpenAI Whisper transformer to assist work of mental health practitioners
+    * Developed a web application using React and Flask to provide services of session document summaries, meeting transcription and sentimental analysis about patients' conditions. 
+    </md></p>
   </div>
 </div>
 </span>
