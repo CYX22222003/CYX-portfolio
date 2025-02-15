@@ -1,0 +1,2333 @@
+2025-02-15T00:06:21.043Z - info: Website generation started at 8:06:20 am
+2025-02-15T00:06:21.583Z - info: Building assets...
+2025-02-15T00:06:21.715Z - info: Assets built
+2025-02-15T00:06:21.716Z - info: Generating pages...
+2025-02-15T00:06:21.854Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:06:21.854Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:06:21.854Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:06:21.855Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:06:21.855Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:06:21.857Z - info: Pages built
+2025-02-15T00:06:22.020Z - info: Site data built
+2025-02-15T00:06:22.020Z - info: Website generation complete! Total build time: 1.042s
+2025-02-15T00:06:22.039Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:06:22.039Z - info: Press CTRL+C to stop ...
+2025-02-15T00:06:36.512Z - info: [8:06:36 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:06:37.523Z - info: Rebuilding 1 pages
+2025-02-15T00:06:37.602Z - info: Site data built
+2025-02-15T00:06:37.603Z - info: Pages rebuilt
+2025-02-15T00:06:37.603Z - info: Website regeneration complete! Total build time: 0.081s
+2025-02-15T00:06:55.858Z - info: [8:06:55 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:06:56.871Z - info: Rebuilding 1 pages
+2025-02-15T00:06:56.914Z - info: Site data built
+2025-02-15T00:06:56.914Z - info: Pages rebuilt
+2025-02-15T00:06:56.914Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-15T00:06:58.769Z - info: [8:06:58 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:06:59.771Z - info: Rebuilding 1 pages
+2025-02-15T00:06:59.815Z - info: Site data built
+2025-02-15T00:06:59.816Z - info: Pages rebuilt
+2025-02-15T00:06:59.816Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:07:01.156Z - info: [8:07:01 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:02.169Z - info: Rebuilding 1 pages
+2025-02-15T00:07:02.203Z - info: Site data built
+2025-02-15T00:07:02.203Z - info: Pages rebuilt
+2025-02-15T00:07:02.203Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:07:08.133Z - info: [8:07:08 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:09.136Z - info: Rebuilding 1 pages
+2025-02-15T00:07:09.169Z - info: Site data built
+2025-02-15T00:07:09.169Z - info: Pages rebuilt
+2025-02-15T00:07:09.170Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:07:10.114Z - info: [8:07:10 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:11.125Z - info: Rebuilding 1 pages
+2025-02-15T00:07:11.166Z - info: Site data built
+2025-02-15T00:07:11.166Z - info: Pages rebuilt
+2025-02-15T00:07:11.166Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:07:12.111Z - info: [8:07:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:13.123Z - info: Rebuilding 1 pages
+2025-02-15T00:07:13.161Z - info: Site data built
+2025-02-15T00:07:13.162Z - info: Pages rebuilt
+2025-02-15T00:07:13.162Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:07:13.261Z - info: [8:07:13 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:14.273Z - info: Rebuilding 1 pages
+2025-02-15T00:07:14.303Z - info: Site data built
+2025-02-15T00:07:14.303Z - info: Pages rebuilt
+2025-02-15T00:07:14.303Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:07:15.964Z - info: [8:07:15 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:16.973Z - info: Rebuilding 1 pages
+2025-02-15T00:07:17.009Z - info: Site data built
+2025-02-15T00:07:17.010Z - info: Pages rebuilt
+2025-02-15T00:07:17.010Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:07:35.275Z - info: [8:07:35 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:36.288Z - info: Rebuilding 1 pages
+2025-02-15T00:07:36.325Z - info: Site data built
+2025-02-15T00:07:36.325Z - info: Pages rebuilt
+2025-02-15T00:07:36.325Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:07:43.310Z - info: [8:07:43 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:44.320Z - info: Rebuilding 1 pages
+2025-02-15T00:07:44.353Z - info: Site data built
+2025-02-15T00:07:44.353Z - info: Pages rebuilt
+2025-02-15T00:07:44.354Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:07:50.341Z - info: [8:07:50 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:51.353Z - info: Rebuilding 1 pages
+2025-02-15T00:07:51.391Z - info: Site data built
+2025-02-15T00:07:51.391Z - info: Pages rebuilt
+2025-02-15T00:07:51.392Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:07:55.398Z - info: [8:07:55 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:07:56.403Z - info: Rebuilding 1 pages
+2025-02-15T00:07:56.440Z - info: Site data built
+2025-02-15T00:07:56.441Z - info: Pages rebuilt
+2025-02-15T00:07:56.441Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:08:00.899Z - info: [8:08:00 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:08:01.901Z - info: Rebuilding 1 pages
+2025-02-15T00:08:01.944Z - info: Site data built
+2025-02-15T00:08:01.945Z - info: Pages rebuilt
+2025-02-15T00:08:01.945Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:08:20.019Z - info: [8:08:20 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:08:21.046Z - info: Rebuilding 1 pages
+2025-02-15T00:08:21.086Z - info: Site data built
+2025-02-15T00:08:21.086Z - info: Pages rebuilt
+2025-02-15T00:08:21.086Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:08:31.417Z - info: [8:08:31 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:08:32.432Z - info: Rebuilding 1 pages
+2025-02-15T00:08:32.466Z - info: Site data built
+2025-02-15T00:08:32.466Z - info: Pages rebuilt
+2025-02-15T00:08:32.467Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:08:36.916Z - info: [8:08:36 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:08:37.928Z - info: Rebuilding 1 pages
+2025-02-15T00:08:37.968Z - info: Site data built
+2025-02-15T00:08:37.968Z - info: Pages rebuilt
+2025-02-15T00:08:37.968Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:08:59.087Z - info: [8:08:59 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:09:00.092Z - info: Rebuilding 1 pages
+2025-02-15T00:09:00.132Z - info: Site data built
+2025-02-15T00:09:00.132Z - info: Pages rebuilt
+2025-02-15T00:09:00.132Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:09:19.896Z - info: Website generation started at 8:09:19 am
+2025-02-15T00:09:20.015Z - info: Building assets...
+2025-02-15T00:09:20.125Z - info: Assets built
+2025-02-15T00:09:20.126Z - info: Generating pages...
+2025-02-15T00:09:20.225Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:09:20.225Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:09:20.225Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:09:20.226Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:09:20.226Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:09:20.227Z - info: Pages built
+2025-02-15T00:09:20.331Z - info: Site data built
+2025-02-15T00:09:20.331Z - info: Website generation complete! Total build time: 0.482s
+2025-02-15T00:09:20.347Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:09:20.348Z - info: Press CTRL+C to stop ...
+2025-02-15T00:09:36.127Z - info: [8:09:36 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:09:37.136Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:09:37.137Z - info: Rebuilding 1 pages
+2025-02-15T00:09:37.211Z - info: Site data built
+2025-02-15T00:09:37.212Z - info: Pages rebuilt
+2025-02-15T00:09:37.212Z - info: Website regeneration complete! Total build time: 0.082s
+2025-02-15T00:09:37.620Z - info: [8:09:37 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:09:38.635Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:09:38.635Z - info: Rebuilding 1 pages
+2025-02-15T00:09:38.674Z - info: Site data built
+2025-02-15T00:09:38.674Z - info: Pages rebuilt
+2025-02-15T00:09:38.674Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:09:50.325Z - info: [8:09:50 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:09:51.332Z - info: Rebuilding 1 pages
+2025-02-15T00:09:51.377Z - info: Site data built
+2025-02-15T00:09:51.377Z - info: Pages rebuilt
+2025-02-15T00:09:51.377Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:09:57.562Z - info: [8:09:57 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:09:58.579Z - info: Rebuilding 1 pages
+2025-02-15T00:09:58.632Z - info: Site data built
+2025-02-15T00:09:58.633Z - info: Pages rebuilt
+2025-02-15T00:09:58.633Z - info: Website regeneration complete! Total build time: 0.054s
+2025-02-15T00:10:02.395Z - info: [8:10:02 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:10:03.399Z - info: Rebuilding 1 pages
+2025-02-15T00:10:03.435Z - info: Site data built
+2025-02-15T00:10:03.435Z - info: Pages rebuilt
+2025-02-15T00:10:03.435Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:10:05.897Z - info: [8:10:05 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:10:06.928Z - info: Rebuilding 1 pages
+2025-02-15T00:10:06.965Z - info: Site data built
+2025-02-15T00:10:06.965Z - info: Pages rebuilt
+2025-02-15T00:10:06.965Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:10:09.617Z - info: [8:10:09 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:10:10.627Z - info: Rebuilding 1 pages
+2025-02-15T00:10:10.674Z - info: Site data built
+2025-02-15T00:10:10.674Z - info: Pages rebuilt
+2025-02-15T00:10:10.674Z - info: Website regeneration complete! Total build time: 0.047s
+2025-02-15T00:10:20.392Z - info: [8:10:20 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:10:21.416Z - info: Rebuilding 1 pages
+2025-02-15T00:10:21.452Z - info: Site data built
+2025-02-15T00:10:21.453Z - info: Pages rebuilt
+2025-02-15T00:10:21.453Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:10:26.609Z - info: [8:10:26 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:10:27.631Z - info: Rebuilding 1 pages
+2025-02-15T00:10:27.671Z - info: Site data built
+2025-02-15T00:10:27.671Z - info: Pages rebuilt
+2025-02-15T00:10:27.671Z - info: Website regeneration complete! Total build time: 0.057s
+2025-02-15T00:10:42.778Z - info: [8:10:42 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:10:43.781Z - info: Rebuilding 1 pages
+2025-02-15T00:10:43.818Z - info: Site data built
+2025-02-15T00:10:43.818Z - info: Pages rebuilt
+2025-02-15T00:10:43.818Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:10:46.505Z - info: [8:10:46 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:10:47.513Z - info: Rebuilding 1 pages
+2025-02-15T00:10:47.552Z - info: Site data built
+2025-02-15T00:10:47.552Z - info: Pages rebuilt
+2025-02-15T00:10:47.552Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:10:56.017Z - info: [8:10:56 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:10:57.031Z - info: Rebuilding 1 pages
+2025-02-15T00:10:57.068Z - info: Site data built
+2025-02-15T00:10:57.068Z - info: Pages rebuilt
+2025-02-15T00:10:57.069Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:11:00.617Z - info: [8:11:00 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:11:01.628Z - info: Rebuilding 1 pages
+2025-02-15T00:11:01.665Z - info: Site data built
+2025-02-15T00:11:01.665Z - info: Pages rebuilt
+2025-02-15T00:11:01.665Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:11:06.756Z - info: [8:11:06 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:11:07.763Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:11:07.763Z - info: Rebuilding 1 pages
+2025-02-15T00:11:07.795Z - info: Site data built
+2025-02-15T00:11:07.795Z - info: Pages rebuilt
+2025-02-15T00:11:07.795Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:11:32.869Z - info: Website generation started at 8:11:32 am
+2025-02-15T00:11:33.011Z - info: Building assets...
+2025-02-15T00:11:33.130Z - info: Assets built
+2025-02-15T00:11:33.131Z - info: Generating pages...
+2025-02-15T00:11:33.261Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:33.261Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:33.261Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:33.262Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:33.262Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:33.263Z - info: Pages built
+2025-02-15T00:11:33.419Z - info: Site data built
+2025-02-15T00:11:33.420Z - info: Website generation complete! Total build time: 0.596s
+2025-02-15T00:11:33.420Z - info: Build success!
+2025-02-15T00:11:37.290Z - info: Website generation started at 8:11:37 am
+2025-02-15T00:11:37.409Z - info: Building assets...
+2025-02-15T00:11:37.522Z - info: Assets built
+2025-02-15T00:11:37.523Z - info: Generating pages...
+2025-02-15T00:11:37.621Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:37.621Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:37.622Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:37.622Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:37.623Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:11:37.624Z - info: Pages built
+2025-02-15T00:11:37.781Z - info: Site data built
+2025-02-15T00:11:37.781Z - info: Website generation complete! Total build time: 0.537s
+2025-02-15T00:11:37.805Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:11:37.805Z - info: Press CTRL+C to stop ...
+2025-02-15T00:11:54.139Z - info: [8:11:54 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:11:55.147Z - info: Rebuilding 1 pages
+2025-02-15T00:11:55.209Z - info: Site data built
+2025-02-15T00:11:55.209Z - info: Pages rebuilt
+2025-02-15T00:11:55.210Z - info: Website regeneration complete! Total build time: 0.064s
+2025-02-15T00:12:05.877Z - info: [8:12:05 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:12:06.894Z - info: Rebuilding 1 pages
+2025-02-15T00:12:06.941Z - info: Site data built
+2025-02-15T00:12:06.941Z - info: Pages rebuilt
+2025-02-15T00:12:06.941Z - info: Website regeneration complete! Total build time: 0.048s
+2025-02-15T00:12:13.037Z - info: [8:12:13 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:12:14.043Z - info: Rebuilding 1 pages
+2025-02-15T00:12:14.085Z - info: Site data built
+2025-02-15T00:12:14.085Z - info: Pages rebuilt
+2025-02-15T00:12:14.085Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:12:15.521Z - info: [8:12:15 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:12:16.527Z - info: Rebuilding 1 pages
+2025-02-15T00:12:16.572Z - info: Site data built
+2025-02-15T00:12:16.572Z - info: Pages rebuilt
+2025-02-15T00:12:16.572Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:12:34.696Z - info: [8:12:34 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:12:35.708Z - info: Rebuilding 1 pages
+2025-02-15T00:12:35.749Z - info: Site data built
+2025-02-15T00:12:35.749Z - info: Pages rebuilt
+2025-02-15T00:12:35.749Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:12:36.885Z - info: [8:12:36 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:12:37.899Z - info: Rebuilding 1 pages
+2025-02-15T00:12:37.941Z - info: Site data built
+2025-02-15T00:12:37.941Z - info: Pages rebuilt
+2025-02-15T00:12:37.941Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:12:59.484Z - info: [8:12:59 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:13:00.500Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:13:00.500Z - info: Rebuilding 1 pages
+2025-02-15T00:13:00.541Z - info: Site data built
+2025-02-15T00:13:00.541Z - info: Pages rebuilt
+2025-02-15T00:13:00.541Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:13:02.464Z - info: [8:13:02 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:13:03.482Z - info: Rebuilding 1 pages
+2025-02-15T00:13:03.522Z - info: Site data built
+2025-02-15T00:13:03.522Z - info: Pages rebuilt
+2025-02-15T00:13:03.522Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:13:10.151Z - info: [8:13:10 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:13:11.162Z - info: Rebuilding 1 pages
+2025-02-15T00:13:11.202Z - info: Site data built
+2025-02-15T00:13:11.202Z - info: Pages rebuilt
+2025-02-15T00:13:11.202Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:13:13.049Z - info: [8:13:13 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:13:14.061Z - info: Rebuilding 1 pages
+2025-02-15T00:13:14.092Z - info: Site data built
+2025-02-15T00:13:14.092Z - info: Pages rebuilt
+2025-02-15T00:13:14.092Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:13:16.394Z - info: [8:13:16 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:13:17.398Z - info: Rebuilding 1 pages
+2025-02-15T00:13:17.431Z - info: Site data built
+2025-02-15T00:13:17.431Z - info: Pages rebuilt
+2025-02-15T00:13:17.431Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:13:28.328Z - info: [8:13:28 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:13:29.331Z - info: Rebuilding 1 pages
+2025-02-15T00:13:29.369Z - info: Site data built
+2025-02-15T00:13:29.369Z - info: Pages rebuilt
+2025-02-15T00:13:29.369Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:13:30.466Z - info: [8:13:30 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:13:31.492Z - info: Rebuilding 1 pages
+2025-02-15T00:13:31.533Z - info: Site data built
+2025-02-15T00:13:31.534Z - info: Pages rebuilt
+2025-02-15T00:13:31.534Z - info: Website regeneration complete! Total build time: 0.058s
+2025-02-15T00:13:45.206Z - info: [8:13:45 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:13:46.207Z - info: Rebuilding 1 pages
+2025-02-15T00:13:46.249Z - info: Site data built
+2025-02-15T00:13:46.249Z - info: Pages rebuilt
+2025-02-15T00:13:46.249Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:13:56.953Z - info: [8:13:56 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:13:57.956Z - info: Rebuilding 1 pages
+2025-02-15T00:13:57.994Z - info: Site data built
+2025-02-15T00:13:57.994Z - info: Pages rebuilt
+2025-02-15T00:13:57.994Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:14:00.741Z - info: [8:14:00 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:01.755Z - info: Rebuilding 1 pages
+2025-02-15T00:14:01.760Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 21, Column 7]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:14:01.786Z - info: Site data built
+2025-02-15T00:14:01.786Z - info: Pages rebuilt
+2025-02-15T00:14:01.787Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:14:03.944Z - info: [8:14:03 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:04.954Z - info: Rebuilding 1 pages
+2025-02-15T00:14:05.001Z - info: Site data built
+2025-02-15T00:14:05.001Z - info: Pages rebuilt
+2025-02-15T00:14:05.001Z - info: Website regeneration complete! Total build time: 0.048s
+2025-02-15T00:14:15.052Z - info: [8:14:15 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:16.052Z - info: Rebuilding 1 pages
+2025-02-15T00:14:16.092Z - info: Site data built
+2025-02-15T00:14:16.092Z - info: Pages rebuilt
+2025-02-15T00:14:16.092Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:14:40.877Z - info: [8:14:40 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:41.880Z - info: Rebuilding 1 pages
+2025-02-15T00:14:41.922Z - info: Site data built
+2025-02-15T00:14:41.922Z - info: Pages rebuilt
+2025-02-15T00:14:41.922Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:14:47.350Z - info: [8:14:47 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:48.357Z - info: Rebuilding 1 pages
+2025-02-15T00:14:48.390Z - info: Site data built
+2025-02-15T00:14:48.391Z - info: Pages rebuilt
+2025-02-15T00:14:48.391Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:14:53.313Z - info: [8:14:53 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:54.328Z - info: Rebuilding 1 pages
+2025-02-15T00:14:54.359Z - info: Site data built
+2025-02-15T00:14:54.359Z - info: Pages rebuilt
+2025-02-15T00:14:54.359Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:14:54.558Z - info: [8:14:54 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:55.568Z - info: Rebuilding 1 pages
+2025-02-15T00:14:55.604Z - info: [8:14:55 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:55.613Z - info: Site data built
+2025-02-15T00:14:55.613Z - info: Pages rebuilt
+2025-02-15T00:14:55.613Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-15T00:14:56.616Z - info: Rebuilding 1 pages
+2025-02-15T00:14:56.645Z - info: Site data built
+2025-02-15T00:14:56.645Z - info: Pages rebuilt
+2025-02-15T00:14:56.645Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:14:57.360Z - info: [8:14:57 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:14:58.378Z - info: Rebuilding 1 pages
+2025-02-15T00:14:58.407Z - info: Site data built
+2025-02-15T00:14:58.407Z - info: Pages rebuilt
+2025-02-15T00:14:58.407Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:15:01.472Z - info: [8:15:01 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:15:02.477Z - info: Rebuilding 1 pages
+2025-02-15T00:15:02.505Z - info: Site data built
+2025-02-15T00:15:02.505Z - info: Pages rebuilt
+2025-02-15T00:15:02.505Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-15T00:15:46.612Z - info: [8:15:46 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:15:47.626Z - info: Rebuilding 1 pages
+2025-02-15T00:15:47.678Z - info: Site data built
+2025-02-15T00:15:47.678Z - info: Pages rebuilt
+2025-02-15T00:15:47.678Z - info: Website regeneration complete! Total build time: 0.053s
+2025-02-15T00:15:48.410Z - info: [8:15:48 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:15:49.423Z - info: Rebuilding 1 pages
+2025-02-15T00:15:49.453Z - info: Site data built
+2025-02-15T00:15:49.454Z - info: Pages rebuilt
+2025-02-15T00:15:49.454Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:15:53.853Z - info: [8:15:53 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:15:54.856Z - info: Rebuilding 1 pages
+2025-02-15T00:15:54.893Z - info: Site data built
+2025-02-15T00:15:54.894Z - info: Pages rebuilt
+2025-02-15T00:15:54.894Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:16:03.161Z - info: [8:16:03 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:04.171Z - info: Rebuilding 1 pages
+2025-02-15T00:16:04.211Z - info: Site data built
+2025-02-15T00:16:04.212Z - info: Pages rebuilt
+2025-02-15T00:16:04.212Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:16:08.569Z - info: [8:16:08 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:09.581Z - info: Rebuilding 1 pages
+2025-02-15T00:16:09.620Z - info: Site data built
+2025-02-15T00:16:09.621Z - info: Pages rebuilt
+2025-02-15T00:16:09.621Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:16:21.365Z - info: [8:16:21 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:22.370Z - info: Rebuilding 1 pages
+2025-02-15T00:16:22.403Z - info: Site data built
+2025-02-15T00:16:22.403Z - info: Pages rebuilt
+2025-02-15T00:16:22.404Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:16:25.100Z - info: [8:16:25 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:26.117Z - info: Rebuilding 1 pages
+2025-02-15T00:16:26.148Z - info: Site data built
+2025-02-15T00:16:26.148Z - info: Pages rebuilt
+2025-02-15T00:16:26.148Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:16:31.423Z - info: [8:16:31 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:32.444Z - info: Rebuilding 1 pages
+2025-02-15T00:16:32.482Z - info: Site data built
+2025-02-15T00:16:32.482Z - info: Pages rebuilt
+2025-02-15T00:16:32.482Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:16:40.265Z - info: [8:16:40 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:41.266Z - info: Rebuilding 1 pages
+2025-02-15T00:16:41.310Z - info: Site data built
+2025-02-15T00:16:41.311Z - info: Pages rebuilt
+2025-02-15T00:16:41.311Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:16:45.836Z - info: [8:16:45 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:46.846Z - info: Rebuilding 1 pages
+2025-02-15T00:16:46.882Z - info: Site data built
+2025-02-15T00:16:46.882Z - info: Pages rebuilt
+2025-02-15T00:16:46.882Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:16:50.417Z - info: [8:16:50 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:51.418Z - info: Rebuilding 1 pages
+2025-02-15T00:16:51.422Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 25, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:16:51.446Z - info: Site data built
+2025-02-15T00:16:51.446Z - info: Pages rebuilt
+2025-02-15T00:16:51.446Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-15T00:16:52.786Z - info: [8:16:52 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:53.807Z - info: Rebuilding 1 pages
+2025-02-15T00:16:53.841Z - info: Site data built
+2025-02-15T00:16:53.841Z - info: Pages rebuilt
+2025-02-15T00:16:53.841Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:16:53.869Z - info: [8:16:53 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:54.871Z - info: Rebuilding 1 pages
+2025-02-15T00:16:54.909Z - info: Site data built
+2025-02-15T00:16:54.909Z - info: Pages rebuilt
+2025-02-15T00:16:54.909Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:16:56.106Z - info: [8:16:56 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:16:57.133Z - info: Rebuilding 1 pages
+2025-02-15T00:16:57.163Z - info: Site data built
+2025-02-15T00:16:57.164Z - info: Pages rebuilt
+2025-02-15T00:16:57.164Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:16:59.461Z - info: [8:16:59 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:17:00.465Z - info: Rebuilding 1 pages
+2025-02-15T00:17:00.499Z - info: Site data built
+2025-02-15T00:17:00.500Z - info: Pages rebuilt
+2025-02-15T00:17:00.500Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:20:06.660Z - info: Website generation started at 8:20:06 am
+2025-02-15T00:20:06.777Z - info: Building assets...
+2025-02-15T00:20:06.889Z - info: Assets built
+2025-02-15T00:20:06.890Z - info: Generating pages...
+2025-02-15T00:20:07.019Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:20:07.020Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:20:07.020Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:20:07.021Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:20:07.022Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:20:07.023Z - info: Pages built
+2025-02-15T00:20:07.173Z - info: Site data built
+2025-02-15T00:20:07.173Z - info: Website generation complete! Total build time: 0.562s
+2025-02-15T00:20:07.199Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:20:07.199Z - info: Press CTRL+C to stop ...
+2025-02-15T00:20:29.523Z - info: [8:20:29 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:20:30.534Z - info: Rebuilding 1 pages
+2025-02-15T00:20:30.594Z - info: Site data built
+2025-02-15T00:20:30.594Z - info: Pages rebuilt
+2025-02-15T00:20:30.594Z - info: Website regeneration complete! Total build time: 0.06s
+2025-02-15T00:20:35.325Z - info: [8:20:35 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:20:36.333Z - info: Rebuilding 1 pages
+2025-02-15T00:20:36.376Z - info: Site data built
+2025-02-15T00:20:36.376Z - info: Pages rebuilt
+2025-02-15T00:20:36.377Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:20:38.574Z - info: [8:20:38 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:20:39.582Z - info: Rebuilding 1 pages
+2025-02-15T00:20:39.628Z - info: Site data built
+2025-02-15T00:20:39.628Z - info: Pages rebuilt
+2025-02-15T00:20:39.628Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:20:44.157Z - info: [8:20:44 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:20:45.165Z - info: Rebuilding 1 pages
+2025-02-15T00:20:45.204Z - info: Site data built
+2025-02-15T00:20:45.204Z - info: Pages rebuilt
+2025-02-15T00:20:45.205Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:20:48.526Z - info: [8:20:48 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:20:49.532Z - info: Rebuilding 1 pages
+2025-02-15T00:20:49.569Z - info: Site data built
+2025-02-15T00:20:49.569Z - info: Pages rebuilt
+2025-02-15T00:20:49.570Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:20:52.383Z - info: [8:20:52 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:20:53.398Z - info: Rebuilding 1 pages
+2025-02-15T00:20:53.434Z - info: Site data built
+2025-02-15T00:20:53.434Z - info: Pages rebuilt
+2025-02-15T00:20:53.434Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:21:30.241Z - info: [8:21:30 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:21:31.253Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:21:31.253Z - info: Rebuilding 1 pages
+2025-02-15T00:21:31.302Z - info: Site data built
+2025-02-15T00:21:31.302Z - info: Pages rebuilt
+2025-02-15T00:21:31.303Z - info: Website regeneration complete! Total build time: 0.055s
+2025-02-15T00:21:57.342Z - info: Website generation started at 8:21:57 am
+2025-02-15T00:21:57.459Z - info: Building assets...
+2025-02-15T00:21:57.571Z - info: Assets built
+2025-02-15T00:21:57.571Z - info: Generating pages...
+2025-02-15T00:21:57.668Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:21:57.669Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:21:57.669Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:21:57.670Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:21:57.670Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:21:57.671Z - info: Pages built
+2025-02-15T00:21:57.780Z - info: Site data built
+2025-02-15T00:21:57.780Z - info: Website generation complete! Total build time: 0.485s
+2025-02-15T00:21:57.797Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:21:57.798Z - info: Press CTRL+C to stop ...
+2025-02-15T00:22:05.166Z - info: Website generation started at 8:22:05 am
+2025-02-15T00:22:05.290Z - info: Building assets...
+2025-02-15T00:22:05.401Z - info: Assets built
+2025-02-15T00:22:05.402Z - info: Generating pages...
+2025-02-15T00:22:05.502Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:05.503Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:05.503Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:05.504Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:05.504Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:05.505Z - info: Pages built
+2025-02-15T00:22:05.611Z - info: Site data built
+2025-02-15T00:22:05.611Z - info: Website generation complete! Total build time: 0.492s
+2025-02-15T00:22:05.611Z - info: Build success!
+2025-02-15T00:22:13.237Z - info: Website generation started at 8:22:13 am
+2025-02-15T00:22:13.356Z - info: Building assets...
+2025-02-15T00:22:13.466Z - info: Assets built
+2025-02-15T00:22:13.467Z - info: Generating pages...
+2025-02-15T00:22:13.565Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:13.565Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:13.565Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:13.566Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:13.566Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:22:13.567Z - info: Pages built
+2025-02-15T00:22:13.672Z - info: Site data built
+2025-02-15T00:22:13.672Z - info: Website generation complete! Total build time: 0.483s
+2025-02-15T00:22:13.689Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:22:13.689Z - info: Press CTRL+C to stop ...
+2025-02-15T00:22:50.315Z - info: [8:22:50 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:22:51.319Z - info: Rebuilding 1 pages
+2025-02-15T00:22:51.379Z - info: Site data built
+2025-02-15T00:22:51.379Z - info: Pages rebuilt
+2025-02-15T00:22:51.379Z - info: Website regeneration complete! Total build time: 0.061s
+2025-02-15T00:22:55.533Z - info: [8:22:55 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:22:56.544Z - info: Rebuilding 1 pages
+2025-02-15T00:22:56.584Z - info: Site data built
+2025-02-15T00:22:56.585Z - info: Pages rebuilt
+2025-02-15T00:22:56.585Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:23:01.896Z - info: [8:23:01 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:02.908Z - info: Rebuilding 1 pages
+2025-02-15T00:23:02.914Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 26, Column 6]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:23:02.948Z - info: Site data built
+2025-02-15T00:23:02.949Z - info: Pages rebuilt
+2025-02-15T00:23:02.949Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:23:05.667Z - info: [8:23:05 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:06.675Z - info: Rebuilding 1 pages
+2025-02-15T00:23:06.679Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 26, Column 6]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:23:06.712Z - info: Site data built
+2025-02-15T00:23:06.712Z - info: Pages rebuilt
+2025-02-15T00:23:06.713Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:23:10.414Z - info: [8:23:10 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:11.425Z - info: Rebuilding 1 pages
+2025-02-15T00:23:11.464Z - info: Site data built
+2025-02-15T00:23:11.464Z - info: Pages rebuilt
+2025-02-15T00:23:11.465Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:23:19.909Z - info: [8:23:19 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:20.917Z - info: Rebuilding 1 pages
+2025-02-15T00:23:20.956Z - info: Site data built
+2025-02-15T00:23:20.956Z - info: Pages rebuilt
+2025-02-15T00:23:20.956Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:23:37.917Z - info: [8:23:37 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:38.931Z - info: Rebuilding 1 pages
+2025-02-15T00:23:38.969Z - info: Site data built
+2025-02-15T00:23:38.970Z - info: Pages rebuilt
+2025-02-15T00:23:38.970Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:23:39.505Z - info: [8:23:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:40.513Z - info: Rebuilding 1 pages
+2025-02-15T00:23:40.545Z - info: Site data built
+2025-02-15T00:23:40.545Z - info: Pages rebuilt
+2025-02-15T00:23:40.545Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:23:40.910Z - info: [8:23:40 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:41.915Z - info: Rebuilding 1 pages
+2025-02-15T00:23:41.955Z - info: Site data built
+2025-02-15T00:23:41.955Z - info: Pages rebuilt
+2025-02-15T00:23:41.955Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:23:42.364Z - info: [8:23:42 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:43.367Z - info: Rebuilding 1 pages
+2025-02-15T00:23:43.400Z - info: Site data built
+2025-02-15T00:23:43.400Z - info: Pages rebuilt
+2025-02-15T00:23:43.400Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:23:43.919Z - info: [8:23:43 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:44.930Z - info: Rebuilding 1 pages
+2025-02-15T00:23:44.967Z - info: Site data built
+2025-02-15T00:23:44.968Z - info: Pages rebuilt
+2025-02-15T00:23:44.968Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:23:45.978Z - info: [8:23:45 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:46.979Z - info: Rebuilding 1 pages
+2025-02-15T00:23:47.018Z - info: Site data built
+2025-02-15T00:23:47.019Z - info: Pages rebuilt
+2025-02-15T00:23:47.019Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:23:49.738Z - info: [8:23:49 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:50.746Z - info: Rebuilding 1 pages
+2025-02-15T00:23:50.780Z - info: Site data built
+2025-02-15T00:23:50.780Z - info: Pages rebuilt
+2025-02-15T00:23:50.781Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:23:51.483Z - info: [8:23:51 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:52.497Z - info: Rebuilding 1 pages
+2025-02-15T00:23:52.532Z - info: Site data built
+2025-02-15T00:23:52.532Z - info: Pages rebuilt
+2025-02-15T00:23:52.532Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:23:58.207Z - info: [8:23:58 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:23:59.229Z - info: Rebuilding 1 pages
+2025-02-15T00:23:59.268Z - info: Site data built
+2025-02-15T00:23:59.268Z - info: Pages rebuilt
+2025-02-15T00:23:59.268Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:24:04.472Z - info: [8:24:04 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:05.478Z - info: Rebuilding 1 pages
+2025-02-15T00:24:05.530Z - info: Site data built
+2025-02-15T00:24:05.531Z - info: Pages rebuilt
+2025-02-15T00:24:05.531Z - info: Website regeneration complete! Total build time: 0.054s
+2025-02-15T00:24:08.090Z - info: [8:24:08 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:09.093Z - info: Rebuilding 1 pages
+2025-02-15T00:24:09.125Z - info: Site data built
+2025-02-15T00:24:09.125Z - info: Pages rebuilt
+2025-02-15T00:24:09.126Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:24:12.791Z - info: [8:24:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:13.793Z - info: Rebuilding 1 pages
+2025-02-15T00:24:13.797Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 28, Column 6]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:24:13.823Z - info: Site data built
+2025-02-15T00:24:13.823Z - info: Pages rebuilt
+2025-02-15T00:24:13.824Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:24:15.698Z - info: [8:24:15 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:16.726Z - info: Rebuilding 1 pages
+2025-02-15T00:24:16.753Z - info: Site data built
+2025-02-15T00:24:16.753Z - info: Pages rebuilt
+2025-02-15T00:24:16.753Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-15T00:24:17.093Z - info: [8:24:17 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:18.095Z - info: Rebuilding 1 pages
+2025-02-15T00:24:18.122Z - info: Site data built
+2025-02-15T00:24:18.122Z - info: Pages rebuilt
+2025-02-15T00:24:18.122Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-15T00:24:20.098Z - info: [8:24:20 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:21.110Z - info: Rebuilding 1 pages
+2025-02-15T00:24:21.147Z - info: Site data built
+2025-02-15T00:24:21.147Z - info: Pages rebuilt
+2025-02-15T00:24:21.147Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:24:24.229Z - info: [8:24:24 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:25.242Z - info: Rebuilding 1 pages
+2025-02-15T00:24:25.280Z - info: Site data built
+2025-02-15T00:24:25.280Z - info: Pages rebuilt
+2025-02-15T00:24:25.280Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:24:31.484Z - info: [8:24:31 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:32.491Z - info: Rebuilding 1 pages
+2025-02-15T00:24:32.520Z - info: Site data built
+2025-02-15T00:24:32.521Z - info: Pages rebuilt
+2025-02-15T00:24:32.521Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:24:36.945Z - info: [8:24:36 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:37.958Z - info: Rebuilding 1 pages
+2025-02-15T00:24:37.990Z - info: Site data built
+2025-02-15T00:24:37.990Z - info: Pages rebuilt
+2025-02-15T00:24:37.990Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:24:54.160Z - info: [8:24:54 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:55.181Z - info: Rebuilding 1 pages
+2025-02-15T00:24:55.217Z - info: Site data built
+2025-02-15T00:24:55.217Z - info: Pages rebuilt
+2025-02-15T00:24:55.218Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:24:57.207Z - info: [8:24:57 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:24:58.222Z - info: Rebuilding 1 pages
+2025-02-15T00:24:58.254Z - info: Site data built
+2025-02-15T00:24:58.254Z - info: Pages rebuilt
+2025-02-15T00:24:58.255Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:25:04.294Z - info: [8:25:04 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:05.307Z - info: Rebuilding 1 pages
+2025-02-15T00:25:05.338Z - info: Site data built
+2025-02-15T00:25:05.338Z - info: Pages rebuilt
+2025-02-15T00:25:05.338Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:25:08.100Z - info: [8:25:08 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:09.104Z - info: Rebuilding 1 pages
+2025-02-15T00:25:09.134Z - info: Site data built
+2025-02-15T00:25:09.134Z - info: Pages rebuilt
+2025-02-15T00:25:09.134Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:25:14.342Z - info: [8:25:14 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:15.352Z - info: Rebuilding 1 pages
+2025-02-15T00:25:15.390Z - info: Site data built
+2025-02-15T00:25:15.391Z - info: Pages rebuilt
+2025-02-15T00:25:15.391Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:25:17.736Z - info: [8:25:17 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:18.768Z - info: Rebuilding 1 pages
+2025-02-15T00:25:18.812Z - info: Site data built
+2025-02-15T00:25:18.812Z - info: Pages rebuilt
+2025-02-15T00:25:18.813Z - info: Website regeneration complete! Total build time: 0.061s
+2025-02-15T00:25:24.853Z - info: [8:25:24 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:25.854Z - info: Rebuilding 1 pages
+2025-02-15T00:25:25.889Z - info: Site data built
+2025-02-15T00:25:25.889Z - info: Pages rebuilt
+2025-02-15T00:25:25.889Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:25:30.638Z - info: [8:25:30 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:31.669Z - info: Rebuilding 1 pages
+2025-02-15T00:25:31.734Z - info: Site data built
+2025-02-15T00:25:31.734Z - info: Pages rebuilt
+2025-02-15T00:25:31.734Z - info: Website regeneration complete! Total build time: 0.082s
+2025-02-15T00:25:39.848Z - info: [8:25:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:40.853Z - info: Rebuilding 1 pages
+2025-02-15T00:25:40.894Z - info: Site data built
+2025-02-15T00:25:40.894Z - info: Pages rebuilt
+2025-02-15T00:25:40.894Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:25:51.439Z - info: [8:25:51 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:52.444Z - info: Rebuilding 1 pages
+2025-02-15T00:25:52.484Z - info: Site data built
+2025-02-15T00:25:52.485Z - info: Pages rebuilt
+2025-02-15T00:25:52.485Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:25:58.173Z - info: [8:25:58 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:25:59.184Z - info: Rebuilding 1 pages
+2025-02-15T00:25:59.221Z - info: Site data built
+2025-02-15T00:25:59.221Z - info: Pages rebuilt
+2025-02-15T00:25:59.222Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:26:09.025Z - info: [8:26:09 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:26:10.032Z - info: Rebuilding 1 pages
+2025-02-15T00:26:10.073Z - info: Site data built
+2025-02-15T00:26:10.073Z - info: Pages rebuilt
+2025-02-15T00:26:10.073Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:26:17.110Z - info: [8:26:17 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:26:18.116Z - info: Rebuilding 1 pages
+2025-02-15T00:26:18.152Z - info: Site data built
+2025-02-15T00:26:18.152Z - info: Pages rebuilt
+2025-02-15T00:26:18.152Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:26:26.187Z - info: [8:26:26 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:26:27.193Z - info: Rebuilding 1 pages
+2025-02-15T00:26:27.230Z - info: Site data built
+2025-02-15T00:26:27.230Z - info: Pages rebuilt
+2025-02-15T00:26:27.231Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:27:07.958Z - info: [8:27:07 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:27:08.972Z - info: Rebuilding 1 pages
+2025-02-15T00:27:09.008Z - info: Site data built
+2025-02-15T00:27:09.008Z - info: Pages rebuilt
+2025-02-15T00:27:09.008Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:27:13.691Z - info: [8:27:13 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:27:14.692Z - info: Rebuilding 1 pages
+2025-02-15T00:27:14.740Z - info: Site data built
+2025-02-15T00:27:14.740Z - info: Pages rebuilt
+2025-02-15T00:27:14.740Z - info: Website regeneration complete! Total build time: 0.048s
+2025-02-15T00:27:22.874Z - info: [8:27:22 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:27:23.887Z - info: Rebuilding 1 pages
+2025-02-15T00:27:23.921Z - info: Site data built
+2025-02-15T00:27:23.922Z - info: Pages rebuilt
+2025-02-15T00:27:23.922Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:27:24.625Z - info: [8:27:24 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:27:25.638Z - info: Rebuilding 1 pages
+2025-02-15T00:27:25.674Z - info: Site data built
+2025-02-15T00:27:25.674Z - info: Pages rebuilt
+2025-02-15T00:27:25.675Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:27:27.599Z - info: [8:27:27 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:27:28.607Z - info: Rebuilding 1 pages
+2025-02-15T00:27:28.638Z - info: Site data built
+2025-02-15T00:27:28.638Z - info: Pages rebuilt
+2025-02-15T00:27:28.638Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:27:39.260Z - info: [8:27:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:27:40.272Z - info: Rebuilding 1 pages
+2025-02-15T00:27:40.309Z - info: Site data built
+2025-02-15T00:27:40.309Z - info: Pages rebuilt
+2025-02-15T00:27:40.309Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:27:45.005Z - info: [8:27:45 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:27:46.007Z - info: Rebuilding 1 pages
+2025-02-15T00:27:46.043Z - info: Site data built
+2025-02-15T00:27:46.043Z - info: Pages rebuilt
+2025-02-15T00:27:46.043Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:27:56.473Z - info: [8:27:56 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:27:57.486Z - info: Rebuilding 1 pages
+2025-02-15T00:27:57.526Z - info: Site data built
+2025-02-15T00:27:57.526Z - info: Pages rebuilt
+2025-02-15T00:27:57.526Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:28:00.724Z - info: [8:28:00 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:01.752Z - info: Rebuilding 1 pages
+2025-02-15T00:28:01.786Z - info: Site data built
+2025-02-15T00:28:01.786Z - info: Pages rebuilt
+2025-02-15T00:28:01.787Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:28:03.351Z - info: [8:28:03 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:04.354Z - info: Rebuilding 1 pages
+2025-02-15T00:28:04.388Z - info: Site data built
+2025-02-15T00:28:04.388Z - info: Pages rebuilt
+2025-02-15T00:28:04.389Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:28:12.460Z - info: [8:28:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:13.467Z - info: Rebuilding 1 pages
+2025-02-15T00:28:13.501Z - info: Site data built
+2025-02-15T00:28:13.501Z - info: Pages rebuilt
+2025-02-15T00:28:13.501Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:28:15.589Z - info: [8:28:15 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:16.600Z - info: Rebuilding 1 pages
+2025-02-15T00:28:16.628Z - info: Site data built
+2025-02-15T00:28:16.628Z - info: Pages rebuilt
+2025-02-15T00:28:16.628Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-15T00:28:20.434Z - info: [8:28:20 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:21.450Z - info: Rebuilding 1 pages
+2025-02-15T00:28:21.479Z - info: Site data built
+2025-02-15T00:28:21.479Z - info: Pages rebuilt
+2025-02-15T00:28:21.479Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:28:27.789Z - info: [8:28:27 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:28.796Z - info: Rebuilding 1 pages
+2025-02-15T00:28:28.833Z - info: Site data built
+2025-02-15T00:28:28.833Z - info: Pages rebuilt
+2025-02-15T00:28:28.833Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:28:35.401Z - info: [8:28:35 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:36.411Z - info: Rebuilding 1 pages
+2025-02-15T00:28:36.441Z - info: Site data built
+2025-02-15T00:28:36.441Z - info: Pages rebuilt
+2025-02-15T00:28:36.441Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:28:39.413Z - info: [8:28:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:40.427Z - info: Rebuilding 1 pages
+2025-02-15T00:28:40.456Z - info: Site data built
+2025-02-15T00:28:40.456Z - info: Pages rebuilt
+2025-02-15T00:28:40.456Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:28:42.746Z - info: [8:28:42 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:43.763Z - info: Rebuilding 1 pages
+2025-02-15T00:28:43.793Z - info: Site data built
+2025-02-15T00:28:43.793Z - info: Pages rebuilt
+2025-02-15T00:28:43.793Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:28:48.295Z - info: [8:28:48 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:49.310Z - info: Rebuilding 1 pages
+2025-02-15T00:28:49.339Z - info: Site data built
+2025-02-15T00:28:49.339Z - info: Pages rebuilt
+2025-02-15T00:28:49.339Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:28:50.376Z - info: [8:28:50 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:51.393Z - info: Rebuilding 1 pages
+2025-02-15T00:28:51.397Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 7, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:28:51.423Z - info: Site data built
+2025-02-15T00:28:51.423Z - info: Pages rebuilt
+2025-02-15T00:28:51.423Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:28:52.565Z - info: [8:28:52 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:53.576Z - info: Rebuilding 1 pages
+2025-02-15T00:28:53.614Z - info: Site data built
+2025-02-15T00:28:53.615Z - info: Pages rebuilt
+2025-02-15T00:28:53.615Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:28:58.718Z - info: [8:28:58 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:28:59.724Z - info: Rebuilding 1 pages
+2025-02-15T00:28:59.729Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 7, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:28:59.754Z - info: Site data built
+2025-02-15T00:28:59.754Z - info: Pages rebuilt
+2025-02-15T00:28:59.754Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:29:05.019Z - info: [8:29:05 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:29:06.021Z - info: Rebuilding 1 pages
+2025-02-15T00:29:06.059Z - info: Site data built
+2025-02-15T00:29:06.059Z - info: Pages rebuilt
+2025-02-15T00:29:06.059Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:29:11.957Z - info: [8:29:11 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:29:12.972Z - info: Rebuilding 1 pages
+2025-02-15T00:29:13.020Z - info: Site data built
+2025-02-15T00:29:13.020Z - info: Pages rebuilt
+2025-02-15T00:29:13.020Z - info: Website regeneration complete! Total build time: 0.049s
+2025-02-15T00:29:16.010Z - info: [8:29:16 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:29:17.023Z - info: Rebuilding 1 pages
+2025-02-15T00:29:17.053Z - info: Site data built
+2025-02-15T00:29:17.053Z - info: Pages rebuilt
+2025-02-15T00:29:17.053Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:29:20.748Z - info: [8:29:20 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:29:21.756Z - info: Rebuilding 1 pages
+2025-02-15T00:29:21.787Z - info: Site data built
+2025-02-15T00:29:21.787Z - info: Pages rebuilt
+2025-02-15T00:29:21.787Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:29:23.042Z - info: [8:29:23 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:29:24.057Z - info: Rebuilding 1 pages
+2025-02-15T00:29:24.086Z - info: Site data built
+2025-02-15T00:29:24.086Z - info: Pages rebuilt
+2025-02-15T00:29:24.087Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:29:30.050Z - info: [8:29:30 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:29:31.055Z - info: Rebuilding 1 pages
+2025-02-15T00:29:31.084Z - info: Site data built
+2025-02-15T00:29:31.084Z - info: Pages rebuilt
+2025-02-15T00:29:31.084Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:29:35.021Z - info: [8:29:35 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:29:36.037Z - info: Rebuilding 1 pages
+2025-02-15T00:29:36.076Z - info: Site data built
+2025-02-15T00:29:36.076Z - info: Pages rebuilt
+2025-02-15T00:29:36.076Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:29:41.909Z - info: [8:29:41 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:29:42.920Z - info: Rebuilding 1 pages
+2025-02-15T00:29:42.947Z - info: Site data built
+2025-02-15T00:29:42.947Z - info: Pages rebuilt
+2025-02-15T00:29:42.947Z - info: Website regeneration complete! Total build time: 0.028s
+2025-02-15T00:30:32.874Z - info: [8:30:32 am] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 152072.crdownload
+2025-02-15T00:30:32.982Z - info: [8:30:32 am] Reload for file change: E:\cyx-portfolio\contents\assets\docker.svg
+2025-02-15T00:30:33.089Z - info: [8:30:33 am] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 152072.crdownload
+2025-02-15T00:30:33.091Z - info: [8:30:33 am] Reload for file change: E:\cyx-portfolio\contents\assets\docker.svg
+2025-02-15T00:30:33.880Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 152072.crdownload'
+2025-02-15T00:30:33.880Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 152072.crdownload'
+2025-02-15T00:30:33.881Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 152072.crdownload'
+2025-02-15T00:30:34.105Z - debug: Assets removed
+2025-02-15T00:30:39.355Z - info: [8:30:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:30:40.365Z - info: Rebuilding 1 pages
+2025-02-15T00:30:40.404Z - info: Site data built
+2025-02-15T00:30:40.405Z - info: Pages rebuilt
+2025-02-15T00:30:40.405Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:31:00.527Z - info: Website generation started at 8:31:00 am
+2025-02-15T00:31:00.648Z - info: Building assets...
+2025-02-15T00:31:00.760Z - info: Assets built
+2025-02-15T00:31:00.761Z - info: Generating pages...
+2025-02-15T00:31:00.862Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:31:00.863Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:31:00.864Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:31:00.864Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:31:00.865Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:31:00.866Z - info: Pages built
+2025-02-15T00:31:00.975Z - info: Site data built
+2025-02-15T00:31:00.976Z - info: Website generation complete! Total build time: 0.499s
+2025-02-15T00:31:00.993Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:31:00.993Z - info: Press CTRL+C to stop ...
+2025-02-15T00:31:22.271Z - info: [8:31:22 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:31:23.278Z - info: Rebuilding 1 pages
+2025-02-15T00:31:23.336Z - info: Site data built
+2025-02-15T00:31:23.336Z - info: Pages rebuilt
+2025-02-15T00:31:23.336Z - info: Website regeneration complete! Total build time: 0.058s
+2025-02-15T00:32:06.787Z - info: [8:32:06 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:32:07.794Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:32:07.794Z - info: Rebuilding 1 pages
+2025-02-15T00:32:07.832Z - info: Site data built
+2025-02-15T00:32:07.832Z - info: Pages rebuilt
+2025-02-15T00:32:07.832Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-15T00:32:23.821Z - info: [8:32:23 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:32:24.837Z - info: Rebuilding 1 pages
+2025-02-15T00:32:24.881Z - info: Site data built
+2025-02-15T00:32:24.881Z - info: Pages rebuilt
+2025-02-15T00:32:24.881Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-15T00:32:35.197Z - info: [8:32:35 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:32:36.201Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:32:36.202Z - info: Rebuilding 1 pages
+2025-02-15T00:32:36.250Z - info: Site data built
+2025-02-15T00:32:36.250Z - info: Pages rebuilt
+2025-02-15T00:32:36.250Z - info: Website regeneration complete! Total build time: 0.052s
+2025-02-15T00:32:46.390Z - info: [8:32:46 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:32:47.398Z - info: Rebuilding 1 pages
+2025-02-15T00:32:47.439Z - info: Site data built
+2025-02-15T00:32:47.439Z - info: Pages rebuilt
+2025-02-15T00:32:47.439Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:32:51.248Z - info: [8:32:51 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:32:52.264Z - info: Rebuilding 1 pages
+2025-02-15T00:32:52.268Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 8, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:32:52.297Z - info: Site data built
+2025-02-15T00:32:52.298Z - info: Pages rebuilt
+2025-02-15T00:32:52.298Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:32:55.335Z - info: [8:32:55 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:32:56.347Z - info: Rebuilding 1 pages
+2025-02-15T00:32:56.385Z - info: Site data built
+2025-02-15T00:32:56.385Z - info: Pages rebuilt
+2025-02-15T00:32:56.385Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:33:03.052Z - info: [8:33:03 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:33:04.065Z - info: Rebuilding 1 pages
+2025-02-15T00:33:04.104Z - info: Site data built
+2025-02-15T00:33:04.104Z - info: Pages rebuilt
+2025-02-15T00:33:04.104Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:34:18.131Z - info: Website generation started at 8:34:18 am
+2025-02-15T00:34:18.233Z - info: Building assets...
+2025-02-15T00:34:18.322Z - info: Assets built
+2025-02-15T00:34:18.323Z - info: Generating pages...
+2025-02-15T00:34:18.422Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:34:18.422Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:34:18.423Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:34:18.423Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:34:18.424Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:34:18.425Z - info: Pages built
+2025-02-15T00:34:18.540Z - info: Site data built
+2025-02-15T00:34:18.540Z - info: Website generation complete! Total build time: 0.458s
+2025-02-15T00:34:18.563Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:34:18.563Z - info: Press CTRL+C to stop ...
+2025-02-15T00:37:25.388Z - info: [8:37:25 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:37:26.397Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:37:26.398Z - info: Rebuilding 1 pages
+2025-02-15T00:37:26.454Z - info: Site data built
+2025-02-15T00:37:26.454Z - info: Pages rebuilt
+2025-02-15T00:37:26.454Z - info: Website regeneration complete! Total build time: 0.062s
+2025-02-15T00:37:43.604Z - info: [8:37:43 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:37:44.618Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:37:44.618Z - info: Rebuilding 1 pages
+2025-02-15T00:37:44.663Z - info: Site data built
+2025-02-15T00:37:44.663Z - info: Pages rebuilt
+2025-02-15T00:37:44.663Z - info: Website regeneration complete! Total build time: 0.051s
+2025-02-15T00:38:06.644Z - info: [8:38:06 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:38:07.662Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:38:07.662Z - info: Rebuilding 1 pages
+2025-02-15T00:38:07.705Z - info: Site data built
+2025-02-15T00:38:07.706Z - info: Pages rebuilt
+2025-02-15T00:38:07.706Z - info: Website regeneration complete! Total build time: 0.049s
+2025-02-15T00:38:08.429Z - info: [8:38:08 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:38:09.460Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:38:09.460Z - info: Rebuilding 1 pages
+2025-02-15T00:38:09.504Z - info: Site data built
+2025-02-15T00:38:09.504Z - info: Pages rebuilt
+2025-02-15T00:38:09.504Z - info: Website regeneration complete! Total build time: 0.047s
+2025-02-15T00:38:21.709Z - info: [8:38:21 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:38:22.724Z - info: Rebuilding 1 pages
+2025-02-15T00:38:22.765Z - info: Site data built
+2025-02-15T00:38:22.765Z - info: Pages rebuilt
+2025-02-15T00:38:22.765Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:38:29.483Z - info: [8:38:29 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:38:30.491Z - info: Rebuilding 1 pages
+2025-02-15T00:38:30.529Z - info: Site data built
+2025-02-15T00:38:30.529Z - info: Pages rebuilt
+2025-02-15T00:38:30.530Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:38:39.950Z - info: [8:38:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:38:40.954Z - info: Rebuilding 1 pages
+2025-02-15T00:38:40.988Z - info: Site data built
+2025-02-15T00:38:40.988Z - info: Pages rebuilt
+2025-02-15T00:38:40.989Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:39:56.015Z - info: [8:39:56 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:39:57.018Z - info: Rebuilding 1 pages
+2025-02-15T00:39:57.057Z - info: Site data built
+2025-02-15T00:39:57.058Z - info: Pages rebuilt
+2025-02-15T00:39:57.058Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:39:59.103Z - info: [8:39:59 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:00.106Z - info: Rebuilding 1 pages
+2025-02-15T00:40:00.143Z - info: Site data built
+2025-02-15T00:40:00.144Z - info: Pages rebuilt
+2025-02-15T00:40:00.144Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:40:07.303Z - info: [8:40:07 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:08.317Z - info: Rebuilding 1 pages
+2025-02-15T00:40:08.358Z - info: Site data built
+2025-02-15T00:40:08.358Z - info: Pages rebuilt
+2025-02-15T00:40:08.359Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:40:10.695Z - info: [8:40:10 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:11.697Z - info: Rebuilding 1 pages
+2025-02-15T00:40:11.727Z - info: Site data built
+2025-02-15T00:40:11.727Z - info: Pages rebuilt
+2025-02-15T00:40:11.727Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:40:17.468Z - info: [8:40:17 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:18.480Z - info: Rebuilding 1 pages
+2025-02-15T00:40:18.516Z - info: Site data built
+2025-02-15T00:40:18.516Z - info: Pages rebuilt
+2025-02-15T00:40:18.516Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:40:18.749Z - info: [8:40:18 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:19.764Z - info: Rebuilding 1 pages
+2025-02-15T00:40:19.804Z - info: Site data built
+2025-02-15T00:40:19.804Z - info: Pages rebuilt
+2025-02-15T00:40:19.804Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:40:22.554Z - info: [8:40:22 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:23.564Z - info: Rebuilding 1 pages
+2025-02-15T00:40:23.598Z - info: Site data built
+2025-02-15T00:40:23.598Z - info: Pages rebuilt
+2025-02-15T00:40:23.598Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:40:26.779Z - info: [8:40:26 am] Reload for file deletion: E:\cyx-portfolio\contents\assets\github.svg
+2025-02-15T00:40:27.796Z - debug: Assets removed
+2025-02-15T00:40:32.572Z - info: [8:40:32 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:33.575Z - info: Rebuilding 1 pages
+2025-02-15T00:40:33.606Z - info: Site data built
+2025-02-15T00:40:33.606Z - info: Pages rebuilt
+2025-02-15T00:40:33.606Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:40:39.747Z - info: [8:40:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:40.775Z - info: Rebuilding 1 pages
+2025-02-15T00:40:40.807Z - info: Site data built
+2025-02-15T00:40:40.808Z - info: Pages rebuilt
+2025-02-15T00:40:40.808Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:40:42.118Z - info: [8:40:42 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:43.123Z - info: Rebuilding 1 pages
+2025-02-15T00:40:43.156Z - info: Site data built
+2025-02-15T00:40:43.156Z - info: Pages rebuilt
+2025-02-15T00:40:43.156Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:40:46.078Z - info: [8:40:46 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:47.079Z - info: Rebuilding 1 pages
+2025-02-15T00:40:47.105Z - info: Site data built
+2025-02-15T00:40:47.105Z - info: Pages rebuilt
+2025-02-15T00:40:47.105Z - info: Website regeneration complete! Total build time: 0.026s
+2025-02-15T00:40:54.198Z - info: [8:40:54 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:40:55.208Z - info: Rebuilding 1 pages
+2025-02-15T00:40:55.243Z - info: Site data built
+2025-02-15T00:40:55.243Z - info: Pages rebuilt
+2025-02-15T00:40:55.243Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:41:01.151Z - info: [8:41:01 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:41:02.155Z - info: Rebuilding 1 pages
+2025-02-15T00:41:02.188Z - info: Site data built
+2025-02-15T00:41:02.188Z - info: Pages rebuilt
+2025-02-15T00:41:02.188Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:41:10.439Z - info: [8:41:10 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:41:11.452Z - info: Rebuilding 1 pages
+2025-02-15T00:41:11.488Z - info: Site data built
+2025-02-15T00:41:11.488Z - info: Pages rebuilt
+2025-02-15T00:41:11.489Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:41:11.653Z - info: [8:41:11 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:41:12.654Z - info: Rebuilding 1 pages
+2025-02-15T00:41:12.691Z - info: Site data built
+2025-02-15T00:41:12.691Z - info: Pages rebuilt
+2025-02-15T00:41:12.692Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:41:13.408Z - info: [8:41:13 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:41:14.421Z - info: Rebuilding 1 pages
+2025-02-15T00:41:14.450Z - info: Site data built
+2025-02-15T00:41:14.450Z - info: Pages rebuilt
+2025-02-15T00:41:14.450Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:42:00.018Z - info: [8:42:00 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:42:01.033Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:42:01.033Z - info: Rebuilding 1 pages
+2025-02-15T00:42:01.069Z - info: Site data built
+2025-02-15T00:42:01.069Z - info: Pages rebuilt
+2025-02-15T00:42:01.069Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:42:09.887Z - info: [8:42:09 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:42:10.905Z - info: Rebuilding 1 pages
+2025-02-15T00:42:10.938Z - info: Site data built
+2025-02-15T00:42:10.938Z - info: Pages rebuilt
+2025-02-15T00:42:10.938Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:42:12.788Z - info: [8:42:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:42:13.797Z - info: Rebuilding 1 pages
+2025-02-15T00:42:13.829Z - info: Site data built
+2025-02-15T00:42:13.830Z - info: Pages rebuilt
+2025-02-15T00:42:13.830Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:42:14.703Z - info: [8:42:14 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:42:15.714Z - info: Rebuilding 1 pages
+2025-02-15T00:42:15.744Z - info: Site data built
+2025-02-15T00:42:15.744Z - info: Pages rebuilt
+2025-02-15T00:42:15.745Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:42:18.738Z - info: [8:42:18 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:42:19.745Z - info: Rebuilding 1 pages
+2025-02-15T00:42:19.782Z - info: Site data built
+2025-02-15T00:42:19.782Z - info: Pages rebuilt
+2025-02-15T00:42:19.783Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:42:20.985Z - info: [8:42:20 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:42:21.995Z - info: Rebuilding 1 pages
+2025-02-15T00:42:22.023Z - info: Site data built
+2025-02-15T00:42:22.024Z - info: Pages rebuilt
+2025-02-15T00:42:22.024Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:42:24.515Z - info: [8:42:24 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:42:25.542Z - info: Rebuilding 1 pages
+2025-02-15T00:42:25.570Z - info: Site data built
+2025-02-15T00:42:25.570Z - info: Pages rebuilt
+2025-02-15T00:42:25.570Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:43:16.425Z - info: [8:43:16 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:43:17.431Z - info: Rebuilding 1 pages
+2025-02-15T00:43:17.473Z - info: Site data built
+2025-02-15T00:43:17.473Z - info: Pages rebuilt
+2025-02-15T00:43:17.473Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:43:25.937Z - info: [8:43:25 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:43:26.951Z - info: Rebuilding 1 pages
+2025-02-15T00:43:26.986Z - info: Site data built
+2025-02-15T00:43:26.986Z - info: Pages rebuilt
+2025-02-15T00:43:26.986Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:44:20.032Z - info: [8:44:20 am] Reload for file add: E:\cyx-portfolio\contents\assets\postgresql.png
+2025-02-15T00:44:20.131Z - info: [8:44:20 am] Reload for file deletion: E:\cyx-portfolio\contents\assets\postgresql.svg
+2025-02-15T00:44:21.056Z - info: Assets built
+2025-02-15T00:44:21.147Z - debug: Assets removed
+2025-02-15T00:44:26.585Z - info: [8:44:26 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:44:27.598Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:44:27.599Z - info: Rebuilding 1 pages
+2025-02-15T00:44:27.627Z - info: Site data built
+2025-02-15T00:44:27.627Z - info: Pages rebuilt
+2025-02-15T00:44:27.628Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:44:38.614Z - info: [8:44:38 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:44:39.623Z - info: Rebuilding 1 pages
+2025-02-15T00:44:39.652Z - info: Site data built
+2025-02-15T00:44:39.652Z - info: Pages rebuilt
+2025-02-15T00:44:39.652Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:45:02.311Z - info: Website generation started at 8:45:02 am
+2025-02-15T00:45:02.408Z - info: Building assets...
+2025-02-15T00:45:02.496Z - info: Assets built
+2025-02-15T00:45:02.497Z - info: Generating pages...
+2025-02-15T00:45:02.591Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:45:02.592Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:45:02.592Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:45:02.592Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:45:02.592Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:45:02.593Z - info: Pages built
+2025-02-15T00:45:02.697Z - info: Site data built
+2025-02-15T00:45:02.697Z - info: Website generation complete! Total build time: 0.431s
+2025-02-15T00:45:02.715Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:45:02.715Z - info: Press CTRL+C to stop ...
+2025-02-15T00:45:21.068Z - info: [8:45:21 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:45:22.076Z - info: Rebuilding 1 pages
+2025-02-15T00:45:22.131Z - info: Site data built
+2025-02-15T00:45:22.131Z - info: Pages rebuilt
+2025-02-15T00:45:22.131Z - info: Website regeneration complete! Total build time: 0.056s
+2025-02-15T00:45:53.374Z - info: [8:45:53 am] Reload for file add: E:\cyx-portfolio\contents\assets\postgresql.svg
+2025-02-15T00:45:53.486Z - info: [8:45:53 am] Reload for file deletion: E:\cyx-portfolio\contents\assets\postgresql.png
+2025-02-15T00:45:54.398Z - info: Assets built
+2025-02-15T00:45:54.495Z - debug: Assets removed
+2025-02-15T00:46:01.161Z - info: [8:46:01 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:46:02.172Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:46:02.173Z - info: Rebuilding 1 pages
+2025-02-15T00:46:02.216Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/CYX-portfolio/contents/assets/postgresql.sbg' found in file 'E:\cyx-portfolio\contents\skills.md'
+2025-02-15T00:46:02.222Z - info: Site data built
+2025-02-15T00:46:02.222Z - info: Pages rebuilt
+2025-02-15T00:46:02.222Z - info: Website regeneration complete! Total build time: 0.054s
+2025-02-15T00:46:02.857Z - info: [8:46:02 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:46:03.871Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:46:03.871Z - info: Rebuilding 1 pages
+2025-02-15T00:46:03.920Z - info: Site data built
+2025-02-15T00:46:03.920Z - info: Pages rebuilt
+2025-02-15T00:46:03.921Z - info: Website regeneration complete! Total build time: 0.053s
+2025-02-15T00:46:12.042Z - info: [8:46:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:46:13.052Z - info: Rebuilding 1 pages
+2025-02-15T00:46:13.101Z - info: Site data built
+2025-02-15T00:46:13.101Z - info: Pages rebuilt
+2025-02-15T00:46:13.101Z - info: Website regeneration complete! Total build time: 0.05s
+2025-02-15T00:46:16.293Z - info: [8:46:16 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:46:17.301Z - info: Rebuilding 1 pages
+2025-02-15T00:46:17.339Z - info: Site data built
+2025-02-15T00:46:17.339Z - info: Pages rebuilt
+2025-02-15T00:46:17.339Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:47:01.156Z - info: [8:47:01 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:47:02.171Z - info: Rebuilding 1 pages
+2025-02-15T00:47:02.215Z - info: Site data built
+2025-02-15T00:47:02.215Z - info: Pages rebuilt
+2025-02-15T00:47:02.216Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-15T00:47:07.089Z - info: [8:47:07 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:47:08.095Z - info: Rebuilding 1 pages
+2025-02-15T00:47:08.131Z - info: Site data built
+2025-02-15T00:47:08.131Z - info: Pages rebuilt
+2025-02-15T00:47:08.131Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:47:12.295Z - info: [8:47:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:47:13.320Z - info: Rebuilding 1 pages
+2025-02-15T00:47:13.367Z - info: Site data built
+2025-02-15T00:47:13.367Z - info: Pages rebuilt
+2025-02-15T00:47:13.367Z - info: Website regeneration complete! Total build time: 0.047s
+2025-02-15T00:47:13.515Z - info: [8:47:13 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:47:14.526Z - info: Rebuilding 1 pages
+2025-02-15T00:47:14.574Z - info: Site data built
+2025-02-15T00:47:14.575Z - info: Pages rebuilt
+2025-02-15T00:47:14.575Z - info: Website regeneration complete! Total build time: 0.049s
+2025-02-15T00:47:24.693Z - info: [8:47:24 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:47:25.703Z - info: Rebuilding 1 pages
+2025-02-15T00:47:25.741Z - info: Site data built
+2025-02-15T00:47:25.741Z - info: Pages rebuilt
+2025-02-15T00:47:25.741Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:47:33.325Z - info: [8:47:33 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:47:34.339Z - info: Rebuilding 1 pages
+2025-02-15T00:47:34.387Z - info: Site data built
+2025-02-15T00:47:34.388Z - info: Pages rebuilt
+2025-02-15T00:47:34.388Z - info: Website regeneration complete! Total build time: 0.05s
+2025-02-15T00:47:53.671Z - info: [8:47:53 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:47:54.688Z - info: Rebuilding 1 pages
+2025-02-15T00:47:54.721Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/CYX-portfolio/contents/assets/github.svg' found in file 'E:\cyx-portfolio\contents\skills.md'
+2025-02-15T00:47:54.725Z - info: Site data built
+2025-02-15T00:47:54.725Z - info: Pages rebuilt
+2025-02-15T00:47:54.725Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:48:03.172Z - info: [8:48:03 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:48:04.180Z - info: Rebuilding 1 pages
+2025-02-15T00:48:04.218Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/CYX-portfolio/contents/assets/github.svg' found in file 'E:\cyx-portfolio\contents\skills.md'
+2025-02-15T00:48:04.223Z - info: Site data built
+2025-02-15T00:48:04.224Z - info: Pages rebuilt
+2025-02-15T00:48:04.224Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-15T00:48:08.634Z - info: [8:48:08 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:48:09.648Z - info: Rebuilding 1 pages
+2025-02-15T00:48:09.688Z - info: Site data built
+2025-02-15T00:48:09.688Z - info: Pages rebuilt
+2025-02-15T00:48:09.688Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:48:13.989Z - info: [8:48:13 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:48:15.003Z - info: Rebuilding 1 pages
+2025-02-15T00:48:15.037Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/CYX-portfolio/contents/assets/github.svg' found in file 'E:\cyx-portfolio\contents\skills.md'
+2025-02-15T00:48:15.041Z - info: Site data built
+2025-02-15T00:48:15.042Z - info: Pages rebuilt
+2025-02-15T00:48:15.042Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:48:18.580Z - info: [8:48:18 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:48:19.585Z - info: Rebuilding 1 pages
+2025-02-15T00:48:19.614Z - info: Site data built
+2025-02-15T00:48:19.615Z - info: Pages rebuilt
+2025-02-15T00:48:19.615Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:49:37.427Z - info: [8:49:37 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:49:38.449Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:49:38.454Z - info: Rebuilding 1 pages
+2025-02-15T00:49:38.497Z - info: Site data built
+2025-02-15T00:49:38.497Z - info: Pages rebuilt
+2025-02-15T00:49:38.498Z - info: Website regeneration complete! Total build time: 0.059s
+2025-02-15T00:49:44.144Z - info: [8:49:44 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:49:45.151Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:49:45.152Z - info: Rebuilding 1 pages
+2025-02-15T00:49:45.203Z - info: Site data built
+2025-02-15T00:49:45.203Z - info: Pages rebuilt
+2025-02-15T00:49:45.204Z - info: Website regeneration complete! Total build time: 0.055s
+2025-02-15T00:49:46.415Z - info: [8:49:46 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:49:47.443Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:49:47.444Z - info: Rebuilding 1 pages
+2025-02-15T00:49:47.477Z - info: Site data built
+2025-02-15T00:49:47.477Z - info: Pages rebuilt
+2025-02-15T00:49:47.477Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:49:53.005Z - info: [8:49:53 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:49:54.021Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:49:54.022Z - info: Rebuilding 1 pages
+2025-02-15T00:49:54.061Z - info: Site data built
+2025-02-15T00:49:54.061Z - info: Pages rebuilt
+2025-02-15T00:49:54.061Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:49:56.407Z - info: [8:49:56 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:49:57.410Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:49:57.410Z - info: Rebuilding 1 pages
+2025-02-15T00:49:57.443Z - info: Site data built
+2025-02-15T00:49:57.443Z - info: Pages rebuilt
+2025-02-15T00:49:57.443Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:49:59.070Z - info: [8:49:59 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T00:50:00.075Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T00:50:00.075Z - info: Rebuilding 1 pages
+2025-02-15T00:50:00.103Z - info: Site data built
+2025-02-15T00:50:00.103Z - info: Pages rebuilt
+2025-02-15T00:50:00.103Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:50:05.662Z - info: [8:50:05 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:50:06.666Z - info: Rebuilding 1 pages
+2025-02-15T00:50:06.699Z - info: Site data built
+2025-02-15T00:50:06.699Z - info: Pages rebuilt
+2025-02-15T00:50:06.700Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:50:14.147Z - info: [8:50:14 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:50:15.153Z - info: Rebuilding 1 pages
+2025-02-15T00:50:15.195Z - info: Site data built
+2025-02-15T00:50:15.195Z - info: Pages rebuilt
+2025-02-15T00:50:15.195Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-15T00:50:16.559Z - info: [8:50:16 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:50:17.560Z - info: Rebuilding 1 pages
+2025-02-15T00:50:17.564Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 6, Column 4]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:50:17.589Z - info: Site data built
+2025-02-15T00:50:17.590Z - info: Pages rebuilt
+2025-02-15T00:50:17.590Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:50:18.659Z - info: [8:50:18 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:50:19.670Z - info: Rebuilding 1 pages
+2025-02-15T00:50:19.699Z - info: Site data built
+2025-02-15T00:50:19.700Z - info: Pages rebuilt
+2025-02-15T00:50:19.700Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:50:24.380Z - info: [8:50:24 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:50:25.384Z - info: Rebuilding 1 pages
+2025-02-15T00:50:25.422Z - info: Site data built
+2025-02-15T00:50:25.422Z - info: Pages rebuilt
+2025-02-15T00:50:25.422Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:50:30.691Z - info: Website generation started at 8:50:30 am
+2025-02-15T00:50:30.789Z - info: Building assets...
+2025-02-15T00:50:30.873Z - info: Assets built
+2025-02-15T00:50:30.873Z - info: Generating pages...
+2025-02-15T00:50:30.974Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:50:30.974Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:50:30.975Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:50:30.975Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:50:30.976Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:50:30.976Z - info: Pages built
+2025-02-15T00:50:31.084Z - info: Site data built
+2025-02-15T00:50:31.084Z - info: Website generation complete! Total build time: 0.441s
+2025-02-15T00:50:31.101Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:50:31.102Z - info: Press CTRL+C to stop ...
+2025-02-15T00:53:27.016Z - info: Website generation started at 8:53:26 am
+2025-02-15T00:53:27.115Z - info: Building assets...
+2025-02-15T00:53:27.205Z - info: Assets built
+2025-02-15T00:53:27.206Z - info: Generating pages...
+2025-02-15T00:53:27.303Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:53:27.304Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:53:27.304Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:53:27.304Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:53:27.305Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:53:27.306Z - info: Pages built
+2025-02-15T00:53:27.410Z - info: Site data built
+2025-02-15T00:53:27.411Z - info: Website generation complete! Total build time: 0.442s
+2025-02-15T00:53:27.428Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:53:27.428Z - info: Press CTRL+C to stop ...
+2025-02-15T00:53:41.266Z - info: [8:53:41 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:53:42.270Z - info: Rebuilding 1 pages
+2025-02-15T00:53:42.325Z - info: Site data built
+2025-02-15T00:53:42.325Z - info: Pages rebuilt
+2025-02-15T00:53:42.325Z - info: Website regeneration complete! Total build time: 0.056s
+2025-02-15T00:53:48.658Z - info: [8:53:48 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:53:49.666Z - info: Rebuilding 1 pages
+2025-02-15T00:53:49.706Z - info: Site data built
+2025-02-15T00:53:49.707Z - info: Pages rebuilt
+2025-02-15T00:53:49.707Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:53:55.758Z - info: [8:53:55 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:53:56.772Z - info: Rebuilding 1 pages
+2025-02-15T00:53:56.812Z - info: Site data built
+2025-02-15T00:53:56.812Z - info: Pages rebuilt
+2025-02-15T00:53:56.812Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:54:00.374Z - info: [8:54:00 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:01.379Z - info: Rebuilding 1 pages
+2025-02-15T00:54:01.420Z - info: Site data built
+2025-02-15T00:54:01.420Z - info: Pages rebuilt
+2025-02-15T00:54:01.420Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:54:02.982Z - info: [8:54:02 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:03.997Z - info: Rebuilding 1 pages
+2025-02-15T00:54:04.031Z - info: Site data built
+2025-02-15T00:54:04.031Z - info: Pages rebuilt
+2025-02-15T00:54:04.032Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:54:05.935Z - info: [8:54:05 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:06.947Z - info: Rebuilding 1 pages
+2025-02-15T00:54:06.966Z - error:  Error: Unsupported File Extension: '.svg'
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:396:31
+    at Promise._execute (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at NodeProcessor.process (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:361:16)
+    at External.<anonymous> (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\External\External.js:72:57)
+    at Generator.next (<anonymous>)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\External\External.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\External\External.js:27:12)
+    at External.resolveDependency (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\External\External.js:65:16)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\External\ExternalManager.js:77:75
+    at Array.forEach (<anonymous>)
+    at ExternalManager.<anonymous> (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\External\ExternalManager.js:68:51)
+    at Generator.next (<anonymous>)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\External\ExternalManager.js:31:71
+2025-02-15T00:54:06.967Z - warn:  Error: Error while generating E:\cyx-portfolio\index.md
+    at Site.<anonymous> (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:971:28)
+    at Generator.throw (<anonymous>)
+    at rejected (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:29:65)
+2025-02-15T00:54:09.710Z - info: [8:54:09 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:10.716Z - info: Rebuilding 1 pages
+2025-02-15T00:54:10.750Z - info: Site data built
+2025-02-15T00:54:10.751Z - info: Pages rebuilt
+2025-02-15T00:54:10.751Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:54:12.123Z - info: [8:54:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:13.128Z - info: Rebuilding 1 pages
+2025-02-15T00:54:13.176Z - info: Site data built
+2025-02-15T00:54:13.176Z - info: Pages rebuilt
+2025-02-15T00:54:13.176Z - info: Website regeneration complete! Total build time: 0.048s
+2025-02-15T00:54:16.005Z - info: [8:54:16 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:17.011Z - info: Rebuilding 1 pages
+2025-02-15T00:54:17.045Z - info: Site data built
+2025-02-15T00:54:17.046Z - info: Pages rebuilt
+2025-02-15T00:54:17.046Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:54:34.564Z - info: [8:54:34 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:35.570Z - info: Rebuilding 1 pages
+2025-02-15T00:54:35.591Z - info: [8:54:35 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:35.609Z - info: Site data built
+2025-02-15T00:54:35.609Z - info: Pages rebuilt
+2025-02-15T00:54:35.609Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:54:36.602Z - info: Rebuilding 1 pages
+2025-02-15T00:54:36.635Z - info: Site data built
+2025-02-15T00:54:36.635Z - info: Pages rebuilt
+2025-02-15T00:54:36.635Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:54:39.380Z - info: [8:54:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:40.402Z - info: Rebuilding 1 pages
+2025-02-15T00:54:40.430Z - info: Site data built
+2025-02-15T00:54:40.430Z - info: Pages rebuilt
+2025-02-15T00:54:40.430Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:54:46.194Z - info: [8:54:46 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:47.200Z - info: Rebuilding 1 pages
+2025-02-15T00:54:47.204Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 16, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:54:47.232Z - info: Site data built
+2025-02-15T00:54:47.232Z - info: Pages rebuilt
+2025-02-15T00:54:47.232Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T00:54:47.873Z - info: [8:54:47 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:48.886Z - info: Rebuilding 1 pages
+2025-02-15T00:54:48.930Z - info: Site data built
+2025-02-15T00:54:48.931Z - info: Pages rebuilt
+2025-02-15T00:54:48.931Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:54:53.392Z - info: [8:54:53 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:54.401Z - info: Rebuilding 1 pages
+2025-02-15T00:54:54.439Z - info: Site data built
+2025-02-15T00:54:54.440Z - info: Pages rebuilt
+2025-02-15T00:54:54.440Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:54:57.332Z - info: [8:54:57 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:54:58.333Z - info: Rebuilding 1 pages
+2025-02-15T00:54:58.361Z - info: Site data built
+2025-02-15T00:54:58.361Z - info: Pages rebuilt
+2025-02-15T00:54:58.361Z - info: Website regeneration complete! Total build time: 0.029s
+2025-02-15T00:55:05.509Z - info: [8:55:05 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:06.519Z - info: Rebuilding 1 pages
+2025-02-15T00:55:06.553Z - info: Site data built
+2025-02-15T00:55:06.554Z - info: Pages rebuilt
+2025-02-15T00:55:06.554Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:55:11.471Z - info: [8:55:11 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:12.488Z - info: Rebuilding 1 pages
+2025-02-15T00:55:12.522Z - info: Site data built
+2025-02-15T00:55:12.522Z - info: Pages rebuilt
+2025-02-15T00:55:12.522Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:55:15.632Z - info: Website generation started at 8:55:15 am
+2025-02-15T00:55:15.729Z - info: Building assets...
+2025-02-15T00:55:15.813Z - info: Assets built
+2025-02-15T00:55:15.814Z - info: Generating pages...
+2025-02-15T00:55:15.907Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:55:15.907Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:55:15.907Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:55:15.908Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:55:15.908Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:55:15.909Z - info: Pages built
+2025-02-15T00:55:16.011Z - info: Site data built
+2025-02-15T00:55:16.011Z - info: Website generation complete! Total build time: 0.424s
+2025-02-15T00:55:16.028Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:55:16.029Z - info: Press CTRL+C to stop ...
+2025-02-15T00:55:31.004Z - info: [8:55:31 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:32.014Z - info: Rebuilding 1 pages
+2025-02-15T00:55:32.074Z - info: Site data built
+2025-02-15T00:55:32.074Z - info: Pages rebuilt
+2025-02-15T00:55:32.074Z - info: Website regeneration complete! Total build time: 0.062s
+2025-02-15T00:55:33.036Z - info: [8:55:33 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:34.048Z - info: Rebuilding 1 pages
+2025-02-15T00:55:34.084Z - info: Site data built
+2025-02-15T00:55:34.084Z - info: Pages rebuilt
+2025-02-15T00:55:34.084Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:55:37.019Z - info: [8:55:37 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:38.029Z - info: Rebuilding 1 pages
+2025-02-15T00:55:38.064Z - info: Site data built
+2025-02-15T00:55:38.064Z - info: Pages rebuilt
+2025-02-15T00:55:38.064Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T00:55:38.651Z - info: [8:55:38 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:39.661Z - info: Rebuilding 1 pages
+2025-02-15T00:55:39.706Z - info: Site data built
+2025-02-15T00:55:39.706Z - info: Pages rebuilt
+2025-02-15T00:55:39.706Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T00:55:40.414Z - info: [8:55:40 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:41.428Z - info: Rebuilding 1 pages
+2025-02-15T00:55:41.459Z - info: Site data built
+2025-02-15T00:55:41.459Z - info: Pages rebuilt
+2025-02-15T00:55:41.459Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:55:47.090Z - info: [8:55:47 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:48.092Z - info: Rebuilding 1 pages
+2025-02-15T00:55:48.128Z - info: Site data built
+2025-02-15T00:55:48.128Z - info: Pages rebuilt
+2025-02-15T00:55:48.128Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:55:56.561Z - info: [8:55:56 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:55:57.577Z - info: Rebuilding 1 pages
+2025-02-15T00:55:57.614Z - info: Site data built
+2025-02-15T00:55:57.614Z - info: Pages rebuilt
+2025-02-15T00:55:57.614Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:56:04.978Z - info: [8:56:04 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:06.010Z - info: Rebuilding 1 pages
+2025-02-15T00:56:06.049Z - info: Site data built
+2025-02-15T00:56:06.049Z - info: Pages rebuilt
+2025-02-15T00:56:06.049Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:56:08.916Z - info: [8:56:08 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:09.927Z - info: Rebuilding 1 pages
+2025-02-15T00:56:09.964Z - info: Site data built
+2025-02-15T00:56:09.964Z - info: Pages rebuilt
+2025-02-15T00:56:09.964Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:56:11.408Z - info: [8:56:11 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:12.424Z - info: Rebuilding 1 pages
+2025-02-15T00:56:12.462Z - info: Site data built
+2025-02-15T00:56:12.462Z - info: Pages rebuilt
+2025-02-15T00:56:12.462Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:56:16.706Z - info: [8:56:16 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:17.724Z - info: Rebuilding 1 pages
+2025-02-15T00:56:17.767Z - info: Site data built
+2025-02-15T00:56:17.767Z - info: Pages rebuilt
+2025-02-15T00:56:17.767Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-15T00:56:19.640Z - info: [8:56:19 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:20.657Z - info: Rebuilding 1 pages
+2025-02-15T00:56:20.693Z - info: Site data built
+2025-02-15T00:56:20.693Z - info: Pages rebuilt
+2025-02-15T00:56:20.693Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:56:28.915Z - info: [8:56:28 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:29.924Z - info: Rebuilding 1 pages
+2025-02-15T00:56:29.964Z - info: Site data built
+2025-02-15T00:56:29.964Z - info: Pages rebuilt
+2025-02-15T00:56:29.964Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:56:30.826Z - info: [8:56:30 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:31.841Z - info: Rebuilding 1 pages
+2025-02-15T00:56:31.877Z - info: Site data built
+2025-02-15T00:56:31.877Z - info: Pages rebuilt
+2025-02-15T00:56:31.877Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:56:39.071Z - info: [8:56:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:40.072Z - info: Rebuilding 1 pages
+2025-02-15T00:56:40.107Z - info: Site data built
+2025-02-15T00:56:40.107Z - info: Pages rebuilt
+2025-02-15T00:56:40.108Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:56:41.095Z - info: [8:56:41 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:42.105Z - info: Rebuilding 1 pages
+2025-02-15T00:56:42.148Z - info: Site data built
+2025-02-15T00:56:42.148Z - info: Pages rebuilt
+2025-02-15T00:56:42.148Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-15T00:56:42.327Z - info: [8:56:42 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:43.338Z - info: Rebuilding 1 pages
+2025-02-15T00:56:43.376Z - info: Site data built
+2025-02-15T00:56:43.377Z - info: Pages rebuilt
+2025-02-15T00:56:43.377Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:56:46.030Z - info: [8:56:46 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:47.038Z - info: Rebuilding 1 pages
+2025-02-15T00:56:47.076Z - info: Site data built
+2025-02-15T00:56:47.076Z - info: Pages rebuilt
+2025-02-15T00:56:47.076Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:56:58.231Z - info: [8:56:58 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:56:59.254Z - info: Rebuilding 1 pages
+2025-02-15T00:56:59.291Z - info: Site data built
+2025-02-15T00:56:59.291Z - info: Pages rebuilt
+2025-02-15T00:56:59.292Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:57:07.360Z - info: [8:57:07 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:08.369Z - info: Rebuilding 1 pages
+2025-02-15T00:57:08.407Z - info: Site data built
+2025-02-15T00:57:08.407Z - info: Pages rebuilt
+2025-02-15T00:57:08.407Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:57:14.133Z - info: [8:57:14 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:15.136Z - info: Rebuilding 1 pages
+2025-02-15T00:57:15.166Z - info: Site data built
+2025-02-15T00:57:15.166Z - info: Pages rebuilt
+2025-02-15T00:57:15.167Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T00:57:18.055Z - info: [8:57:18 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:19.055Z - info: Rebuilding 1 pages
+2025-02-15T00:57:19.094Z - info: Site data built
+2025-02-15T00:57:19.094Z - info: Pages rebuilt
+2025-02-15T00:57:19.094Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T00:57:24.071Z - info: [8:57:24 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:25.086Z - info: Rebuilding 1 pages
+2025-02-15T00:57:25.119Z - info: Site data built
+2025-02-15T00:57:25.119Z - info: Pages rebuilt
+2025-02-15T00:57:25.119Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:57:30.907Z - info: [8:57:30 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:31.918Z - info: Rebuilding 1 pages
+2025-02-15T00:57:31.953Z - info: Site data built
+2025-02-15T00:57:31.954Z - info: Pages rebuilt
+2025-02-15T00:57:31.954Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T00:57:41.960Z - info: [8:57:41 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:42.970Z - info: Rebuilding 1 pages
+2025-02-15T00:57:43.010Z - info: Site data built
+2025-02-15T00:57:43.011Z - info: Pages rebuilt
+2025-02-15T00:57:43.011Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:57:46.206Z - info: [8:57:46 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:47.215Z - info: Rebuilding 1 pages
+2025-02-15T00:57:47.219Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 18, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T00:57:47.243Z - info: Site data built
+2025-02-15T00:57:47.244Z - info: Pages rebuilt
+2025-02-15T00:57:47.244Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T00:57:49.459Z - info: [8:57:49 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:50.463Z - info: Rebuilding 1 pages
+2025-02-15T00:57:50.497Z - info: Site data built
+2025-02-15T00:57:50.497Z - info: Pages rebuilt
+2025-02-15T00:57:50.497Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:57:58.155Z - info: [8:57:58 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:57:59.182Z - info: Rebuilding 1 pages
+2025-02-15T00:57:59.226Z - info: Site data built
+2025-02-15T00:57:59.227Z - info: Pages rebuilt
+2025-02-15T00:57:59.227Z - info: Website regeneration complete! Total build time: 0.047s
+2025-02-15T00:58:03.210Z - info: [8:58:03 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:58:04.214Z - info: Rebuilding 1 pages
+2025-02-15T00:58:04.248Z - info: Site data built
+2025-02-15T00:58:04.248Z - info: Pages rebuilt
+2025-02-15T00:58:04.249Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T00:58:12.420Z - info: [8:58:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:58:13.431Z - info: Rebuilding 1 pages
+2025-02-15T00:58:13.472Z - info: Site data built
+2025-02-15T00:58:13.472Z - info: Pages rebuilt
+2025-02-15T00:58:13.472Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T00:58:19.488Z - info: [8:58:19 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:58:20.497Z - info: Rebuilding 1 pages
+2025-02-15T00:58:20.535Z - info: Site data built
+2025-02-15T00:58:20.535Z - info: Pages rebuilt
+2025-02-15T00:58:20.535Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T00:58:30.045Z - info: [8:58:30 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:58:31.061Z - info: Rebuilding 1 pages
+2025-02-15T00:58:31.117Z - info: Site data built
+2025-02-15T00:58:31.117Z - info: Pages rebuilt
+2025-02-15T00:58:31.117Z - info: Website regeneration complete! Total build time: 0.057s
+2025-02-15T00:58:32.498Z - info: [8:58:32 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:58:33.511Z - info: Rebuilding 1 pages
+2025-02-15T00:58:33.550Z - info: Site data built
+2025-02-15T00:58:33.550Z - info: Pages rebuilt
+2025-02-15T00:58:33.550Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T00:58:57.444Z - info: Website generation started at 8:58:57 am
+2025-02-15T00:58:57.543Z - info: Building assets...
+2025-02-15T00:58:57.639Z - info: Assets built
+2025-02-15T00:58:57.639Z - info: Generating pages...
+2025-02-15T00:58:57.735Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:58:57.735Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:58:57.735Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:58:57.735Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:58:57.736Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T00:58:57.736Z - info: Pages built
+2025-02-15T00:58:57.839Z - info: Site data built
+2025-02-15T00:58:57.840Z - info: Website generation complete! Total build time: 0.441s
+2025-02-15T00:58:57.857Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T00:58:57.857Z - info: Press CTRL+C to stop ...
+2025-02-15T00:59:16.830Z - info: [8:59:16 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:59:17.837Z - info: Rebuilding 1 pages
+2025-02-15T00:59:17.895Z - info: Site data built
+2025-02-15T00:59:17.895Z - info: Pages rebuilt
+2025-02-15T00:59:17.896Z - info: Website regeneration complete! Total build time: 0.058s
+2025-02-15T00:59:23.846Z - info: [8:59:23 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:59:24.853Z - info: Rebuilding 1 pages
+2025-02-15T00:59:24.893Z - info: Site data built
+2025-02-15T00:59:24.893Z - info: Pages rebuilt
+2025-02-15T00:59:24.893Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T00:59:31.790Z - info: [8:59:31 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:59:32.801Z - info: Rebuilding 1 pages
+2025-02-15T00:59:32.842Z - info: Site data built
+2025-02-15T00:59:32.842Z - info: Pages rebuilt
+2025-02-15T00:59:32.843Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T00:59:47.724Z - info: [8:59:47 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:59:48.732Z - info: Rebuilding 1 pages
+2025-02-15T00:59:48.784Z - info: Site data built
+2025-02-15T00:59:48.784Z - info: Pages rebuilt
+2025-02-15T00:59:48.784Z - info: Website regeneration complete! Total build time: 0.052s
+2025-02-15T00:59:52.174Z - info: [8:59:52 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:59:53.182Z - info: Rebuilding 1 pages
+2025-02-15T00:59:53.225Z - info: Site data built
+2025-02-15T00:59:53.225Z - info: Pages rebuilt
+2025-02-15T00:59:53.225Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-15T00:59:54.716Z - info: [8:59:54 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:59:55.748Z - info: Rebuilding 1 pages
+2025-02-15T00:59:55.779Z - info: Site data built
+2025-02-15T00:59:55.779Z - info: Pages rebuilt
+2025-02-15T00:59:55.779Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T00:59:56.023Z - info: [8:59:56 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:59:57.032Z - info: Rebuilding 1 pages
+2025-02-15T00:59:57.066Z - info: Site data built
+2025-02-15T00:59:57.066Z - info: Pages rebuilt
+2025-02-15T00:59:57.067Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T00:59:57.904Z - info: [8:59:57 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T00:59:58.917Z - info: Rebuilding 1 pages
+2025-02-15T00:59:58.960Z - info: Site data built
+2025-02-15T00:59:58.960Z - info: Pages rebuilt
+2025-02-15T00:59:58.960Z - info: Website regeneration complete! Total build time: 0.044s
+2025-02-15T01:00:03.703Z - info: [9:00:03 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:04.716Z - info: Rebuilding 1 pages
+2025-02-15T01:00:04.756Z - info: Site data built
+2025-02-15T01:00:04.756Z - info: Pages rebuilt
+2025-02-15T01:00:04.756Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T01:00:06.560Z - info: [9:00:06 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:07.566Z - info: Rebuilding 1 pages
+2025-02-15T01:00:07.599Z - info: Site data built
+2025-02-15T01:00:07.600Z - info: Pages rebuilt
+2025-02-15T01:00:07.600Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T01:00:11.490Z - info: [9:00:11 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:12.498Z - info: Rebuilding 1 pages
+2025-02-15T01:00:12.529Z - info: Site data built
+2025-02-15T01:00:12.529Z - info: Pages rebuilt
+2025-02-15T01:00:12.529Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T01:00:13.810Z - info: [9:00:13 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:14.815Z - info: Rebuilding 1 pages
+2025-02-15T01:00:14.853Z - info: Site data built
+2025-02-15T01:00:14.853Z - info: Pages rebuilt
+2025-02-15T01:00:14.853Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T01:00:15.711Z - info: [9:00:15 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:16.717Z - info: Rebuilding 1 pages
+2025-02-15T01:00:16.747Z - info: Site data built
+2025-02-15T01:00:16.747Z - info: Pages rebuilt
+2025-02-15T01:00:16.747Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T01:00:21.993Z - info: [9:00:21 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:23.014Z - info: Rebuilding 1 pages
+2025-02-15T01:00:23.049Z - info: Site data built
+2025-02-15T01:00:23.049Z - info: Pages rebuilt
+2025-02-15T01:00:23.050Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T01:00:25.806Z - info: [9:00:25 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:26.830Z - info: Rebuilding 1 pages
+2025-02-15T01:00:26.862Z - info: Site data built
+2025-02-15T01:00:26.862Z - info: Pages rebuilt
+2025-02-15T01:00:26.862Z - info: Website regeneration complete! Total build time: 0.033s
+2025-02-15T01:00:29.235Z - info: [9:00:29 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:30.246Z - info: Rebuilding 1 pages
+2025-02-15T01:00:30.275Z - info: Site data built
+2025-02-15T01:00:30.275Z - info: Pages rebuilt
+2025-02-15T01:00:30.275Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T01:00:33.456Z - info: [9:00:33 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:34.458Z - info: Rebuilding 1 pages
+2025-02-15T01:00:34.497Z - info: Site data built
+2025-02-15T01:00:34.497Z - info: Pages rebuilt
+2025-02-15T01:00:34.497Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T01:00:35.434Z - info: [9:00:35 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:36.448Z - info: Rebuilding 1 pages
+2025-02-15T01:00:36.495Z - info: Site data built
+2025-02-15T01:00:36.495Z - info: Pages rebuilt
+2025-02-15T01:00:36.496Z - info: Website regeneration complete! Total build time: 0.049s
+2025-02-15T01:00:47.460Z - info: [9:00:47 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:48.463Z - info: Rebuilding 1 pages
+2025-02-15T01:00:48.498Z - info: Site data built
+2025-02-15T01:00:48.498Z - info: Pages rebuilt
+2025-02-15T01:00:48.498Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T01:00:53.948Z - info: [9:00:53 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:00:54.960Z - info: Rebuilding 1 pages
+2025-02-15T01:00:54.994Z - info: Site data built
+2025-02-15T01:00:54.994Z - info: Pages rebuilt
+2025-02-15T01:00:54.994Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T01:01:00.001Z - info: [9:01:00 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:01:01.004Z - info: Rebuilding 1 pages
+2025-02-15T01:01:01.057Z - info: Site data built
+2025-02-15T01:01:01.057Z - info: Pages rebuilt
+2025-02-15T01:01:01.058Z - info: Website regeneration complete! Total build time: 0.054s
+2025-02-15T01:02:40.927Z - info: Website generation started at 9:02:40 am
+2025-02-15T01:02:41.025Z - info: Building assets...
+2025-02-15T01:02:41.110Z - info: Assets built
+2025-02-15T01:02:41.110Z - info: Generating pages...
+2025-02-15T01:02:41.209Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:02:41.209Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:02:41.209Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:02:41.210Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:02:41.210Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:02:41.211Z - info: Pages built
+2025-02-15T01:02:41.318Z - info: Site data built
+2025-02-15T01:02:41.318Z - info: Website generation complete! Total build time: 0.436s
+2025-02-15T01:02:41.336Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T01:02:41.337Z - info: Press CTRL+C to stop ...
+2025-02-15T01:02:58.299Z - info: [9:02:58 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:02:59.311Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:02:59.312Z - info: Rebuilding 1 pages
+2025-02-15T01:02:59.374Z - info: Site data built
+2025-02-15T01:02:59.374Z - info: Pages rebuilt
+2025-02-15T01:02:59.374Z - info: Website regeneration complete! Total build time: 0.068s
+2025-02-15T01:03:02.580Z - info: [9:03:02 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:03.589Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:03.592Z - info: Rebuilding 1 pages
+2025-02-15T01:03:03.631Z - info: Site data built
+2025-02-15T01:03:03.632Z - info: Pages rebuilt
+2025-02-15T01:03:03.632Z - info: Website regeneration complete! Total build time: 0.046s
+2025-02-15T01:03:05.934Z - info: [9:03:05 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:06.940Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:06.940Z - info: Rebuilding 1 pages
+2025-02-15T01:03:06.989Z - info: Site data built
+2025-02-15T01:03:06.990Z - info: Pages rebuilt
+2025-02-15T01:03:06.990Z - info: Website regeneration complete! Total build time: 0.054s
+2025-02-15T01:03:07.100Z - info: [9:03:07 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:08.104Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:08.105Z - info: Rebuilding 1 pages
+2025-02-15T01:03:08.143Z - info: Site data built
+2025-02-15T01:03:08.143Z - info: Pages rebuilt
+2025-02-15T01:03:08.143Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T01:03:12.447Z - info: [9:03:12 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:13.455Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:13.455Z - info: Rebuilding 1 pages
+2025-02-15T01:03:13.491Z - info: Site data built
+2025-02-15T01:03:13.491Z - info: Pages rebuilt
+2025-02-15T01:03:13.491Z - info: Website regeneration complete! Total build time: 0.039s
+2025-02-15T01:03:16.201Z - info: [9:03:16 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:17.219Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:17.220Z - info: Rebuilding 1 pages
+2025-02-15T01:03:17.257Z - info: Site data built
+2025-02-15T01:03:17.258Z - info: Pages rebuilt
+2025-02-15T01:03:17.258Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T01:03:20.300Z - info: [9:03:20 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:21.335Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:21.335Z - info: Rebuilding 1 pages
+2025-02-15T01:03:21.380Z - info: Site data built
+2025-02-15T01:03:21.380Z - info: Pages rebuilt
+2025-02-15T01:03:21.380Z - info: Website regeneration complete! Total build time: 0.061s
+2025-02-15T01:03:21.558Z - info: [9:03:21 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:22.569Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:22.570Z - info: Rebuilding 1 pages
+2025-02-15T01:03:22.604Z - info: Site data built
+2025-02-15T01:03:22.604Z - info: Pages rebuilt
+2025-02-15T01:03:22.604Z - info: Website regeneration complete! Total build time: 0.037s
+2025-02-15T01:03:23.444Z - info: [9:03:23 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:24.453Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:24.454Z - info: Rebuilding 1 pages
+2025-02-15T01:03:24.491Z - info: Site data built
+2025-02-15T01:03:24.491Z - info: Pages rebuilt
+2025-02-15T01:03:24.491Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T01:03:25.220Z - info: [9:03:25 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:26.223Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:26.224Z - info: Rebuilding 1 pages
+2025-02-15T01:03:26.255Z - info: Site data built
+2025-02-15T01:03:26.255Z - info: Pages rebuilt
+2025-02-15T01:03:26.255Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T01:03:27.221Z - info: [9:03:27 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:28.235Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:28.236Z - info: Rebuilding 1 pages
+2025-02-15T01:03:28.269Z - info: Site data built
+2025-02-15T01:03:28.269Z - info: Pages rebuilt
+2025-02-15T01:03:28.269Z - info: Website regeneration complete! Total build time: 0.035s
+2025-02-15T01:03:29.001Z - info: [9:03:29 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:30.019Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:30.020Z - info: Rebuilding 1 pages
+2025-02-15T01:03:30.048Z - info: Site data built
+2025-02-15T01:03:30.048Z - info: Pages rebuilt
+2025-02-15T01:03:30.048Z - info: Website regeneration complete! Total build time: 0.031s
+2025-02-15T01:03:31.071Z - info: [9:03:31 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:32.084Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:32.084Z - info: Rebuilding 1 pages
+2025-02-15T01:03:32.123Z - info: Site data built
+2025-02-15T01:03:32.123Z - info: Pages rebuilt
+2025-02-15T01:03:32.123Z - info: Website regeneration complete! Total build time: 0.041s
+2025-02-15T01:03:32.638Z - info: [9:03:32 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:33.649Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:33.650Z - info: Rebuilding 1 pages
+2025-02-15T01:03:33.689Z - info: Site data built
+2025-02-15T01:03:33.689Z - info: Pages rebuilt
+2025-02-15T01:03:33.689Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T01:03:34.604Z - info: [9:03:34 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:35.616Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:35.616Z - info: Rebuilding 1 pages
+2025-02-15T01:03:35.644Z - info: Site data built
+2025-02-15T01:03:35.644Z - info: Pages rebuilt
+2025-02-15T01:03:35.644Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T01:03:37.159Z - info: [9:03:37 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:38.176Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:38.176Z - info: Rebuilding 1 pages
+2025-02-15T01:03:38.207Z - info: Site data built
+2025-02-15T01:03:38.208Z - info: Pages rebuilt
+2025-02-15T01:03:38.208Z - info: Website regeneration complete! Total build time: 0.034s
+2025-02-15T01:03:38.518Z - info: [9:03:38 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:39.534Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:39.535Z - info: Rebuilding 1 pages
+2025-02-15T01:03:39.564Z - info: Site data built
+2025-02-15T01:03:39.564Z - info: Pages rebuilt
+2025-02-15T01:03:39.565Z - info: Website regeneration complete! Total build time: 0.032s
+2025-02-15T01:03:57.222Z - info: [9:03:57 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:03:58.229Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:03:58.229Z - info: Rebuilding 1 pages
+2025-02-15T01:03:58.257Z - info: Site data built
+2025-02-15T01:03:58.257Z - info: Pages rebuilt
+2025-02-15T01:03:58.257Z - info: Website regeneration complete! Total build time: 0.03s
+2025-02-15T01:04:04.795Z - info: [9:04:04 am] Reload for file change: E:\cyx-portfolio\_markbind\variables.md
+2025-02-15T01:04:05.806Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-02-15T01:04:05.807Z - info: Rebuilding 1 pages
+2025-02-15T01:04:05.846Z - info: Site data built
+2025-02-15T01:04:05.846Z - info: Pages rebuilt
+2025-02-15T01:04:05.846Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-15T01:04:25.338Z - info: [9:04:25 am] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 882920.crdownload
+2025-02-15T01:04:25.436Z - info: [9:04:25 am] Reload for file add: E:\cyx-portfolio\contents\assets\github.svg
+2025-02-15T01:04:25.543Z - info: [9:04:25 am] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 882920.crdownload
+2025-02-15T01:04:25.544Z - info: [9:04:25 am] Reload for file change: E:\cyx-portfolio\contents\assets\github.svg
+2025-02-15T01:04:26.353Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 882920.crdownload'
+2025-02-15T01:04:26.353Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 882920.crdownload'
+2025-02-15T01:04:26.353Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 882920.crdownload'
+2025-02-15T01:04:26.549Z - debug: Assets removed
+2025-02-15T01:04:34.175Z - info: [9:04:34 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:04:35.180Z - info: Rebuilding 1 pages
+2025-02-15T01:04:35.218Z - info: Site data built
+2025-02-15T01:04:35.218Z - info: Pages rebuilt
+2025-02-15T01:04:35.218Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T01:04:39.415Z - info: [9:04:39 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:04:40.416Z - info: Rebuilding 1 pages
+2025-02-15T01:04:40.453Z - info: Site data built
+2025-02-15T01:04:40.454Z - info: Pages rebuilt
+2025-02-15T01:04:40.454Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T01:04:41.767Z - info: [9:04:41 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:04:42.778Z - info: Rebuilding 1 pages
+2025-02-15T01:04:42.783Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 22, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T01:04:42.823Z - info: Site data built
+2025-02-15T01:04:42.823Z - info: Pages rebuilt
+2025-02-15T01:04:42.823Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-15T01:04:44.501Z - info: [9:04:44 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:04:45.514Z - info: Rebuilding 1 pages
+2025-02-15T01:04:45.549Z - info: Site data built
+2025-02-15T01:04:45.549Z - info: Pages rebuilt
+2025-02-15T01:04:45.550Z - info: Website regeneration complete! Total build time: 0.036s
+2025-02-15T01:04:48.734Z - info: [9:04:48 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:04:49.747Z - info: Rebuilding 1 pages
+2025-02-15T01:04:49.784Z - info: Site data built
+2025-02-15T01:04:49.784Z - info: Pages rebuilt
+2025-02-15T01:04:49.784Z - info: Website regeneration complete! Total build time: 0.038s
+2025-02-15T01:04:58.007Z - info: [9:04:58 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:04:59.014Z - info: Rebuilding 1 pages
+2025-02-15T01:04:59.064Z - info: Site data built
+2025-02-15T01:04:59.064Z - info: Pages rebuilt
+2025-02-15T01:04:59.064Z - info: Website regeneration complete! Total build time: 0.051s
+2025-02-15T01:05:09.457Z - info: [9:05:09 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:05:10.460Z - info: Rebuilding 1 pages
+2025-02-15T01:05:10.500Z - info: Site data built
+2025-02-15T01:05:10.500Z - info: Pages rebuilt
+2025-02-15T01:05:10.500Z - info: Website regeneration complete! Total build time: 0.04s
+2025-02-15T01:05:12.745Z - info: [9:05:12 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:05:13.747Z - info: Rebuilding 1 pages
+2025-02-15T01:05:13.788Z - info: Site data built
+2025-02-15T01:05:13.788Z - info: Pages rebuilt
+2025-02-15T01:05:13.788Z - info: Website regeneration complete! Total build time: 0.042s
+2025-02-15T01:07:10.954Z - info: [9:07:10 am] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 923423.crdownload
+2025-02-15T01:07:10.958Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 882920.crdownload'
+2025-02-15T01:07:11.035Z - info: [9:07:11 am] Reload for file change: E:\cyx-portfolio\contents\assets\scikit_learn.svg
+2025-02-15T01:07:11.038Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 882920.crdownload'
+2025-02-15T01:07:11.140Z - info: [9:07:11 am] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 923423.crdownload
+2025-02-15T01:07:11.146Z - info: [9:07:11 am] Reload for file change: E:\cyx-portfolio\contents\assets\scikit_learn.svg
+2025-02-15T01:07:11.147Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 882920.crdownload'
+2025-02-15T01:07:12.160Z - debug: Assets removed
+2025-02-15T01:07:20.903Z - info: [9:07:20 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:07:21.907Z - info: Rebuilding 1 pages
+2025-02-15T01:07:21.948Z - info: Site data built
+2025-02-15T01:07:21.949Z - info: Pages rebuilt
+2025-02-15T01:07:21.949Z - info: Website regeneration complete! Total build time: 0.043s
+2025-02-15T01:07:28.459Z - info: [9:07:28 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:07:29.462Z - info: Rebuilding 1 pages
+2025-02-15T01:07:29.467Z - error:  Template render error: (E:\cyx-portfolio\contents\skills.md) [Line 28, Column 5]
+  unexpected token: }}
+    at Object._prettifyError (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at Template.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (E:\programme files\nvm\v18.20.5\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+2025-02-15T01:07:29.507Z - info: Site data built
+2025-02-15T01:07:29.507Z - info: Pages rebuilt
+2025-02-15T01:07:29.507Z - info: Website regeneration complete! Total build time: 0.048s
+2025-02-15T01:07:33.347Z - info: [9:07:33 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:07:34.361Z - info: Rebuilding 1 pages
+2025-02-15T01:07:34.405Z - info: Site data built
+2025-02-15T01:07:34.405Z - info: Pages rebuilt
+2025-02-15T01:07:34.405Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-15T01:07:58.735Z - info: Website generation started at 9:07:58 am
+2025-02-15T01:07:58.848Z - info: Building assets...
+2025-02-15T01:07:58.948Z - info: Assets built
+2025-02-15T01:07:58.948Z - info: Generating pages...
+2025-02-15T01:07:59.051Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:07:59.051Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:07:59.051Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:07:59.051Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:07:59.052Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:07:59.052Z - info: Pages built
+2025-02-15T01:07:59.161Z - info: Site data built
+2025-02-15T01:07:59.161Z - info: Website generation complete! Total build time: 0.473s
+2025-02-15T01:07:59.179Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T01:07:59.179Z - info: Press CTRL+C to stop ...
+2025-02-15T01:08:20.465Z - info: [9:08:20 am] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 131231.crdownload
+2025-02-15T01:08:20.624Z - info: [9:08:20 am] Reload for file change: E:\cyx-portfolio\contents\assets\flask.svg
+2025-02-15T01:08:20.725Z - info: [9:08:20 am] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 131231.crdownload
+2025-02-15T01:08:20.726Z - info: [9:08:20 am] Reload for file change: E:\cyx-portfolio\contents\assets\flask.svg
+2025-02-15T01:08:21.474Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 131231.crdownload'
+2025-02-15T01:08:21.474Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 131231.crdownload'
+2025-02-15T01:08:21.475Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 131231.crdownload'
+2025-02-15T01:08:21.738Z - debug: Assets removed
+2025-02-15T01:10:07.560Z - info: Website generation started at 9:10:07 am
+2025-02-15T01:10:07.658Z - info: Building assets...
+2025-02-15T01:10:07.753Z - info: Assets built
+2025-02-15T01:10:07.754Z - info: Generating pages...
+2025-02-15T01:10:07.855Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:10:07.856Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:10:07.857Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:10:07.857Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:10:07.857Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:10:07.859Z - info: Pages built
+2025-02-15T01:10:07.973Z - info: Site data built
+2025-02-15T01:10:07.973Z - info: Website generation complete! Total build time: 0.466s
+2025-02-15T01:10:08.005Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T01:10:08.006Z - info: Press CTRL+C to stop ...
+2025-02-15T01:10:31.323Z - info: [9:10:31 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:10:32.334Z - info: Rebuilding 1 pages
+2025-02-15T01:10:32.398Z - info: Site data built
+2025-02-15T01:10:32.399Z - info: Pages rebuilt
+2025-02-15T01:10:32.399Z - info: Website regeneration complete! Total build time: 0.066s
+2025-02-15T01:10:36.695Z - info: [9:10:36 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:10:37.702Z - info: Rebuilding 1 pages
+2025-02-15T01:10:37.745Z - info: Site data built
+2025-02-15T01:10:37.745Z - info: Pages rebuilt
+2025-02-15T01:10:37.746Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-15T01:11:05.654Z - info: Website generation started at 9:11:05 am
+2025-02-15T01:11:05.753Z - info: Building assets...
+2025-02-15T01:11:05.846Z - info: Assets built
+2025-02-15T01:11:05.847Z - info: Generating pages...
+2025-02-15T01:11:05.950Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:11:05.950Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:11:05.951Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:11:05.951Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:11:05.952Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:11:05.953Z - info: Pages built
+2025-02-15T01:11:06.065Z - info: Site data built
+2025-02-15T01:11:06.065Z - info: Website generation complete! Total build time: 0.458s
+2025-02-15T01:11:06.081Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T01:11:06.082Z - info: Press CTRL+C to stop ...
+2025-02-15T01:12:15.114Z - info: [9:12:15 am] Reload for file add: E:\cyx-portfolio\contents\assets\未确认 909453.crdownload
+2025-02-15T01:12:15.231Z - info: [9:12:15 am] Reload for file add: E:\cyx-portfolio\contents\assets\git.svg
+2025-02-15T01:12:15.340Z - info: [9:12:15 am] Reload for file deletion: E:\cyx-portfolio\contents\assets\未确认 909453.crdownload
+2025-02-15T01:12:15.341Z - info: [9:12:15 am] Reload for file change: E:\cyx-portfolio\contents\assets\git.svg
+2025-02-15T01:12:16.126Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 909453.crdownload'
+2025-02-15T01:12:16.126Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 909453.crdownload'
+2025-02-15T01:12:16.126Z - error: ENOENT: no such file or directory, stat 'E:\cyx-portfolio\contents\assets\未确认 909453.crdownload'
+2025-02-15T01:12:16.360Z - debug: Assets removed
+2025-02-15T01:14:20.668Z - info: Website generation started at 9:14:20 am
+2025-02-15T01:14:20.765Z - info: Building assets...
+2025-02-15T01:14:20.859Z - info: Assets built
+2025-02-15T01:14:20.859Z - info: Generating pages...
+2025-02-15T01:14:20.965Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:14:20.965Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:14:20.966Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:14:20.966Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:14:20.967Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T01:14:20.968Z - info: Pages built
+2025-02-15T01:14:21.075Z - info: Site data built
+2025-02-15T01:14:21.075Z - info: Website generation complete! Total build time: 0.453s
+2025-02-15T01:14:21.092Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T01:14:21.092Z - info: Press CTRL+C to stop ...
+2025-02-15T01:14:36.485Z - info: [9:14:36 am] Reload for file change: E:\cyx-portfolio\contents\skills.md
+2025-02-15T01:14:37.497Z - info: Rebuilding 1 pages
+2025-02-15T01:14:37.562Z - info: Site data built
+2025-02-15T01:14:37.562Z - info: Pages rebuilt
+2025-02-15T01:14:37.562Z - info: Website regeneration complete! Total build time: 0.066s

@@ -1,11 +1,27 @@
 <variable name="name">Chen Yixun</variable>
-<variable name="javascript"><thumbnail src='../contents/assets/JavaScript.svg' size="50"/></variable>
-<variable name="typescript"><thumbnail src='../contents/assets/Typescript.svg' size="50"/></variable>
-<variable name="vue"><thumbnail src='../contents/assets/Vue.svg' size="50"/></variable>
-<variable name="java"><thumbnail src="../contents/assets/java-icon.svg" size="50"/></variable>
+<variable name="javascript"><thumbnail src='../contents/assets/JavaScript.svg' size="50" /></variable>
+<variable name="typescript"><thumbnail src='../contents/assets/Typescript.svg' size="50" /></variable>
+<variable name="vue"><thumbnail src='../contents/assets/Vue.svg' size="50" /></variable>
+<variable name="java"><thumbnail src="../contents/assets/java-icon.svg" size="50" /></variable>
 <variable name="python"><thumbnail src="../contents/assets/Python.svg" size="50" /></variable>
 <variable name="clang"><thumbnail src="../contents/assets/Clang.svg" size="50" /></variable>
 <variable name="react"><thumbnail src="../contents/assets/react.svg" size="50" /></variable>
 <variable name="numpy"><thumbnail src="../contents/assets/NumPy.svg" size="50" /></variable>
 <variable name="golang"><thumbnail src="../contents/assets/Golang.svg" size="50" /></variable>
-<variable name="gin"><thumbnail src="../contents/assets/Gin.svg" size="50"></variable>
+<variable name="gin"><thumbnail src="../contents/assets/Gin.svg" size="50" /></variable>
+<variable name="flask"><thumbnail src="../contents/assets/flask.svg" size="50" /></variable>
+<variable name="django"><thumbnail src="../contents/assets/django.svg" size="50" /></variable>
+<variable name="gradle"><thumbnail src="../contents/assets/gradle.svg" size="50" /></variable>
+<variable name="docker"><thumbnail src="../contents/assets/docker.svg" size="50" /></variable>
+<variable name="github"><thumbnail src="../contents/assets/github.svg" size="50" /></variable>
+<variable name="postgresql"><thumbnail src="../contents/assets/postgresql.svg" size="50" /></variable>
+<variable name="postman"><thumbnail src="../contents/assets/postman.svg" size="50" /></variable>
+<variable name="html"><thumbnail src="../contents/assets/html.svg" size="50" /></variable>
+<variable name="css"><thumbnail src="../contents/assets/css.svg" size="50" /></variable>
+<variable name="sqlite"><thumbnail src="../contents/assets/sqlite.svg" size="50" /></variable>
+<variable name="ocaml"><thumbnail src="../contents/assets/ocaml.svg" size="50" /></variable>
+<variable name="scikitlearn"><thumbnail src="../contents/assets/scikit_learn.svg" size="50" /></variable>
+<variable name="azure"><thumbnail src="../contents/assets/Azure.svg" size="50" /></variable>
+<variable name="bash"><thumbnail src="../contents/assets/Bash.svg" size="50" /></variable>
+<variable name="git"><thumbnail src="../contents/assets/git.svg" size="50" /></variable>
+<variable name="ubuntu"><thumbnail src="../contents/assets/ubuntu.svg" size="50" /></variable>
