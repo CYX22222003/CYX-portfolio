@@ -4296,3 +4296,49 @@
 2025-02-15T02:48:11.669Z - info: Website generation complete! Total build time: 0.546s
 2025-02-15T02:48:11.669Z - info: Build success!
 2025-02-15T02:48:18.340Z - info: The website has been deployed at: https://cyx22222003.github.io/CYX-portfolio
+2025-02-15T02:53:53.005Z - info: Website generation started at 10:53:52 am
+2025-02-15T02:53:53.157Z - info: Building assets...
+2025-02-15T02:53:53.287Z - info: Assets built
+2025-02-15T02:53:53.288Z - info: Generating pages...
+2025-02-15T02:53:53.397Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#skills' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T02:53:53.398Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#experience' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T02:53:53.398Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-1' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T02:53:53.399Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-2' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T02:53:53.399Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#project-3' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T02:53:53.400Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /CYX-portfolio/index.html#other-projects' found in file 'E:\cyx-portfolio\_markbind\layouts\default.md'
+2025-02-15T02:53:53.400Z - info: Pages built
+2025-02-15T02:53:53.510Z - info: Site data built
+2025-02-15T02:53:53.510Z - info: Website generation complete! Total build time: 0.554s
+2025-02-15T02:53:53.528Z - info: Serving "E:\cyx-portfolio\_site" at http://127.0.0.1:8080
+2025-02-15T02:53:53.528Z - info: Press CTRL+C to stop ...
+2025-02-15T02:54:07.686Z - info: [10:54:07 am] Reload for file change: E:\cyx-portfolio\contents\experience.md
+2025-02-15T02:54:08.699Z - info: Rebuilding 1 pages
+2025-02-15T02:54:08.743Z - info: Site data built
+2025-02-15T02:54:08.743Z - info: Pages rebuilt
+2025-02-15T02:54:08.743Z - info: Website regeneration complete! Total build time: 0.045s
+2025-02-15T02:54:19.212Z - info: [10:54:19 am] Reload for file change: E:\cyx-portfolio\contents\experience.md
+2025-02-15T02:54:20.227Z - info: Rebuilding 1 pages
+2025-02-15T02:54:20.287Z - info: Site data built
+2025-02-15T02:54:20.287Z - info: Pages rebuilt
+2025-02-15T02:54:20.287Z - info: Website regeneration complete! Total build time: 0.061s
+2025-02-15T02:54:21.477Z - info: [10:54:21 am] Reload for file change: E:\cyx-portfolio\contents\experience.md
+2025-02-15T02:54:22.486Z - info: Rebuilding 1 pages
+2025-02-15T02:54:22.536Z - info: Site data built
+2025-02-15T02:54:22.536Z - info: Pages rebuilt
+2025-02-15T02:54:22.536Z - info: Website regeneration complete! Total build time: 0.051s
+2025-02-15T02:54:24.385Z - info: [10:54:24 am] Reload for file change: E:\cyx-portfolio\contents\experience.md
+2025-02-15T02:54:25.393Z - info: Rebuilding 1 pages
+2025-02-15T02:54:25.440Z - info: Site data built
+2025-02-15T02:54:25.440Z - info: Pages rebuilt
+2025-02-15T02:54:25.440Z - info: Website regeneration complete! Total build time: 0.047s
+2025-02-15T02:55:07.905Z - info: [10:55:07 am] Reload for file change: E:\cyx-portfolio\contents\experience.md
+2025-02-15T02:55:08.920Z - info: Rebuilding 1 pages
+2025-02-15T02:55:08.973Z - info: Site data built
+2025-02-15T02:55:08.973Z - info: Pages rebuilt
+2025-02-15T02:55:08.973Z - info: Website regeneration complete! Total build time: 0.053s

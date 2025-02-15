@@ -41,8 +41,8 @@
     </h6>
     <p>
     <md>
-      * Developed the frontend with React and Phaser for the Source Academy teaching platform of course CS1101S Programming Methodology I, for one semester.  
-      * Collaborated with a partner to develop the SA Game of the Source Academy learning platform using Phaser and TypeScript, working on improving UI/UX and implementing a new quiz feature. 
+    * Developed the frontend with React and Phaser for the Source Academy teaching platform of course CS1101S Programming Methodology I, for one semester.  
+    * Collaborated with a partner to develop the SA Game of the Source Academy learning platform using Phaser and TypeScript, working on improving UI/UX and implementing a new quiz feature. 
     </md>
     </p>
   </div>
@@ -51,7 +51,7 @@
     <h4>Full-stack developer @ <md>[PersonAI](https://markbind.org/)</md></h4>
     <h6>May 2024 - Aug 2024</h6>
     <p><md>
-    * Utilized generative AI with Gemini API and OpenAI Whisper transformer to assist work of mental health practitioners
+    * Utilized generative AI with Gemini API and OpenAI Whisper transformer to assist work of mental health practitioners  
     * Developed a web application using React and Flask to provide services of session document summaries, meeting transcription and sentimental analysis about patients' conditions. 
     </md></p>
   </div>
