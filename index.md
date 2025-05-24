@@ -31,7 +31,7 @@
         </a>
       </span>
     </div>
-    <a class="btn btn-primary" href="./contents/assets/Resume_chen_yixun_2024.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+    <a class="btn btn-primary" href="./contents/assets/Resume_chen_yixun_2025.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
   </div>
 </div>
 
